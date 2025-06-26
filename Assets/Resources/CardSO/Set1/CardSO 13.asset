@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13a17ae75d7c75947bcedc5a42e5c588, type: 3}
-  m_Name: CardSO
+  m_Name: CardSO 13
   m_EditorClassIdentifier: 
-  cardId: cthulu_0
+  cardId: cthulu_13
   slotInBinderPos: 0
-  cardName: Chtulu
+  cardName: Chtulu13
   cardRarity: ultra_rare
   cardFlavourText: "Pippiripipp\xEC"
   cardPerDayIncome: 10000000
