@@ -10,10 +10,6 @@ public class CardDisplayer : MonoBehaviour
     [SerializeField] private Image cardFrame;
     [SerializeField] private Image cardP2;
     [SerializeField] private Image cardBg;
-    private Material cardP1Mat;
-    private Material cardFrameMat;
-    private Material cardP2Mat;
-    private Material cardBgMat;
     
     [SerializeField] private TextMeshProUGUI cardName;
 
@@ -21,13 +17,13 @@ public class CardDisplayer : MonoBehaviour
     {
         cardName.text = data.CardName;
 
-        TakeAddressables(data.CardP1Path, cardP1, cardP1Mat);
+        TakeAddressables(data.CardP1Path, cardP1, data.CardP1MatPath);
         TakeAddressables(data.CardFramePath, cardFrame);
-        TakeAddressables(data.CardP2Path, cardP2, cardP2Mat);
-        TakeAddressables(data.CardBgPath, cardBg);
+        TakeAddressables(data.CardP2Path, cardP2);
+        TakeAddressables(data.CardBgPath, cardBg, data.CardBgMatPath);
     }
 
-    private void TakeAddressables(string cardPiecePath, Image cardPieceImage, Material cardPieceMat = null)
+    private void TakeAddressables(string cardPiecePath, Image cardPieceImage, string cardPieceMatPath = null)
     {
         Addressables.LoadAssetAsync<Sprite>(cardPiecePath).Completed += handle =>
         {
@@ -35,18 +31,28 @@ public class CardDisplayer : MonoBehaviour
             {
                 cardPieceImage.sprite = handle.Result;
                 Debug.Log($"{cardPieceImage.name} from {cardPiecePath} is correctly loaded!");
-
-                if (cardPieceMat != null)
-                {
-                    cardPieceImage.material = cardPieceMat;
-                    Debug.Log($"{cardPieceImage.name} received material {cardPieceMat.name}");
-                }
-
             }
             else
             {
                 Debug.LogError($"{cardPieceImage.name} from {cardPiecePath} failed to load!");
             }
-        }; 
+        };
+
+        if (!string.IsNullOrEmpty(cardPieceMatPath))//Se la stringa non è vuota o null
+        {
+            Addressables.LoadAssetAsync<Material>(cardPieceMatPath).Completed += matHandle =>
+            {
+
+                if (matHandle.Status == AsyncOperationStatus.Succeeded)
+                {
+                    cardPieceImage.material = matHandle.Result;
+                    Debug.Log($"{cardPieceImage.name} material from {cardPieceMatPath} loaded.");
+                }
+                else
+                {
+                    Debug.LogError($"{cardPieceImage.name} material from {cardPieceMatPath} failed.");
+                }
+            };
+        }
     }
 }

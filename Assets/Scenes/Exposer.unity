@@ -514,7 +514,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cardPrefab: {fileID: 8753805554376374820, guid: cd58bbfac77e3c0468bee330fad0ad41, type: 3}
-  cardId: shoe_card
+  cardId: iron_card
 --- !u!1 &941869236
 GameObject:
   m_ObjectHideFlags: 0
