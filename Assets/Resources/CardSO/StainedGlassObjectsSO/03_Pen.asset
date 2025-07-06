@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a17ae75d7c75947bcedc5a42e5c588, type: 3}
+  m_Name: 03_Pen
+  m_EditorClassIdentifier: 
+  cardId: pen_card
+  slotInBinderPos: 3
+  cardName: Pen
+  cardRarity: common
+  cardFlavourText: "Pippiripipp\xEC"
+  cardPerDayIncome: 10000000
+  cardSellValue: 20000
+  cardP1: {fileID: 21300000, guid: cd7e2608ddd5b4849a3981b7f3d8d93e, type: 3}
+  cardFrame: {fileID: 21300000, guid: 0fc34892c7f592a4da1f3ddcfe802b7a, type: 3}
+  cardP2: {fileID: 21300000, guid: b64ccbe259aa76b4080bebf8103f473d, type: 3}
+  cardBg: {fileID: 21300000, guid: 98df99024856b2049998fda8d9140a53, type: 3}
+  cardP1Mat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardFrameMat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardP2Mat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardBgMat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}

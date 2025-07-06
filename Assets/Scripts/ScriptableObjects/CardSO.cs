@@ -41,6 +41,7 @@ public class CardSO : ScriptableObject
             CardSellValue = this.cardSellValue,
 
             //Card Visuals
+            //CardP1Path = cardP1 ? $"CardImages/{cardP1.name}" : "",
             CardP1Path = cardP1 ? cardP1.name : "",
             CardFramePath = cardFrame ? cardFrame.name : "",
             CardP2Path = cardP2 ? cardP2.name : "",

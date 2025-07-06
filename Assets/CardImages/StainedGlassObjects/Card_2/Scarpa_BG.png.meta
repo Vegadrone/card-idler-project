@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: f7262bba7681a6b4291b243d0cd27eb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1442737409016566323
+    second: Scarpa_BG_0
+  - first:
+      213: -7365927149773453639
+    second: Scarpa_BG_1
+  - first:
+      213: -6153319169410314227
+    second: Scarpa_BG_2
+  - first:
+      213: -3760657202361319250
+    second: Scarpa_BG_3
+  - first:
+      213: -3753599212512904503
+    second: Scarpa_BG_4
+  - first:
+      213: 4561092035718170261
+    second: Scarpa_BG_5
+  - first:
+      213: 6891145463742515789
+    second: Scarpa_BG_6
+  - first:
+      213: -634683180146789278
+    second: Scarpa_BG_7
+  - first:
+      213: 1455372358191680332
+    second: Scarpa_BG_8
+  - first:
+      213: 6144904377151997435
+    second: Scarpa_BG_9
+  - first:
+      213: -1176968476434703152
+    second: Scarpa_BG_10
+  - first:
+      213: -4186150104572675363
+    second: Scarpa_BG_11
+  - first:
+      213: 4254741023811675933
+    second: Scarpa_BG_12
+  - first:
+      213: -2081545278965258377
+    second: Scarpa_BG_13
+  - first:
+      213: 6946349729892381865
+    second: Scarpa_BG_14
+  - first:
+      213: 3397690343470650670
+    second: Scarpa_BG_15
+  - first:
+      213: 6543712128467165108
+    second: Scarpa_BG_16
+  - first:
+      213: -3413193182679957161
+    second: Scarpa_BG_17
+  - first:
+      213: -467561301582437903
+    second: Scarpa_BG_18
+  - first:
+      213: -407941837860892214
+    second: Scarpa_BG_19
+  - first:
+      213: 7471422651838789613
+    second: Scarpa_BG_20
+  - first:
+      213: -7479105084808331137
+    second: Scarpa_BG_21
+  - first:
+      213: -2852982024841906428
+    second: Scarpa_BG_22
+  - first:
+      213: 7207970821705994967
+    second: Scarpa_BG_23
+  - first:
+      213: 1947933935351127607
+    second: Scarpa_BG_24
+  - first:
+      213: 7365909310105468184
+    second: Scarpa_BG_25
+  - first:
+      213: 8648514404182182843
+    second: Scarpa_BG_26
+  - first:
+      213: 7890860574555327963
+    second: Scarpa_BG_27
+  - first:
+      213: -7899884803277959121
+    second: Scarpa_BG_28
+  - first:
+      213: 507285637857477867
+    second: Scarpa_BG_29
+  - first:
+      213: -1885082198992230166
+    second: Scarpa_BG_30
+  - first:
+      213: 813417586775215614
+    second: Scarpa_BG_31
+  - first:
+      213: -1658421581575690661
+    second: Scarpa_BG_32
+  - first:
+      213: -7786689950960957655
+    second: Scarpa_BG_33
+  - first:
+      213: 3115056893969688028
+    second: Scarpa_BG_34
+  - first:
+      213: -2630102303840956652
+    second: Scarpa_BG_35
+  - first:
+      213: -3515891501608039796
+    second: Scarpa_BG_36
+  - first:
+      213: 4624007618290987376
+    second: Scarpa_BG_37
+  - first:
+      213: -1972023073823104222
+    second: Scarpa_BG_38
+  - first:
+      213: -4655921200381245302
+    second: Scarpa_BG_39
+  - first:
+      213: 8584809970163118615
+    second: Scarpa_BG_40
+  - first:
+      213: 9075658050035723170
+    second: Scarpa_BG_41
+  - first:
+      213: 1875755686511691567
+    second: Scarpa_BG_42
+  - first:
+      213: -8324166659662971363
+    second: Scarpa_BG_43
+  - first:
+      213: -7859416286130571413
+    second: Scarpa_BG_44
+  - first:
+      213: -3927992169079133733
+    second: Scarpa_BG_45
+  - first:
+      213: -1206540162758966201
+    second: Scarpa_BG_46
+  - first:
+      213: 6561331768515103416
+    second: Scarpa_BG_47
+  - first:
+      213: -1672481525120844330
+    second: Scarpa_BG_48
+  - first:
+      213: 5663860267500428258
+    second: Scarpa_BG_49
+  - first:
+      213: 6385304047594574084
+    second: Scarpa_BG_50
+  - first:
+      213: 683871052249354567
+    second: Scarpa_BG_51
+  - first:
+      213: 280242424844441295
+    second: Scarpa_BG_52
+  - first:
+      213: 2498395626844788569
+    second: Scarpa_BG_53
+  - first:
+      213: 8702195266063239430
+    second: Scarpa_BG_54
+  - first:
+      213: 4672270087795783768
+    second: Scarpa_BG_55
+  - first:
+      213: 6549678873420319999
+    second: Scarpa_BG_56
+  - first:
+      213: 2249392700273980501
+    second: Scarpa_BG_57
+  - first:
+      213: 5166672951159886972
+    second: Scarpa_BG_58
+  - first:
+      213: 8685711575753972444
+    second: Scarpa_BG_59
+  - first:
+      213: -8164017634919807245
+    second: Scarpa_BG_60
+  - first:
+      213: -5986627772233937786
+    second: Scarpa_BG_61
+  - first:
+      213: -5284186086129032374
+    second: Scarpa_BG_62
+  - first:
+      213: 7212076235154103919
+    second: Scarpa_BG_63
+  - first:
+      213: -4014317251930546569
+    second: Scarpa_BG_64
+  - first:
+      213: 7011156534764926790
+    second: Scarpa_BG_65
+  - first:
+      213: -2021182325807096873
+    second: Scarpa_BG_66
+  - first:
+      213: 3941770116929679420
+    second: Scarpa_BG_67
+  - first:
+      213: -558433533577617363
+    second: Scarpa_BG_68
+  - first:
+      213: -8163809687665258756
+    second: Scarpa_BG_69
+  - first:
+      213: 5953881036846628902
+    second: Scarpa_BG_70
+  - first:
+      213: 5448212197315112024
+    second: Scarpa_BG_71
+  - first:
+      213: 2583196774024120384
+    second: Scarpa_BG_72
+  - first:
+      213: -6127474989476737854
+    second: Scarpa_BG_73
+  - first:
+      213: 7975509954807581794
+    second: Scarpa_BG_74
+  - first:
+      213: -4742698454761334008
+    second: Scarpa_BG_75
+  - first:
+      213: 1809974675145877041
+    second: Scarpa_BG_76
+  - first:
+      213: 6021640486805870072
+    second: Scarpa_BG_77
+  - first:
+      213: 2071335445795030322
+    second: Scarpa_BG_78
+  - first:
+      213: 3760975408325899690
+    second: Scarpa_BG_79
+  - first:
+      213: 1152026341440628969
+    second: Scarpa_BG_80
+  - first:
+      213: -8505114966978927046
+    second: Scarpa_BG_81
+  - first:
+      213: 5313843689191407241
+    second: Scarpa_BG_82
+  - first:
+      213: 4275122715223171401
+    second: Scarpa_BG_83
+  - first:
+      213: 7566307310612005072
+    second: Scarpa_BG_84
+  - first:
+      213: 7567903729866167939
+    second: Scarpa_BG_85
+  - first:
+      213: 223787799568789245
+    second: Scarpa_BG_86
+  - first:
+      213: 4869611546153751667
+    second: Scarpa_BG_87
+  - first:
+      213: -7036711252961735729
+    second: Scarpa_BG_88
+  - first:
+      213: -857302531048972044
+    second: Scarpa_BG_89
+  - first:
+      213: 9085547164001259870
+    second: Scarpa_BG_90
+  - first:
+      213: -5808801964804879226
+    second: Scarpa_BG_91
+  - first:
+      213: 6268530228846029468
+    second: Scarpa_BG_92
+  - first:
+      213: 7542958787606799706
+    second: Scarpa_BG_93
+  - first:
+      213: 8537205514535493238
+    second: Scarpa_BG_94
+  - first:
+      213: -3378673093570650282
+    second: Scarpa_BG_95
+  - first:
+      213: -7803681047819799216
+    second: Scarpa_BG_96
+  - first:
+      213: -743128827638027308
+    second: Scarpa_BG_97
+  - first:
+      213: 293725689899978823
+    second: Scarpa_BG_98
+  - first:
+      213: 3452082474901064123
+    second: Scarpa_BG_99
+  - first:
+      213: -4571314264543380074
+    second: Scarpa_BG_100
+  - first:
+      213: -6350437572400702163
+    second: Scarpa_BG_101
+  - first:
+      213: -3263439485491090504
+    second: Scarpa_BG_102
+  - first:
+      213: -7231010031900707227
+    second: Scarpa_BG_103
+  - first:
+      213: -7087485833805225902
+    second: Scarpa_BG_104
+  - first:
+      213: 2389587772600459690
+    second: Scarpa_BG_105
+  - first:
+      213: -1775900638168247139
+    second: Scarpa_BG_106
+  - first:
+      213: -2680345618288337781
+    second: Scarpa_BG_107
+  - first:
+      213: 6359627437144530451
+    second: Scarpa_BG_108
+  - first:
+      213: 2073523897505281328
+    second: Scarpa_BG_109
+  - first:
+      213: -6962279947928789743
+    second: Scarpa_BG_110
+  - first:
+      213: 1202722990475861367
+    second: Scarpa_BG_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scarpa_BG_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1307
+        width: 43
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd666f68fd5afbe0800000000000000
+      internalID: -1442737409016566323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1235
+        width: 38
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6095c9848f6c990800000000000000
+      internalID: -7365927149773453639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1260
+        width: 25
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0052bd21d40b9aa0800000000000000
+      internalID: -6153319169410314227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1166
+        width: 35
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea04d3303367fcbc0800000000000000
+      internalID: -3760657202361319250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1257
+        width: 39
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca7bf4576988ebc0800000000000000
+      internalID: -3753599212512904503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1340
+        width: 39
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59648d07a014c4f30800000000000000
+      internalID: 4561092035718170261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1045
+        width: 35
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4acae5d94442af50800000000000000
+      internalID: 6891145463742515789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1189
+        width: 39
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2647f66a2072137f0800000000000000
+      internalID: -634683180146789278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1189
+        width: 45
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b00f9e275823410800000000000000
+      internalID: 1455372358191680332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_9
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1189
+        width: 38
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf543e259f5174550800000000000000
+      internalID: 6144904377151997435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_10
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1189
+        width: 35
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcd64218619aafe0800000000000000
+      internalID: -1176968476434703152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_11
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1189
+        width: 42
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda3b78b8aec7e5c0800000000000000
+      internalID: -4186150104572675363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1046
+        width: 37
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17a3972b60eb0b30800000000000000
+      internalID: 4254741023811675933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1318
+        width: 27
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7776267e89ddc13e0800000000000000
+      internalID: -2081545278965258377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_14
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1103
+        width: 41
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4bdd7a644666060800000000000000
+      internalID: 6946349729892381865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1161
+        width: 35
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d75b9d55072f20800000000000000
+      internalID: 3397690343470650670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1235
+        width: 40
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf53b1c28fefca50800000000000000
+      internalID: 6543712128467165108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_17
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1249
+        width: 35
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751839c52e6e1a0d0800000000000000
+      internalID: -3413193182679957161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_18
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1093
+        width: 36
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1a5743973e289f0800000000000000
+      internalID: -467561301582437903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1004
+        width: 45
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac118415f03b65af0800000000000000
+      internalID: -407941837860892214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 754
+        width: 37
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de778a90153dfa760800000000000000
+      internalID: 7471422651838789613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 885
+        width: 28
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f708e262d81e43890800000000000000
+      internalID: -7479105084808331137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 756
+        width: 34
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40739b2d6fb2868d0800000000000000
+      internalID: -2852982024841906428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1110
+        width: 40
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d29a2bd54bd70460800000000000000
+      internalID: 7207970821705994967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 967
+        width: 40
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e5886f793780b10800000000000000
+      internalID: 1947933935351127607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1071
+        width: 39
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d3494cd77f83660800000000000000
+      internalID: 7365909310105468184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1090
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbc0206702b50870800000000000000
+      internalID: 8648514404182182843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1052
+        width: 59
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd418e82e7f18d60800000000000000
+      internalID: 7890860574555327963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_28
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1045
+        width: 46
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f205c1670a8fd5290800000000000000
+      internalID: -7899884803277959121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_29
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1050
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be40724999d3a0700800000000000000
+      internalID: 507285637857477867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_30
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1080
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8e7a44ab7d6d5e0800000000000000
+      internalID: -1885082198992230166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_31
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1072
+        width: 27
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdcac94cf6d94b00800000000000000
+      internalID: 813417586775215614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_32
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 752
+        width: 37
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e656bb5a1cf8e0800000000000000
+      internalID: -1658421581575690661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1049
+        width: 43
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9274ed8cebe10f390800000000000000
+      internalID: -7786689950960957655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_34
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 753
+        width: 37
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5e134adb7ea3b20800000000000000
+      internalID: 3115056893969688028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_35
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 754
+        width: 40
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f8f98b3efff7bd0800000000000000
+      internalID: -2630102303840956652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 754
+        width: 34
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a86d9ae4b053fc0800000000000000
+      internalID: -3515891501608039796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_37
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1028
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0713fe60e66cb2040800000000000000
+      internalID: 4624007618290987376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1017
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22366eb6677f1a4e0800000000000000
+      internalID: -1972023073823104222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_39
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1015
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88c01d1658d26fb0800000000000000
+      internalID: -4655921200381245302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_40
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1018
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712fdcffe2f532770800000000000000
+      internalID: 8584809970163118615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_41
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1027
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab2b4f59e633fd70800000000000000
+      internalID: 9075658050035723170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_42
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 751
+        width: 39
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27c2f3dbd5080a10800000000000000
+      internalID: 1875755686511691567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_43
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 754
+        width: 32
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e73afb68e9a7c80800000000000000
+      internalID: -8324166659662971363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_44
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 891
+        width: 42
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67744b578ebde290800000000000000
+      internalID: -7859416286130571413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_45
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 754
+        width: 48
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9a5810fe7fc79c0800000000000000
+      internalID: -3927992169079133733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_46
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 751
+        width: 35
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744828f4d12814fe0800000000000000
+      internalID: -1206540162758966201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_47
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 755
+        width: 42
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba04d3ea788e0b50800000000000000
+      internalID: 6561331768515103416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 755
+        width: 40
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddb4c10ae62ac8e0800000000000000
+      internalID: -1672481525120844330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_49
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 805
+        width: 37
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebdfc5a7e21a9e40800000000000000
+      internalID: 5663860267500428258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_50
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 945
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4011db353382d9850800000000000000
+      internalID: 6385304047594574084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_51
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 878
+        width: 38
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741de7549199d7900800000000000000
+      internalID: 683871052249354567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_52
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 865
+        width: 37
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6d8d7200f93e300800000000000000
+      internalID: 280242424844441295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_53
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 814
+        width: 41
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9571976e5951ca220800000000000000
+      internalID: 2498395626844788569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 756
+        width: 25
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60909cffc7864c870800000000000000
+      internalID: 8702195266063239430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 608
+        width: 256
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85830cdd3ec37d040800000000000000
+      internalID: 4672270087795783768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_56
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 861
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc4913db3225ea50800000000000000
+      internalID: 6549678873420319999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_57
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 752
+        width: 43
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554ff2c3eb2773f10800000000000000
+      internalID: 2249392700273980501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 444
+        width: 39
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c741184cca5b3b740800000000000000
+      internalID: 5166672951159886972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_59
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 345
+        width: 37
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda5056c8a8d98870800000000000000
+      internalID: 8685711575753972444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 26
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f68492473593be80800000000000000
+      internalID: -8164017634919807245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 569
+        width: 33
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c028972c93beca0800000000000000
+      internalID: -5986627772233937786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 353
+        width: 42
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a73160cccaa6b0800000000000000
+      internalID: -5284186086129032374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 399
+        width: 39
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e9569ef11761460800000000000000
+      internalID: 7212076235154103919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_64
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 430
+        width: 34
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e15f66ab74a48c0800000000000000
+      internalID: -4014317251930546569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_65
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 450
+        width: 38
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647725fb8b1ac4160800000000000000
+      internalID: 7011156534764926790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_66
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 451
+        width: 45
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db58f3226153f3e0800000000000000
+      internalID: -2021182325807096873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_67
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 429
+        width: 43
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30f7d5790bf3b630800000000000000
+      internalID: 3941770116929679420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_68
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 650
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20a070f8ab0048f0800000000000000
+      internalID: -558433533577617363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_69
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 361
+        width: 42
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfec1d0c75254be80800000000000000
+      internalID: -8163809687665258756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_70
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 307
+        width: 34
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6208d2c024f60a250800000000000000
+      internalID: 5953881036846628902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_71
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 548
+        width: 45
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ceae9a020fb9b40800000000000000
+      internalID: 5448212197315112024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_72
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 40
+        width: 41
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04884a497cb59d320800000000000000
+      internalID: 2583196774024120384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_73
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 284
+        width: 37
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc062a36f5d6faa0800000000000000
+      internalID: -6127474989476737854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_74
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 294
+        width: 37
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cc5ee3c04beae60800000000000000
+      internalID: 7975509954807581794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_75
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 463
+        width: 44
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b182f12ec8e2eb0800000000000000
+      internalID: -4742698454761334008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_76
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 470
+        width: 36
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136e58c90625e1910800000000000000
+      internalID: 1809974675145877041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_77
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 465
+        width: 34
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f59c256e1a219350800000000000000
+      internalID: 6021640486805870072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_78
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 406
+        width: 33
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235c9411d9cdebc10800000000000000
+      internalID: 2071335445795030322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_79
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 187
+        width: 44
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5be36153ba13430800000000000000
+      internalID: 3760975408325899690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 359
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e826759ad1dcff00800000000000000
+      internalID: 1152026341440628969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_81
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 415
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36ec53eff2c7f980800000000000000
+      internalID: -8505114966978927046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_82
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 434
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e743e6ea09eb940800000000000000
+      internalID: 5313843689191407241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_83
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 418
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a41c7579445b30800000000000000
+      internalID: 4275122715223171401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_84
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 362
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d04876396ce00960800000000000000
+      internalID: 7566307310612005072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 38
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386d6098858960960800000000000000
+      internalID: 7567903729866167939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_86
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 40
+        width: 39
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe2d5a61dd0b1300800000000000000
+      internalID: 223787799568789245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_87
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 40
+        width: 38
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37492a2a6e5549340800000000000000
+      internalID: 4869611546153751667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_88
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 40
+        width: 40
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbc834c564985e90800000000000000
+      internalID: -7036711252961735729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_89
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 40
+        width: 39
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f068c3e3ef3a14f0800000000000000
+      internalID: -857302531048972044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_90
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 140
+        width: 35
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e515a542209561e70800000000000000
+      internalID: 9085547164001259870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_91
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 300
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cc63da36df26fa0800000000000000
+      internalID: -5808801964804879226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_92
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 298
+        width: 48
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a6a22f70b4ef650800000000000000
+      internalID: 6268530228846029468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_93
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 297
+        width: 47
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55e6b29d09fda860800000000000000
+      internalID: 7542958787606799706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_94
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 296
+        width: 39
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ed464fe2f3a7670800000000000000
+      internalID: 8537205514535493238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_95
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 296
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f1d8de8ba8c11d0800000000000000
+      internalID: -3378673093570650282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_96
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 195
+        width: 41
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055b044ce61c3b390800000000000000
+      internalID: -7803681047819799216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_97
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 40
+        width: 33
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db684eb440efa5f0800000000000000
+      internalID: -743128827638027308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_98
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 40
+        width: 48
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74015ef65f5831400800000000000000
+      internalID: 293725689899978823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_99
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 213
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb944d398b248ef20800000000000000
+      internalID: 3452082474901064123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_100
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 40
+        width: 37
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d373175ed6f80c0800000000000000
+      internalID: -4571314264543380074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_101
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 40
+        width: 46
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d13c88ca6bed7a0800000000000000
+      internalID: -6350437572400702163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_102
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 239
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbe151141fe5b2d0800000000000000
+      internalID: -3263439485491090504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_103
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 40
+        width: 37
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566b54100ba46ab90800000000000000
+      internalID: -7231010031900707227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_104
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 40
+        width: 42
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502d6d6f2134ad90800000000000000
+      internalID: -7087485833805225902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_105
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 40
+        width: 34
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1a7792b65892120800000000000000
+      internalID: 2389587772600459690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_106
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 40
+        width: 28
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94979957cbba57e0800000000000000
+      internalID: -1775900638168247139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_107
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 40
+        width: 34
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c16aa7cdf7dcad0800000000000000
+      internalID: -2680345618288337781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_108
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 40
+        width: 38
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ed3d6957fe14850800000000000000
+      internalID: 6359627437144530451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_109
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 40
+        width: 37
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f510bff2a6cc10800000000000000
+      internalID: 2073523897505281328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_110
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 40
+        width: 34
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d11ec6643016f90800000000000000
+      internalID: -6962279947928789743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarpa_BG_111
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 40
+        width: 43
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d5282003ee0b010800000000000000
+      internalID: 1202722990475861367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scarpa_BG_0: -1442737409016566323
+      Scarpa_BG_1: -7365927149773453639
+      Scarpa_BG_10: -1176968476434703152
+      Scarpa_BG_100: -4571314264543380074
+      Scarpa_BG_101: -6350437572400702163
+      Scarpa_BG_102: -3263439485491090504
+      Scarpa_BG_103: -7231010031900707227
+      Scarpa_BG_104: -7087485833805225902
+      Scarpa_BG_105: 2389587772600459690
+      Scarpa_BG_106: -1775900638168247139
+      Scarpa_BG_107: -2680345618288337781
+      Scarpa_BG_108: 6359627437144530451
+      Scarpa_BG_109: 2073523897505281328
+      Scarpa_BG_11: -4186150104572675363
+      Scarpa_BG_110: -6962279947928789743
+      Scarpa_BG_111: 1202722990475861367
+      Scarpa_BG_12: 4254741023811675933
+      Scarpa_BG_13: -2081545278965258377
+      Scarpa_BG_14: 6946349729892381865
+      Scarpa_BG_15: 3397690343470650670
+      Scarpa_BG_16: 6543712128467165108
+      Scarpa_BG_17: -3413193182679957161
+      Scarpa_BG_18: -467561301582437903
+      Scarpa_BG_19: -407941837860892214
+      Scarpa_BG_2: -6153319169410314227
+      Scarpa_BG_20: 7471422651838789613
+      Scarpa_BG_21: -7479105084808331137
+      Scarpa_BG_22: -2852982024841906428
+      Scarpa_BG_23: 7207970821705994967
+      Scarpa_BG_24: 1947933935351127607
+      Scarpa_BG_25: 7365909310105468184
+      Scarpa_BG_26: 8648514404182182843
+      Scarpa_BG_27: 7890860574555327963
+      Scarpa_BG_28: -7899884803277959121
+      Scarpa_BG_29: 507285637857477867
+      Scarpa_BG_3: -3760657202361319250
+      Scarpa_BG_30: -1885082198992230166
+      Scarpa_BG_31: 813417586775215614
+      Scarpa_BG_32: -1658421581575690661
+      Scarpa_BG_33: -7786689950960957655
+      Scarpa_BG_34: 3115056893969688028
+      Scarpa_BG_35: -2630102303840956652
+      Scarpa_BG_36: -3515891501608039796
+      Scarpa_BG_37: 4624007618290987376
+      Scarpa_BG_38: -1972023073823104222
+      Scarpa_BG_39: -4655921200381245302
+      Scarpa_BG_4: -3753599212512904503
+      Scarpa_BG_40: 8584809970163118615
+      Scarpa_BG_41: 9075658050035723170
+      Scarpa_BG_42: 1875755686511691567
+      Scarpa_BG_43: -8324166659662971363
+      Scarpa_BG_44: -7859416286130571413
+      Scarpa_BG_45: -3927992169079133733
+      Scarpa_BG_46: -1206540162758966201
+      Scarpa_BG_47: 6561331768515103416
+      Scarpa_BG_48: -1672481525120844330
+      Scarpa_BG_49: 5663860267500428258
+      Scarpa_BG_5: 4561092035718170261
+      Scarpa_BG_50: 6385304047594574084
+      Scarpa_BG_51: 683871052249354567
+      Scarpa_BG_52: 280242424844441295
+      Scarpa_BG_53: 2498395626844788569
+      Scarpa_BG_54: 8702195266063239430
+      Scarpa_BG_55: 4672270087795783768
+      Scarpa_BG_56: 6549678873420319999
+      Scarpa_BG_57: 2249392700273980501
+      Scarpa_BG_58: 5166672951159886972
+      Scarpa_BG_59: 8685711575753972444
+      Scarpa_BG_6: 6891145463742515789
+      Scarpa_BG_60: -8164017634919807245
+      Scarpa_BG_61: -5986627772233937786
+      Scarpa_BG_62: -5284186086129032374
+      Scarpa_BG_63: 7212076235154103919
+      Scarpa_BG_64: -4014317251930546569
+      Scarpa_BG_65: 7011156534764926790
+      Scarpa_BG_66: -2021182325807096873
+      Scarpa_BG_67: 3941770116929679420
+      Scarpa_BG_68: -558433533577617363
+      Scarpa_BG_69: -8163809687665258756
+      Scarpa_BG_7: -634683180146789278
+      Scarpa_BG_70: 5953881036846628902
+      Scarpa_BG_71: 5448212197315112024
+      Scarpa_BG_72: 2583196774024120384
+      Scarpa_BG_73: -6127474989476737854
+      Scarpa_BG_74: 7975509954807581794
+      Scarpa_BG_75: -4742698454761334008
+      Scarpa_BG_76: 1809974675145877041
+      Scarpa_BG_77: 6021640486805870072
+      Scarpa_BG_78: 2071335445795030322
+      Scarpa_BG_79: 3760975408325899690
+      Scarpa_BG_8: 1455372358191680332
+      Scarpa_BG_80: 1152026341440628969
+      Scarpa_BG_81: -8505114966978927046
+      Scarpa_BG_82: 5313843689191407241
+      Scarpa_BG_83: 4275122715223171401
+      Scarpa_BG_84: 7566307310612005072
+      Scarpa_BG_85: 7567903729866167939
+      Scarpa_BG_86: 223787799568789245
+      Scarpa_BG_87: 4869611546153751667
+      Scarpa_BG_88: -7036711252961735729
+      Scarpa_BG_89: -857302531048972044
+      Scarpa_BG_9: 6144904377151997435
+      Scarpa_BG_90: 9085547164001259870
+      Scarpa_BG_91: -5808801964804879226
+      Scarpa_BG_92: 6268530228846029468
+      Scarpa_BG_93: 7542958787606799706
+      Scarpa_BG_94: 8537205514535493238
+      Scarpa_BG_95: -3378673093570650282
+      Scarpa_BG_96: -7803681047819799216
+      Scarpa_BG_97: -743128827638027308
+      Scarpa_BG_98: 293725689899978823
+      Scarpa_BG_99: 3452082474901064123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

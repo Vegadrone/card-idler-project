@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a17ae75d7c75947bcedc5a42e5c588, type: 3}
+  m_Name: 13_Sledgehammer
+  m_EditorClassIdentifier: 
+  cardId: sledgehammer_card
+  slotInBinderPos: 13
+  cardName: Sledgehammer
+  cardRarity: common
+  cardFlavourText: "Pippiripipp\xEC"
+  cardPerDayIncome: 10000000
+  cardSellValue: 20000
+  cardP1: {fileID: 21300000, guid: 5b5b39deb0c250549aed1380e8fcd575, type: 3}
+  cardFrame: {fileID: 21300000, guid: 2fc6c32030656f34a82aa010a1074c7d, type: 3}
+  cardP2: {fileID: 21300000, guid: fdbaf2ffdb6740240a2daa2037e1ce42, type: 3}
+  cardBg: {fileID: 21300000, guid: d1680078b2a951f49bc14d52a73b2b25, type: 3}
+  cardP1Mat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardFrameMat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardP2Mat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardBgMat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}

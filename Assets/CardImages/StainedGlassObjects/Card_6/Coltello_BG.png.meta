@@ -1,0 +1,2795 @@
+fileFormatVersion: 2
+guid: 1359b9ed81b3e124cbe894bb2203c39c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2265936811944030791
+    second: Coltello_BG_0
+  - first:
+      213: 856129611075593838
+    second: Coltello_BG_1
+  - first:
+      213: 5477662168884238955
+    second: Coltello_BG_2
+  - first:
+      213: -5922176033540591864
+    second: Coltello_BG_3
+  - first:
+      213: 2269288256085576191
+    second: Coltello_BG_4
+  - first:
+      213: 7950133613069066180
+    second: Coltello_BG_5
+  - first:
+      213: 5210352869542180134
+    second: Coltello_BG_6
+  - first:
+      213: -1622946224213363400
+    second: Coltello_BG_7
+  - first:
+      213: -7478956789848405036
+    second: Coltello_BG_8
+  - first:
+      213: 9085961622210848153
+    second: Coltello_BG_9
+  - first:
+      213: 2996941844099213339
+    second: Coltello_BG_10
+  - first:
+      213: 4353187960058709521
+    second: Coltello_BG_11
+  - first:
+      213: -8807090026629317274
+    second: Coltello_BG_12
+  - first:
+      213: 8535458211209837581
+    second: Coltello_BG_13
+  - first:
+      213: 4205832441455549391
+    second: Coltello_BG_14
+  - first:
+      213: 3941644714528458714
+    second: Coltello_BG_15
+  - first:
+      213: -5286073574030014422
+    second: Coltello_BG_16
+  - first:
+      213: 8001915484980121820
+    second: Coltello_BG_17
+  - first:
+      213: -3720796068318940527
+    second: Coltello_BG_18
+  - first:
+      213: 2708023437474031790
+    second: Coltello_BG_19
+  - first:
+      213: -5830363185882504591
+    second: Coltello_BG_20
+  - first:
+      213: -342141567594488605
+    second: Coltello_BG_21
+  - first:
+      213: 773101728024324248
+    second: Coltello_BG_22
+  - first:
+      213: -8296436428330238485
+    second: Coltello_BG_23
+  - first:
+      213: -3133026163383012399
+    second: Coltello_BG_24
+  - first:
+      213: -487362010691693196
+    second: Coltello_BG_25
+  - first:
+      213: 6572510967898348309
+    second: Coltello_BG_26
+  - first:
+      213: 5783120642170144063
+    second: Coltello_BG_27
+  - first:
+      213: 1545489048247372618
+    second: Coltello_BG_28
+  - first:
+      213: 7970377791270006167
+    second: Coltello_BG_29
+  - first:
+      213: -5001326588640378884
+    second: Coltello_BG_30
+  - first:
+      213: 8269690834719507042
+    second: Coltello_BG_31
+  - first:
+      213: 8775649526512002413
+    second: Coltello_BG_32
+  - first:
+      213: 2560950560665298914
+    second: Coltello_BG_33
+  - first:
+      213: -9040183602797640915
+    second: Coltello_BG_34
+  - first:
+      213: 238502453835333301
+    second: Coltello_BG_35
+  - first:
+      213: 2711305217344393298
+    second: Coltello_BG_36
+  - first:
+      213: -1551024914682704637
+    second: Coltello_BG_37
+  - first:
+      213: 8715126344943128641
+    second: Coltello_BG_38
+  - first:
+      213: 71227262549969108
+    second: Coltello_BG_39
+  - first:
+      213: -3588669761323143829
+    second: Coltello_BG_40
+  - first:
+      213: 1806508927334652443
+    second: Coltello_BG_41
+  - first:
+      213: -3274564968861541933
+    second: Coltello_BG_42
+  - first:
+      213: 6342587542607206925
+    second: Coltello_BG_43
+  - first:
+      213: 7113361560295758922
+    second: Coltello_BG_44
+  - first:
+      213: -7624755675773177526
+    second: Coltello_BG_45
+  - first:
+      213: 4099530463094548651
+    second: Coltello_BG_46
+  - first:
+      213: -429986607937275967
+    second: Coltello_BG_47
+  - first:
+      213: 6175399122089873253
+    second: Coltello_BG_48
+  - first:
+      213: 839944100691752983
+    second: Coltello_BG_49
+  - first:
+      213: 3153263120927948604
+    second: Coltello_BG_50
+  - first:
+      213: -1935314402401842093
+    second: Coltello_BG_51
+  - first:
+      213: -6803947301390693402
+    second: Coltello_BG_52
+  - first:
+      213: -956970529722636426
+    second: Coltello_BG_53
+  - first:
+      213: -3254679259612502972
+    second: Coltello_BG_54
+  - first:
+      213: 8060515253643294893
+    second: Coltello_BG_55
+  - first:
+      213: -1429063769062119663
+    second: Coltello_BG_56
+  - first:
+      213: -1567489280929384000
+    second: Coltello_BG_57
+  - first:
+      213: 1634484603722723845
+    second: Coltello_BG_58
+  - first:
+      213: -4797005322611923600
+    second: Coltello_BG_59
+  - first:
+      213: -4675732184067413272
+    second: Coltello_BG_60
+  - first:
+      213: 2159832617326370547
+    second: Coltello_BG_61
+  - first:
+      213: 1682028759887729320
+    second: Coltello_BG_62
+  - first:
+      213: 5615074550121320652
+    second: Coltello_BG_63
+  - first:
+      213: -3064784501920972480
+    second: Coltello_BG_64
+  - first:
+      213: -6363241261240057643
+    second: Coltello_BG_65
+  - first:
+      213: 6946463115973037484
+    second: Coltello_BG_66
+  - first:
+      213: -5420744796788732269
+    second: Coltello_BG_67
+  - first:
+      213: 9210431000742681400
+    second: Coltello_BG_68
+  - first:
+      213: -5794144613043173734
+    second: Coltello_BG_69
+  - first:
+      213: 6699955516929427093
+    second: Coltello_BG_70
+  - first:
+      213: -3272048244230955955
+    second: Coltello_BG_71
+  - first:
+      213: -5946064528841588723
+    second: Coltello_BG_72
+  - first:
+      213: -3215224138487078221
+    second: Coltello_BG_73
+  - first:
+      213: -2238016579275231260
+    second: Coltello_BG_74
+  - first:
+      213: 7742361097845417390
+    second: Coltello_BG_75
+  - first:
+      213: 5018532598862534849
+    second: Coltello_BG_76
+  - first:
+      213: 1414509990355923779
+    second: Coltello_BG_77
+  - first:
+      213: 6697663043667642856
+    second: Coltello_BG_78
+  - first:
+      213: 1730368006744601182
+    second: Coltello_BG_79
+  - first:
+      213: 5539627958229222607
+    second: Coltello_BG_80
+  - first:
+      213: -4099401075707123966
+    second: Coltello_BG_81
+  - first:
+      213: 4036969880729755245
+    second: Coltello_BG_82
+  - first:
+      213: 3202873242191418224
+    second: Coltello_BG_83
+  - first:
+      213: -5351048391079429872
+    second: Coltello_BG_84
+  - first:
+      213: 196808094752769518
+    second: Coltello_BG_85
+  - first:
+      213: -5735219717537127452
+    second: Coltello_BG_86
+  - first:
+      213: 6665201975543194889
+    second: Coltello_BG_87
+  - first:
+      213: 7992369582778964446
+    second: Coltello_BG_88
+  - first:
+      213: 7563683414704346746
+    second: Coltello_BG_89
+  - first:
+      213: -17270295002235553
+    second: Coltello_BG_90
+  - first:
+      213: -5300652191235122268
+    second: Coltello_BG_91
+  - first:
+      213: -9215181691188458463
+    second: Coltello_BG_92
+  - first:
+      213: 6669710849411951463
+    second: Coltello_BG_93
+  - first:
+      213: -2591421867733732439
+    second: Coltello_BG_94
+  - first:
+      213: -3524425572574412015
+    second: Coltello_BG_95
+  - first:
+      213: -2296446264563009731
+    second: Coltello_BG_96
+  - first:
+      213: 4428254903592811339
+    second: Coltello_BG_97
+  - first:
+      213: -5858886119157380849
+    second: Coltello_BG_98
+  - first:
+      213: -2581997457486538292
+    second: Coltello_BG_99
+  - first:
+      213: 8090219338334657584
+    second: Coltello_BG_100
+  - first:
+      213: 768270650853938080
+    second: Coltello_BG_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coltello_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1435
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd48989976cd80e0800000000000000
+      internalID: -2265936811944030791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1361
+        width: 161
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66aad5685591eb00800000000000000
+      internalID: 856129611075593838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1275
+        width: 168
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ad0ff78b0940c40800000000000000
+      internalID: 5477662168884238955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1381
+        width: 156
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f2b77464430dda0800000000000000
+      internalID: -5922176033540591864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1291
+        width: 173
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff942fc45a12e7f10800000000000000
+      internalID: 2269288256085576191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1387
+        width: 149
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfdfd3466c845e60800000000000000
+      internalID: 7950133613069066180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1296
+        width: 178
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625bf774454ee4840800000000000000
+      internalID: 5210352869542180134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1398
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835733002032a79e0800000000000000
+      internalID: -1622946224213363400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_8
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1318
+        width: 169
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db0792cc68653890800000000000000
+      internalID: -7478956789848405036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_9
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1419
+        width: 88
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995a5b6b4f1d71e70800000000000000
+      internalID: 9085961622210848153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_10
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1332
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18a90e8ab6479920800000000000000
+      internalID: 2996941844099213339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1276
+        width: 76
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1168ecfa261a96c30800000000000000
+      internalID: 4353187960058709521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1173
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dbfd1684ee6c580800000000000000
+      internalID: -8807090026629317274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1187
+        width: 174
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c7a52350a047670800000000000000
+      internalID: 8535458211209837581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1200
+        width: 172
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb95c1725e1e5a30800000000000000
+      internalID: 4205832441455549391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_15
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1213
+        width: 168
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7c340fbf883b630800000000000000
+      internalID: 3941644714528458714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_16
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1229
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a288c5b571814a6b0800000000000000
+      internalID: -5286073574030014422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_17
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1134
+        width: 127
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd010f4dcb38c0f60800000000000000
+      internalID: 8001915484980121820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_18
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1302
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192fd2280b31d5cc0800000000000000
+      internalID: -3720796068318940527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1090
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8621af7f4d49520800000000000000
+      internalID: 2708023437474031790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 991
+        width: 124
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17265f1b293661fa0800000000000000
+      internalID: -5830363185882504591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1089
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec92a89e08704bf0800000000000000
+      internalID: -342141567594488605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 999
+        width: 172
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8986122fceb9aba00800000000000000
+      internalID: 773101728024324248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1097
+        width: 177
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf3cb56032ddc80800000000000000
+      internalID: -8296436428330238485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1064
+        width: 174
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3fc8bcd414584d0800000000000000
+      internalID: -3133026163383012399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_25
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1117
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47593bb55da8c39f0800000000000000
+      internalID: -487362010691693196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_26
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1027
+        width: 169
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b90f317ef363b50800000000000000
+      internalID: 6572510967898348309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_27
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1124
+        width: 177
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35c7c17595c14050800000000000000
+      internalID: 5783120642170144063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_28
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1028
+        width: 185
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b8a0dd91ea27510800000000000000
+      internalID: 1545489048247372618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_29
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1103
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79daf4e4f587c9e60800000000000000
+      internalID: 7970377791270006167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 532
+        width: 71
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffbf5e37f7b79ab0800000000000000
+      internalID: -5001326588640378884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 901
+        width: 107
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26282cddff7d3c270800000000000000
+      internalID: 8269690834719507042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 451
+        width: 614
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65a21dbfbe59c970800000000000000
+      internalID: 8775649526512002413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_33
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1033
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7eac767f25a8320800000000000000
+      internalID: 2560950560665298914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1045
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238fe209e0da8280800000000000000
+      internalID: -9040183602797640915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 931
+        width: 175
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bef9e6d7b45f4300800000000000000
+      internalID: 238502453835333301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_36
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 940
+        width: 133
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250d975eabd70a520800000000000000
+      internalID: 2711305217344393298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 924
+        width: 57
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d8e8ace07a97ae0800000000000000
+      internalID: -1551024914682704637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_38
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 976
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140dbfa6c3952f870800000000000000
+      internalID: 8715126344943128641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 844
+        width: 151
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d84d9261dc0df000800000000000000
+      internalID: 71227262549969108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 863
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6de52c9ddb723ec0800000000000000
+      internalID: -3588669761323143829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 354
+        width: 71
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a9a515c42021910800000000000000
+      internalID: 1806508927334652443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 839
+        width: 76
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d11d92886e82d0800000000000000
+      internalID: -3274564968861541933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_43
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 789
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a9be9f3c5650850800000000000000
+      internalID: 6342587542607206925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_44
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 346
+        width: 104
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd850a6acb7b260800000000000000
+      internalID: 7113361560295758922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_45
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 893
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41756e4c1d6f2690800000000000000
+      internalID: -7624755675773177526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 743
+        width: 27
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8a4a66c3574e830800000000000000
+      internalID: 4099530463094548651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_47
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 725
+        width: 33
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c739bf4571680af0800000000000000
+      internalID: -429986607937275967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_48
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 827
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f0d6a68cc63b550800000000000000
+      internalID: 6175399122089873253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_49
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 799
+        width: 15
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718bae895b418ab00800000000000000
+      internalID: 839944100691752983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 648
+        width: 42
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fff3e0a14a2cb20800000000000000
+      internalID: 3153263120927948604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_51
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 640
+        width: 28
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c04240ec16425e0800000000000000
+      internalID: -1935314402401842093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_52
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 650
+        width: 122
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb412e6af58391a0800000000000000
+      internalID: -6803947301390693402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_53
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 583
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6776d5b9f5828b2f0800000000000000
+      internalID: -956970529722636426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_54
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 586
+        width: 51
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44427f8157e05d2d0800000000000000
+      internalID: -3254679259612502972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_55
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 704
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8b600bae3bcdf60800000000000000
+      internalID: 8060515253643294893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 561
+        width: 39
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117eba3d212fa2ce0800000000000000
+      internalID: -1429063769062119663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 592
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9b8fccdc82f3ae0800000000000000
+      internalID: -1567489280929384000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 535
+        width: 58
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502fcb3561bdea610800000000000000
+      internalID: 1634484603722723845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_59
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 554
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075ee00231d9d6db0800000000000000
+      internalID: -4797005322611923600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_60
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 465
+        width: 155
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaecc70a567c1fb0800000000000000
+      internalID: -4675732184067413272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_61
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 496
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe5a0a725449fd10800000000000000
+      internalID: 2159832617326370547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 475
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2591fce34c75710800000000000000
+      internalID: 1682028759887729320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 375
+        width: 33
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0515bad80cced40800000000000000
+      internalID: 5615074550121320652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_64
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 464
+        width: 70
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041c0e1cbb2b775d0800000000000000
+      internalID: -3064784501920972480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 346
+        width: 160
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d08dab69c931b7a0800000000000000
+      internalID: -6363241261240057643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_66
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 441
+        width: 139
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad0de8666bc66060800000000000000
+      internalID: 6946463115973037484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 357
+        width: 162
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e4c51e355a5c4b0800000000000000
+      internalID: -5420744796788732269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_68
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 360
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b538b323602df70800000000000000
+      internalID: 9210431000742681400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_69
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 403
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9681525c20179fa0800000000000000
+      internalID: -5794144613043173734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_70
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 432
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5964f757b060bfc50800000000000000
+      internalID: 6699955516929427093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_71
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 247
+        width: 153
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c5caa35795792d0800000000000000
+      internalID: -3272048244230955955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_72
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 260
+        width: 166
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00c8da80d55b7da0800000000000000
+      internalID: -5946064528841588723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_73
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 269
+        width: 163
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b267385eaa3163d0800000000000000
+      internalID: -3215224138487078221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_74
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 358
+        width: 163
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef6dd657c7f0f0e0800000000000000
+      internalID: -2238016579275231260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_75
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 267
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea521efc564627b60800000000000000
+      internalID: 7742361097845417390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_76
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 278
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c85be03fc865a540800000000000000
+      internalID: 5018532598862534849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_77
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 311
+        width: 37
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343f762875951a310800000000000000
+      internalID: 1414509990355923779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_78
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 183
+        width: 54
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9421f6d01e2fc50800000000000000
+      internalID: 6697663043667642856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_79
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 68
+        width: 141
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5276b4c880830810800000000000000
+      internalID: 1730368006744601182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_80
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 160
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4431e1746b0ec40800000000000000
+      internalID: 5539627958229222607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 69
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2076f92f0700c17c0800000000000000
+      internalID: -4099401075707123966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_82
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 170
+        width: 170
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e19ddb7b2360830800000000000000
+      internalID: 4036969880729755245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_83
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 76
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0735c658e34e27c20800000000000000
+      internalID: 3202873242191418224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_84
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 178
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f8c1e6d14db5b0800000000000000
+      internalID: -5351048391079429872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_85
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 98
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee509a06be33bb200800000000000000
+      internalID: 196808094752769518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_86
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 184
+        width: 154
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3226bad086860b0800000000000000
+      internalID: -5735219717537127452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_87
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 89
+        width: 170
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905eb7c02ed8f7c50800000000000000
+      internalID: 6665201975543194889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_88
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 181
+        width: 174
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95d274ac99aee60800000000000000
+      internalID: 7992369582778964446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_89
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 100
+        width: 75
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7657f6ddf997f860800000000000000
+      internalID: 7563683414704346746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_90
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5db93912c4a2cff0800000000000000
+      internalID: -17270295002235553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abd8878aec4076b0800000000000000
+      internalID: -5300652191235122268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_92
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 40
+        width: 162
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c470473191d1080800000000000000
+      internalID: -9215181691188458463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_93
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 40
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ba4cd0ea29f8c50800000000000000
+      internalID: 6669710849411951463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_94
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 40
+        width: 173
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a33d8e8a8b690cd0800000000000000
+      internalID: -2591421867733732439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_95
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 40
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113466d6d99b61fc0800000000000000
+      internalID: -3524425572574412015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_96
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 40
+        width: 166
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f2fa1a426120e0800000000000000
+      internalID: -2296446264563009731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_97
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 40
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bf7877f52547d30800000000000000
+      internalID: 4428254903592811339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_98
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 40
+        width: 162
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f094828cd1e01bea0800000000000000
+      internalID: -5858886119157380849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_99
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 40
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc99d8f0ef6ea2cd0800000000000000
+      internalID: -2581997457486538292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_100
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 40
+        width: 166
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cde68df9b364070800000000000000
+      internalID: 8090219338334657584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coltello_BG_101
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 40
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d183261279aa00800000000000000
+      internalID: 768270650853938080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Coltello_BG_0: -2265936811944030791
+      Coltello_BG_1: 856129611075593838
+      Coltello_BG_10: 2996941844099213339
+      Coltello_BG_100: 8090219338334657584
+      Coltello_BG_101: 768270650853938080
+      Coltello_BG_11: 4353187960058709521
+      Coltello_BG_12: -8807090026629317274
+      Coltello_BG_13: 8535458211209837581
+      Coltello_BG_14: 4205832441455549391
+      Coltello_BG_15: 3941644714528458714
+      Coltello_BG_16: -5286073574030014422
+      Coltello_BG_17: 8001915484980121820
+      Coltello_BG_18: -3720796068318940527
+      Coltello_BG_19: 2708023437474031790
+      Coltello_BG_2: 5477662168884238955
+      Coltello_BG_20: -5830363185882504591
+      Coltello_BG_21: -342141567594488605
+      Coltello_BG_22: 773101728024324248
+      Coltello_BG_23: -8296436428330238485
+      Coltello_BG_24: -3133026163383012399
+      Coltello_BG_25: -487362010691693196
+      Coltello_BG_26: 6572510967898348309
+      Coltello_BG_27: 5783120642170144063
+      Coltello_BG_28: 1545489048247372618
+      Coltello_BG_29: 7970377791270006167
+      Coltello_BG_3: -5922176033540591864
+      Coltello_BG_30: -5001326588640378884
+      Coltello_BG_31: 8269690834719507042
+      Coltello_BG_32: 8775649526512002413
+      Coltello_BG_33: 2560950560665298914
+      Coltello_BG_34: -9040183602797640915
+      Coltello_BG_35: 238502453835333301
+      Coltello_BG_36: 2711305217344393298
+      Coltello_BG_37: -1551024914682704637
+      Coltello_BG_38: 8715126344943128641
+      Coltello_BG_39: 71227262549969108
+      Coltello_BG_4: 2269288256085576191
+      Coltello_BG_40: -3588669761323143829
+      Coltello_BG_41: 1806508927334652443
+      Coltello_BG_42: -3274564968861541933
+      Coltello_BG_43: 6342587542607206925
+      Coltello_BG_44: 7113361560295758922
+      Coltello_BG_45: -7624755675773177526
+      Coltello_BG_46: 4099530463094548651
+      Coltello_BG_47: -429986607937275967
+      Coltello_BG_48: 6175399122089873253
+      Coltello_BG_49: 839944100691752983
+      Coltello_BG_5: 7950133613069066180
+      Coltello_BG_50: 3153263120927948604
+      Coltello_BG_51: -1935314402401842093
+      Coltello_BG_52: -6803947301390693402
+      Coltello_BG_53: -956970529722636426
+      Coltello_BG_54: -3254679259612502972
+      Coltello_BG_55: 8060515253643294893
+      Coltello_BG_56: -1429063769062119663
+      Coltello_BG_57: -1567489280929384000
+      Coltello_BG_58: 1634484603722723845
+      Coltello_BG_59: -4797005322611923600
+      Coltello_BG_6: 5210352869542180134
+      Coltello_BG_60: -4675732184067413272
+      Coltello_BG_61: 2159832617326370547
+      Coltello_BG_62: 1682028759887729320
+      Coltello_BG_63: 5615074550121320652
+      Coltello_BG_64: -3064784501920972480
+      Coltello_BG_65: -6363241261240057643
+      Coltello_BG_66: 6946463115973037484
+      Coltello_BG_67: -5420744796788732269
+      Coltello_BG_68: 9210431000742681400
+      Coltello_BG_69: -5794144613043173734
+      Coltello_BG_7: -1622946224213363400
+      Coltello_BG_70: 6699955516929427093
+      Coltello_BG_71: -3272048244230955955
+      Coltello_BG_72: -5946064528841588723
+      Coltello_BG_73: -3215224138487078221
+      Coltello_BG_74: -2238016579275231260
+      Coltello_BG_75: 7742361097845417390
+      Coltello_BG_76: 5018532598862534849
+      Coltello_BG_77: 1414509990355923779
+      Coltello_BG_78: 6697663043667642856
+      Coltello_BG_79: 1730368006744601182
+      Coltello_BG_8: -7478956789848405036
+      Coltello_BG_80: 5539627958229222607
+      Coltello_BG_81: -4099401075707123966
+      Coltello_BG_82: 4036969880729755245
+      Coltello_BG_83: 3202873242191418224
+      Coltello_BG_84: -5351048391079429872
+      Coltello_BG_85: 196808094752769518
+      Coltello_BG_86: -5735219717537127452
+      Coltello_BG_87: 6665201975543194889
+      Coltello_BG_88: 7992369582778964446
+      Coltello_BG_89: 7563683414704346746
+      Coltello_BG_9: 9085961622210848153
+      Coltello_BG_90: -17270295002235553
+      Coltello_BG_91: -5300652191235122268
+      Coltello_BG_92: -9215181691188458463
+      Coltello_BG_93: 6669710849411951463
+      Coltello_BG_94: -2591421867733732439
+      Coltello_BG_95: -3524425572574412015
+      Coltello_BG_96: -2296446264563009731
+      Coltello_BG_97: 4428254903592811339
+      Coltello_BG_98: -5858886119157380849
+      Coltello_BG_99: -2581997457486538292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

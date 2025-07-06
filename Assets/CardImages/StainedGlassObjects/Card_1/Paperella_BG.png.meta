@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 101329e18106c9c48bafad8d7e004107
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3224723601541923082
+    second: Paperella_BG_0
+  - first:
+      213: 324256947135245840
+    second: Paperella_BG_1
+  - first:
+      213: -6514086294725981524
+    second: Paperella_BG_2
+  - first:
+      213: -297704020208198527
+    second: Paperella_BG_3
+  - first:
+      213: -6022789904856266549
+    second: Paperella_BG_4
+  - first:
+      213: -8297825979888083920
+    second: Paperella_BG_5
+  - first:
+      213: -3094516426274884323
+    second: Paperella_BG_6
+  - first:
+      213: 9107492887321005711
+    second: Paperella_BG_7
+  - first:
+      213: 2333737918786053135
+    second: Paperella_BG_8
+  - first:
+      213: 8013772548013102856
+    second: Paperella_BG_9
+  - first:
+      213: -1638469185278601616
+    second: Paperella_BG_10
+  - first:
+      213: -5732271767365349571
+    second: Paperella_BG_11
+  - first:
+      213: -7598119269465506343
+    second: Paperella_BG_12
+  - first:
+      213: 6104750907171533490
+    second: Paperella_BG_13
+  - first:
+      213: 2240492117174972869
+    second: Paperella_BG_14
+  - first:
+      213: -7597135984905990827
+    second: Paperella_BG_15
+  - first:
+      213: -5383641250570489498
+    second: Paperella_BG_16
+  - first:
+      213: 5803936544473470058
+    second: Paperella_BG_17
+  - first:
+      213: 5876307683959031120
+    second: Paperella_BG_18
+  - first:
+      213: -6513959483686690275
+    second: Paperella_BG_19
+  - first:
+      213: -934649008241076742
+    second: Paperella_BG_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paperella_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1354
+        width: 214
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe764f38fa7f33d0800000000000000
+      internalID: -3224723601541923082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1206
+        width: 582
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ee2f5b9fdff7400800000000000000
+      internalID: 324256947135245840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1319
+        width: 343
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa0e9e27015995a0800000000000000
+      internalID: -6514086294725981524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1273
+        width: 663
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cd84b55c75edbf0800000000000000
+      internalID: -297704020208198527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1123
+        width: 508
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8cb3cdd70ca6ca0800000000000000
+      internalID: -6022789904856266549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1110
+        width: 456
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c53cc2c3338dc80800000000000000
+      internalID: -8297825979888083920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 875
+        width: 777
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15364ca4b11e05d0800000000000000
+      internalID: -3094516426274884323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 997
+        width: 430
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e4a270780546e70800000000000000
+      internalID: 9107492887321005711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 585
+        width: 981
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f042a10c54a136020800000000000000
+      internalID: 2333737918786053135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 815
+        width: 722
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80719137ca3a63f60800000000000000
+      internalID: 8013772548013102856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_10
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 774
+        width: 437
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0769b0cf4fcf249e0800000000000000
+      internalID: -1638469185278601616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 625
+        width: 304
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f003ec231e270b0800000000000000
+      internalID: -5732271767365349571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 383
+        width: 505
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd357ee7ce0e8690800000000000000
+      internalID: -7598119269465506343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 490
+        width: 774
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2f3301b9e68b450800000000000000
+      internalID: 6104750907171533490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 334
+        width: 582
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1f64eb5b3d71f10800000000000000
+      internalID: 2240492117174972869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 270
+        width: 570
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d4755b21d819690800000000000000
+      internalID: -7597135984905990827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 135
+        width: 409
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613b9d6ec67945b0800000000000000
+      internalID: -5383641250570489498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 164
+        width: 557
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64df306989bb8050800000000000000
+      internalID: 5803936544473470058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_18
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 162
+        width: 240
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055c64d54b6dc8150800000000000000
+      internalID: 5876307683959031120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 254
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12619dac54c995a0800000000000000
+      internalID: -6513959483686690275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paperella_BG_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 40
+        width: 836
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af59e12dda57703f0800000000000000
+      internalID: -934649008241076742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Paperella_BG_0: -3224723601541923082
+      Paperella_BG_1: 324256947135245840
+      Paperella_BG_10: -1638469185278601616
+      Paperella_BG_11: -5732271767365349571
+      Paperella_BG_12: -7598119269465506343
+      Paperella_BG_13: 6104750907171533490
+      Paperella_BG_14: 2240492117174972869
+      Paperella_BG_15: -7597135984905990827
+      Paperella_BG_16: -5383641250570489498
+      Paperella_BG_17: 5803936544473470058
+      Paperella_BG_18: 5876307683959031120
+      Paperella_BG_19: -6513959483686690275
+      Paperella_BG_2: -6514086294725981524
+      Paperella_BG_20: -934649008241076742
+      Paperella_BG_3: -297704020208198527
+      Paperella_BG_4: -6022789904856266549
+      Paperella_BG_5: -8297825979888083920
+      Paperella_BG_6: -3094516426274884323
+      Paperella_BG_7: 9107492887321005711
+      Paperella_BG_8: 2333737918786053135
+      Paperella_BG_9: 8013772548013102856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

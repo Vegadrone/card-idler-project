@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 98df99024856b2049998fda8d9140a53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1046084937829912401
+    second: Penna_BG_0
+  - first:
+      213: 6596011396094690983
+    second: Penna_BG_1
+  - first:
+      213: -6219576896167947000
+    second: Penna_BG_2
+  - first:
+      213: -3607770744909930361
+    second: Penna_BG_3
+  - first:
+      213: -5557332077057617542
+    second: Penna_BG_4
+  - first:
+      213: -7551149227459897379
+    second: Penna_BG_5
+  - first:
+      213: -4890595579281651580
+    second: Penna_BG_6
+  - first:
+      213: -6052020541567048038
+    second: Penna_BG_7
+  - first:
+      213: 1912273881234518059
+    second: Penna_BG_8
+  - first:
+      213: -2351274825104728837
+    second: Penna_BG_9
+  - first:
+      213: 5418375969667150806
+    second: Penna_BG_10
+  - first:
+      213: 2901737674347337857
+    second: Penna_BG_11
+  - first:
+      213: -2243846569045565590
+    second: Penna_BG_12
+  - first:
+      213: -5231652371410571290
+    second: Penna_BG_13
+  - first:
+      213: 2821816744540756587
+    second: Penna_BG_14
+  - first:
+      213: 6606534985232326110
+    second: Penna_BG_15
+  - first:
+      213: 6089266162502596194
+    second: Penna_BG_16
+  - first:
+      213: 8255721925517911772
+    second: Penna_BG_17
+  - first:
+      213: 4898028164706257830
+    second: Penna_BG_18
+  - first:
+      213: 255084325403255265
+    second: Penna_BG_19
+  - first:
+      213: 2549515513610615350
+    second: Penna_BG_20
+  - first:
+      213: -929387250737843112
+    second: Penna_BG_21
+  - first:
+      213: 180545226784963148
+    second: Penna_BG_22
+  - first:
+      213: 9105374018038521124
+    second: Penna_BG_23
+  - first:
+      213: -8544553290967969610
+    second: Penna_BG_24
+  - first:
+      213: 6013206144881453234
+    second: Penna_BG_25
+  - first:
+      213: -7315569718553049530
+    second: Penna_BG_26
+  - first:
+      213: -4558049793031316062
+    second: Penna_BG_27
+  - first:
+      213: 1503708729341947319
+    second: Penna_BG_28
+  - first:
+      213: -5703480042070989697
+    second: Penna_BG_29
+  - first:
+      213: -2197721939139477216
+    second: Penna_BG_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Penna_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1138
+        width: 497
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0f2cb9a4f8b71f0800000000000000
+      internalID: -1046084937829912401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 887
+        width: 463
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a607a6ea6db98b50800000000000000
+      internalID: 6596011396094690983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 794
+        width: 384
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805dea204cf9fa9a0800000000000000
+      internalID: -6219576896167947000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 975
+        width: 460
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780e89e4f9f9eedc0800000000000000
+      internalID: -3607770744909930361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1390
+        width: 430
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d8108be360e2b0800000000000000
+      internalID: -5557332077057617542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1280
+        width: 454
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7994b09cde43790800000000000000
+      internalID: -7551149227459897379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1385
+        width: 117
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48842dc6b3d112cb0800000000000000
+      internalID: -4890595579281651580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1113
+        width: 83
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a966786e167e20ca0800000000000000
+      internalID: -6052020541567048038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1016
+        width: 438
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20bd3c96f2c98a10800000000000000
+      internalID: 1912273881234518059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 698
+        width: 271
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc505011089e5fd0800000000000000
+      internalID: -2351274825104728837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 929
+        width: 106
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3f5839c30f13b40800000000000000
+      internalID: 5418375969667150806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_11
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1077
+        width: 53
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18857de6a0b054820800000000000000
+      internalID: 2901737674347337857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 596
+        width: 421
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f5f811f614cd0e0800000000000000
+      internalID: -2243846569045565590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_13
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 914
+        width: 439
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef2ebdf2ef6567b0800000000000000
+      internalID: -5231652371410571290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_14
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 807
+        width: 409
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ad997e06b192720800000000000000
+      internalID: 2821816744540756587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 229
+        width: 371
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd96fee0902fab50800000000000000
+      internalID: 6606534985232326110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 745
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266f5ceff4b618450800000000000000
+      internalID: 6089266162502596194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 700
+        width: 369
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd626eeb957329270800000000000000
+      internalID: 8255721925517911772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 656
+        width: 278
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abcc293aaa49f340800000000000000
+      internalID: 4898028164706257830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 193
+        width: 590
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e16e6ba7dd3a8300800000000000000
+      internalID: 255084325403255265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 226
+        width: 489
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63abb1a0ad2b16320800000000000000
+      internalID: 2549515513610615350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 582
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8547ef438372a13f0800000000000000
+      internalID: -929387250737843112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_22
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 40
+        width: 276
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af86c5dec618200800000000000000
+      internalID: 180545226784963148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 40
+        width: 191
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dd1445d69cc5e70800000000000000
+      internalID: 9105374018038521124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_24
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 40
+        width: 101
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b095778d06ab6980800000000000000
+      internalID: -8544553290967969610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_25
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 40
+        width: 80
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ead22123337350800000000000000
+      internalID: 6013206144881453234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 146
+        width: 621
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6468a0cb910e97a90800000000000000
+      internalID: -7315569718553049530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 746
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad53d1ecdd8eb0c0800000000000000
+      internalID: -4558049793031316062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 40
+        width: 320
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bda4125f1f3ed410800000000000000
+      internalID: 1503708729341947319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_29
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 40
+        width: 349
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7424dcbe1b29d0b0800000000000000
+      internalID: -5703480042070989697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penna_BG_30
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 40
+        width: 366
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02142865a8f1081e0800000000000000
+      internalID: -2197721939139477216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Penna_BG_0: -1046084937829912401
+      Penna_BG_1: 6596011396094690983
+      Penna_BG_10: 5418375969667150806
+      Penna_BG_11: 2901737674347337857
+      Penna_BG_12: -2243846569045565590
+      Penna_BG_13: -5231652371410571290
+      Penna_BG_14: 2821816744540756587
+      Penna_BG_15: 6606534985232326110
+      Penna_BG_16: 6089266162502596194
+      Penna_BG_17: 8255721925517911772
+      Penna_BG_18: 4898028164706257830
+      Penna_BG_19: 255084325403255265
+      Penna_BG_2: -6219576896167947000
+      Penna_BG_20: 2549515513610615350
+      Penna_BG_21: -929387250737843112
+      Penna_BG_22: 180545226784963148
+      Penna_BG_23: 9105374018038521124
+      Penna_BG_24: -8544553290967969610
+      Penna_BG_25: 6013206144881453234
+      Penna_BG_26: -7315569718553049530
+      Penna_BG_27: -4558049793031316062
+      Penna_BG_28: 1503708729341947319
+      Penna_BG_29: -5703480042070989697
+      Penna_BG_3: -3607770744909930361
+      Penna_BG_30: -2197721939139477216
+      Penna_BG_4: -5557332077057617542
+      Penna_BG_5: -7551149227459897379
+      Penna_BG_6: -4890595579281651580
+      Penna_BG_7: -6052020541567048038
+      Penna_BG_8: 1912273881234518059
+      Penna_BG_9: -2351274825104728837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

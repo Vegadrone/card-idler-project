@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: fc3e46b58b2027e4cb3fd97275023827
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2931174866062712691
+    second: SpazzolinoDenti_BG_0
+  - first:
+      213: 6046335655833702215
+    second: SpazzolinoDenti_BG_1
+  - first:
+      213: -160765344485371944
+    second: SpazzolinoDenti_BG_2
+  - first:
+      213: 8347729561125704925
+    second: SpazzolinoDenti_BG_3
+  - first:
+      213: 2608478733902834062
+    second: SpazzolinoDenti_BG_4
+  - first:
+      213: -3365618878243489011
+    second: SpazzolinoDenti_BG_5
+  - first:
+      213: 3890635124423108539
+    second: SpazzolinoDenti_BG_6
+  - first:
+      213: -8300722883962019996
+    second: SpazzolinoDenti_BG_7
+  - first:
+      213: 817287595746429123
+    second: SpazzolinoDenti_BG_8
+  - first:
+      213: 8862213610337000073
+    second: SpazzolinoDenti_BG_9
+  - first:
+      213: 882937255292322386
+    second: SpazzolinoDenti_BG_10
+  - first:
+      213: 8148586789145746153
+    second: SpazzolinoDenti_BG_11
+  - first:
+      213: -7981812178188805667
+    second: SpazzolinoDenti_BG_12
+  - first:
+      213: 1551190810783258498
+    second: SpazzolinoDenti_BG_13
+  - first:
+      213: 7053964594957182222
+    second: SpazzolinoDenti_BG_14
+  - first:
+      213: 3227017217341910859
+    second: SpazzolinoDenti_BG_15
+  - first:
+      213: 1946406709866041515
+    second: SpazzolinoDenti_BG_16
+  - first:
+      213: 4334860489924718434
+    second: SpazzolinoDenti_BG_17
+  - first:
+      213: 8712988113566230304
+    second: SpazzolinoDenti_BG_18
+  - first:
+      213: -5901384599974437057
+    second: SpazzolinoDenti_BG_19
+  - first:
+      213: 5287147956534857559
+    second: SpazzolinoDenti_BG_20
+  - first:
+      213: -3424444412109051540
+    second: SpazzolinoDenti_BG_21
+  - first:
+      213: -8223964554568924716
+    second: SpazzolinoDenti_BG_22
+  - first:
+      213: 9036257475856707260
+    second: SpazzolinoDenti_BG_23
+  - first:
+      213: -3183652414828299592
+    second: SpazzolinoDenti_BG_24
+  - first:
+      213: -3944337623995582683
+    second: SpazzolinoDenti_BG_25
+  - first:
+      213: -2456629827824472274
+    second: SpazzolinoDenti_BG_26
+  - first:
+      213: 1870066419477540766
+    second: SpazzolinoDenti_BG_27
+  - first:
+      213: -2849868399741028867
+    second: SpazzolinoDenti_BG_28
+  - first:
+      213: -7987242495456649164
+    second: SpazzolinoDenti_BG_29
+  - first:
+      213: -8723587505337043339
+    second: SpazzolinoDenti_BG_30
+  - first:
+      213: -2257175474278483787
+    second: SpazzolinoDenti_BG_31
+  - first:
+      213: 2412691427913938892
+    second: SpazzolinoDenti_BG_32
+  - first:
+      213: 3710831170915141959
+    second: SpazzolinoDenti_BG_33
+  - first:
+      213: -6423209277537120834
+    second: SpazzolinoDenti_BG_34
+  - first:
+      213: 8363097652636590131
+    second: SpazzolinoDenti_BG_35
+  - first:
+      213: 5734739121593350569
+    second: SpazzolinoDenti_BG_36
+  - first:
+      213: -3421572004107487670
+    second: SpazzolinoDenti_BG_37
+  - first:
+      213: -6410494753930400993
+    second: SpazzolinoDenti_BG_38
+  - first:
+      213: 2595382432741855681
+    second: SpazzolinoDenti_BG_39
+  - first:
+      213: 3527045632567074465
+    second: SpazzolinoDenti_BG_40
+  - first:
+      213: -6131244880803576596
+    second: SpazzolinoDenti_BG_41
+  - first:
+      213: 1843647133128276852
+    second: SpazzolinoDenti_BG_42
+  - first:
+      213: 4337573423451055611
+    second: SpazzolinoDenti_BG_43
+  - first:
+      213: -4178020859591803267
+    second: SpazzolinoDenti_BG_44
+  - first:
+      213: 5977758210597447681
+    second: SpazzolinoDenti_BG_45
+  - first:
+      213: -1284563203719352397
+    second: SpazzolinoDenti_BG_46
+  - first:
+      213: -5033362571965721556
+    second: SpazzolinoDenti_BG_47
+  - first:
+      213: 6732319349936207426
+    second: SpazzolinoDenti_BG_48
+  - first:
+      213: 6029686521199463362
+    second: SpazzolinoDenti_BG_49
+  - first:
+      213: 5483246439931099714
+    second: SpazzolinoDenti_BG_50
+  - first:
+      213: -5338221910961594031
+    second: SpazzolinoDenti_BG_51
+  - first:
+      213: -6521132986072203361
+    second: SpazzolinoDenti_BG_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1250
+        width: 104
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8067c54dff5257d0800000000000000
+      internalID: -2931174866062712691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1233
+        width: 231
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f0fbe7e36e8e350800000000000000
+      internalID: 6046335655833702215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1379
+        width: 140
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df81cd55c8d4cdf0800000000000000
+      internalID: -160765344485371944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1325
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4dce3cec719d370800000000000000
+      internalID: 8347729561125704925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1424
+        width: 116
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e896072969d233420800000000000000
+      internalID: 2608478733902834062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1318
+        width: 339
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bb2f8467bea41d0800000000000000
+      internalID: -3365618878243489011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_6
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1086
+        width: 173
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7a5ed38005ef530800000000000000
+      internalID: 3890635124423108539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 947
+        width: 169
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fdc722488edcc80800000000000000
+      internalID: -8300722883962019996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1062
+        width: 243
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c88cc7fcb6975b00800000000000000
+      internalID: 817287595746429123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1027
+        width: 179
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ad4c71358ecfa70800000000000000
+      internalID: 8862213610337000073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1149
+        width: 157
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25248a471c2d04c00800000000000000
+      internalID: 882937255292322386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1066
+        width: 104
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea197cf288951170800000000000000
+      internalID: 8148586789145746153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1179
+        width: 108
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd95b270d18ea3190800000000000000
+      internalID: -7981812178188805667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_13
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1032
+        width: 295
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2871697e2dfe68510800000000000000
+      internalID: 1551190810783258498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1001
+        width: 239
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05ea94fc67b4e160800000000000000
+      internalID: 7053964594957182222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 835
+        width: 288
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4febbbcf0ba8cc20800000000000000
+      internalID: 3227017217341910859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 430
+        width: 574
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba090021796030b10800000000000000
+      internalID: 1946406709866041515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 865
+        width: 201
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa6d406a4882c30800000000000000
+      internalID: 4334860489924718434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 914
+        width: 111
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027e051a680cae870800000000000000
+      internalID: 8712988113566230304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1016
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f109329f11a1ea0800000000000000
+      internalID: -5901384599974437057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_20
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 954
+        width: 65
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f4130dd09bf5940800000000000000
+      internalID: 5287147956534857559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_21
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 958
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c692b2f53fde970d0800000000000000
+      internalID: -3424444412109051540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_22
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 947
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1048f5fcb9edd80800000000000000
+      internalID: -8223964554568924716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_23
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 812
+        width: 266
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe28635c4c376d70800000000000000
+      internalID: 9036257475856707260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_24
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 868
+        width: 97
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba38d51ff461d3d0800000000000000
+      internalID: -3183652414828299592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 677
+        width: 191
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527f88734d5e249c0800000000000000
+      internalID: -3944337623995582683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 776
+        width: 171
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fa4e7ff2c48edd0800000000000000
+      internalID: -2456629827824472274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_27
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 770
+        width: 113
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f685f108fc3f910800000000000000
+      internalID: 1870066419477540766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_28
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 616
+        width: 117
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df533d82acb3378d0800000000000000
+      internalID: -2849868399741028867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_29
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 595
+        width: 75
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430e663c44d972190800000000000000
+      internalID: -7987242495456649164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_30
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 569
+        width: 55
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576795922679fe680800000000000000
+      internalID: -8723587505337043339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 716
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b838eb7dd6eca0e0800000000000000
+      internalID: -2257175474278483787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_32
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 611
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7b079121a9b7120800000000000000
+      internalID: 2412691427913938892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 658
+        width: 133
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74908d30a458f7330800000000000000
+      internalID: 3710831170915141959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 453
+        width: 138
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd0866913d2cd6a0800000000000000
+      internalID: -6423209277537120834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 550
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330ae476101bf0470800000000000000
+      internalID: 8363097652636590131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 448
+        width: 265
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a97b1ed8d2e59f40800000000000000
+      internalID: 5734739121593350569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_37
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 376
+        width: 175
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4670c9f3622480d0800000000000000
+      internalID: -3421572004107487670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_38
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 179
+        width: 283
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b297d4cf85907a0800000000000000
+      internalID: -6410494753930400993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_39
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 297
+        width: 379
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c11ed75296a40420800000000000000
+      internalID: 2595382432741855681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_40
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 587
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aed0c3d05592f030800000000000000
+      internalID: 3527045632567074465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 289
+        width: 148
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce445c0044179eaa0800000000000000
+      internalID: -6131244880803576596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 227
+        width: 306
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b374dac43f59910800000000000000
+      internalID: 1843647133128276852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 207
+        width: 228
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5a9f31c08223c30800000000000000
+      internalID: 4337573423451055611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_44
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 264
+        width: 85
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ebbdf0a20b406c0800000000000000
+      internalID: -4178020859591803267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_45
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 364
+        width: 69
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108e5d7cb6345f250800000000000000
+      internalID: 5977758210597447681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_46
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 40
+        width: 139
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf25c672905c2ee0800000000000000
+      internalID: -1284563203719352397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_47
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 59
+        width: 335
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c249c30a867e52ab0800000000000000
+      internalID: -5033362571965721556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 44
+        width: 113
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246bf6787c00e6d50800000000000000
+      internalID: 6732319349936207426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 40
+        width: 362
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb0e03c1ffbda350800000000000000
+      internalID: 6029686521199463362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 133
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ab40ce597681c40800000000000000
+      internalID: 5483246439931099714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_51
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 40
+        width: 182
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1516de08473dae5b0800000000000000
+      internalID: -5338221910961594031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpazzolinoDenti_BG_52
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 40
+        width: 236
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f751089184085a0800000000000000
+      internalID: -6521132986072203361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpazzolinoDenti_BG_0: -2931174866062712691
+      SpazzolinoDenti_BG_1: 6046335655833702215
+      SpazzolinoDenti_BG_10: 882937255292322386
+      SpazzolinoDenti_BG_11: 8148586789145746153
+      SpazzolinoDenti_BG_12: -7981812178188805667
+      SpazzolinoDenti_BG_13: 1551190810783258498
+      SpazzolinoDenti_BG_14: 7053964594957182222
+      SpazzolinoDenti_BG_15: 3227017217341910859
+      SpazzolinoDenti_BG_16: 1946406709866041515
+      SpazzolinoDenti_BG_17: 4334860489924718434
+      SpazzolinoDenti_BG_18: 8712988113566230304
+      SpazzolinoDenti_BG_19: -5901384599974437057
+      SpazzolinoDenti_BG_2: -160765344485371944
+      SpazzolinoDenti_BG_20: 5287147956534857559
+      SpazzolinoDenti_BG_21: -3424444412109051540
+      SpazzolinoDenti_BG_22: -8223964554568924716
+      SpazzolinoDenti_BG_23: 9036257475856707260
+      SpazzolinoDenti_BG_24: -3183652414828299592
+      SpazzolinoDenti_BG_25: -3944337623995582683
+      SpazzolinoDenti_BG_26: -2456629827824472274
+      SpazzolinoDenti_BG_27: 1870066419477540766
+      SpazzolinoDenti_BG_28: -2849868399741028867
+      SpazzolinoDenti_BG_29: -7987242495456649164
+      SpazzolinoDenti_BG_3: 8347729561125704925
+      SpazzolinoDenti_BG_30: -8723587505337043339
+      SpazzolinoDenti_BG_31: -2257175474278483787
+      SpazzolinoDenti_BG_32: 2412691427913938892
+      SpazzolinoDenti_BG_33: 3710831170915141959
+      SpazzolinoDenti_BG_34: -6423209277537120834
+      SpazzolinoDenti_BG_35: 8363097652636590131
+      SpazzolinoDenti_BG_36: 5734739121593350569
+      SpazzolinoDenti_BG_37: -3421572004107487670
+      SpazzolinoDenti_BG_38: -6410494753930400993
+      SpazzolinoDenti_BG_39: 2595382432741855681
+      SpazzolinoDenti_BG_4: 2608478733902834062
+      SpazzolinoDenti_BG_40: 3527045632567074465
+      SpazzolinoDenti_BG_41: -6131244880803576596
+      SpazzolinoDenti_BG_42: 1843647133128276852
+      SpazzolinoDenti_BG_43: 4337573423451055611
+      SpazzolinoDenti_BG_44: -4178020859591803267
+      SpazzolinoDenti_BG_45: 5977758210597447681
+      SpazzolinoDenti_BG_46: -1284563203719352397
+      SpazzolinoDenti_BG_47: -5033362571965721556
+      SpazzolinoDenti_BG_48: 6732319349936207426
+      SpazzolinoDenti_BG_49: 6029686521199463362
+      SpazzolinoDenti_BG_5: -3365618878243489011
+      SpazzolinoDenti_BG_50: 5483246439931099714
+      SpazzolinoDenti_BG_51: -5338221910961594031
+      SpazzolinoDenti_BG_52: -6521132986072203361
+      SpazzolinoDenti_BG_6: 3890635124423108539
+      SpazzolinoDenti_BG_7: -8300722883962019996
+      SpazzolinoDenti_BG_8: 817287595746429123
+      SpazzolinoDenti_BG_9: 8862213610337000073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

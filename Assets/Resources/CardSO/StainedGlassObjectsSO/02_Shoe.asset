@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a17ae75d7c75947bcedc5a42e5c588, type: 3}
+  m_Name: 02_Shoe
+  m_EditorClassIdentifier: 
+  cardId: shoe_card
+  slotInBinderPos: 2
+  cardName: Shoe
+  cardRarity: common
+  cardFlavourText: "Pippiripipp\xEC"
+  cardPerDayIncome: 10000000
+  cardSellValue: 20000
+  cardP1: {fileID: 21300000, guid: 9b1a108e75c77d74d8b6268a36aee462, type: 3}
+  cardFrame: {fileID: 21300000, guid: c779fb4f646b7294e92d34e4df21b3df, type: 3}
+  cardP2: {fileID: 21300000, guid: fb85569d5ae6f33468db8bab765a07c6, type: 3}
+  cardBg: {fileID: 21300000, guid: f7262bba7681a6b4291b243d0cd27eb1, type: 3}
+  cardP1Mat: {fileID: 2100000, guid: 1e693baf7f05c7d4594762debc5cb6da, type: 2}
+  cardFrameMat: {fileID: 2100000, guid: 1e693baf7f05c7d4594762debc5cb6da, type: 2}
+  cardP2Mat: {fileID: 2100000, guid: 1e693baf7f05c7d4594762debc5cb6da, type: 2}
+  cardBgMat: {fileID: 2100000, guid: 1e693baf7f05c7d4594762debc5cb6da, type: 2}

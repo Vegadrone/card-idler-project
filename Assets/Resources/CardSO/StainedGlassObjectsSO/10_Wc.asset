@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a17ae75d7c75947bcedc5a42e5c588, type: 3}
+  m_Name: 10_Wc
+  m_EditorClassIdentifier: 
+  cardId: wc_card
+  slotInBinderPos: 10
+  cardName: WC
+  cardRarity: common
+  cardFlavourText: "Pippiripipp\xEC"
+  cardPerDayIncome: 10000000
+  cardSellValue: 20000
+  cardP1: {fileID: 21300000, guid: 3ebb198ee7c0c0843996a1feba942769, type: 3}
+  cardFrame: {fileID: 21300000, guid: 9a60ae7bd181ed74c9a1eb06239068df, type: 3}
+  cardP2: {fileID: 21300000, guid: ced555bcad5ecb44a9a3253ab93f03a6, type: 3}
+  cardBg: {fileID: 21300000, guid: b2e9123a7045efa49be8b645e0950b89, type: 3}
+  cardP1Mat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardFrameMat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardP2Mat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardBgMat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}

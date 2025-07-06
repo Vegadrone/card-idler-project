@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: d1680078b2a951f49bc14d52a73b2b25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5379816455423852919
+    second: Martellone_BG_0
+  - first:
+      213: 7847488300919931634
+    second: Martellone_BG_1
+  - first:
+      213: 2946633266377382372
+    second: Martellone_BG_2
+  - first:
+      213: -6909311208308933709
+    second: Martellone_BG_3
+  - first:
+      213: -588917028652994305
+    second: Martellone_BG_4
+  - first:
+      213: -5426091492040683424
+    second: Martellone_BG_5
+  - first:
+      213: -5149736979949826280
+    second: Martellone_BG_6
+  - first:
+      213: -2622655148815963502
+    second: Martellone_BG_7
+  - first:
+      213: -6516056040331145087
+    second: Martellone_BG_8
+  - first:
+      213: -1571680894632330536
+    second: Martellone_BG_9
+  - first:
+      213: -4273569075287907719
+    second: Martellone_BG_10
+  - first:
+      213: -8548417217027411042
+    second: Martellone_BG_11
+  - first:
+      213: -4453956159593216406
+    second: Martellone_BG_12
+  - first:
+      213: 9084294807763504186
+    second: Martellone_BG_13
+  - first:
+      213: 3119180270307933456
+    second: Martellone_BG_14
+  - first:
+      213: 6205245297544743514
+    second: Martellone_BG_15
+  - first:
+      213: -8268541856261308543
+    second: Martellone_BG_16
+  - first:
+      213: -565110472944026072
+    second: Martellone_BG_17
+  - first:
+      213: 224577955794957745
+    second: Martellone_BG_18
+  - first:
+      213: -961699210326649655
+    second: Martellone_BG_19
+  - first:
+      213: -4712729728529667162
+    second: Martellone_BG_20
+  - first:
+      213: 3589855814507756792
+    second: Martellone_BG_21
+  - first:
+      213: 7995294519126817884
+    second: Martellone_BG_22
+  - first:
+      213: 6769463276792110831
+    second: Martellone_BG_23
+  - first:
+      213: -657383574274822407
+    second: Martellone_BG_24
+  - first:
+      213: -6540098048763239118
+    second: Martellone_BG_25
+  - first:
+      213: 910360752366519896
+    second: Martellone_BG_26
+  - first:
+      213: -4653003336785796113
+    second: Martellone_BG_27
+  - first:
+      213: 1051425853555539396
+    second: Martellone_BG_28
+  - first:
+      213: -5948158306964340781
+    second: Martellone_BG_29
+  - first:
+      213: -4489288021229819503
+    second: Martellone_BG_30
+  - first:
+      213: -1010551667072916923
+    second: Martellone_BG_31
+  - first:
+      213: -4204166031580914222
+    second: Martellone_BG_32
+  - first:
+      213: 6526522868146632703
+    second: Martellone_BG_33
+  - first:
+      213: -4561379607374016762
+    second: Martellone_BG_34
+  - first:
+      213: -2061568718658149833
+    second: Martellone_BG_35
+  - first:
+      213: -2974795632876915358
+    second: Martellone_BG_36
+  - first:
+      213: -7860095226958142235
+    second: Martellone_BG_37
+  - first:
+      213: 3352412831119549112
+    second: Martellone_BG_38
+  - first:
+      213: 4741312568326062613
+    second: Martellone_BG_39
+  - first:
+      213: 1044152726624700331
+    second: Martellone_BG_40
+  - first:
+      213: 3743847777961737865
+    second: Martellone_BG_41
+  - first:
+      213: -1882142911417202176
+    second: Martellone_BG_42
+  - first:
+      213: 3513299767005007040
+    second: Martellone_BG_43
+  - first:
+      213: 3609719317596031993
+    second: Martellone_BG_44
+  - first:
+      213: 2384842507545309010
+    second: Martellone_BG_45
+  - first:
+      213: 5377280827483081477
+    second: Martellone_BG_46
+  - first:
+      213: 6895451001385111765
+    second: Martellone_BG_47
+  - first:
+      213: -6338439143916320898
+    second: Martellone_BG_48
+  - first:
+      213: 7364853675860916451
+    second: Martellone_BG_49
+  - first:
+      213: -8192237981768606845
+    second: Martellone_BG_50
+  - first:
+      213: -6889239450546461353
+    second: Martellone_BG_51
+  - first:
+      213: 6458155242696193849
+    second: Martellone_BG_52
+  - first:
+      213: 3131650274906687536
+    second: Martellone_BG_53
+  - first:
+      213: -4927693581161556777
+    second: Martellone_BG_54
+  - first:
+      213: 1802615225566685214
+    second: Martellone_BG_55
+  - first:
+      213: -3335250797304718277
+    second: Martellone_BG_56
+  - first:
+      213: 8163123355890262597
+    second: Martellone_BG_57
+  - first:
+      213: -1585133911612306374
+    second: Martellone_BG_58
+  - first:
+      213: -2901895376065313810
+    second: Martellone_BG_59
+  - first:
+      213: 7881141235866950127
+    second: Martellone_BG_60
+  - first:
+      213: 5024854492523671788
+    second: Martellone_BG_61
+  - first:
+      213: 5682206890089124587
+    second: Martellone_BG_62
+  - first:
+      213: 3553204614695397376
+    second: Martellone_BG_63
+  - first:
+      213: 7190973551226133581
+    second: Martellone_BG_64
+  - first:
+      213: -3305220718270171361
+    second: Martellone_BG_65
+  - first:
+      213: -6997043502906332532
+    second: Martellone_BG_66
+  - first:
+      213: -4014115980064040168
+    second: Martellone_BG_67
+  - first:
+      213: 7428088560846590266
+    second: Martellone_BG_68
+  - first:
+      213: 3738023812731962483
+    second: Martellone_BG_69
+  - first:
+      213: -1293306457719751065
+    second: Martellone_BG_70
+  - first:
+      213: -8719824820589516613
+    second: Martellone_BG_71
+  - first:
+      213: 6552479683961549371
+    second: Martellone_BG_72
+  - first:
+      213: -8000473204628075119
+    second: Martellone_BG_73
+  - first:
+      213: 1544097127167835929
+    second: Martellone_BG_74
+  - first:
+      213: -3639719307377360316
+    second: Martellone_BG_75
+  - first:
+      213: 698260706992747983
+    second: Martellone_BG_76
+  - first:
+      213: 3891783213883118630
+    second: Martellone_BG_77
+  - first:
+      213: -2676047786333344202
+    second: Martellone_BG_78
+  - first:
+      213: 5670212239613018617
+    second: Martellone_BG_79
+  - first:
+      213: -5165413785835036230
+    second: Martellone_BG_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Martellone_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1393
+        width: 156
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771075e0092f8aa40800000000000000
+      internalID: 5379816455423852919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1394
+        width: 191
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2cd5b2801e7ec60800000000000000
+      internalID: 7847488300919931634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1395
+        width: 271
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9d5c5085b84e820800000000000000
+      internalID: 2946633266377382372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1396
+        width: 264
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbfe1a20123d10a0800000000000000
+      internalID: -6909311208308933709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_4
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1397
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0b5f8251fb3d7f0800000000000000
+      internalID: -588917028652994305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1307
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06055226986a2b4b0800000000000000
+      internalID: -5426091492040683424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1305
+        width: 224
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fc56f40857888b0800000000000000
+      internalID: -5149736979949826280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1304
+        width: 259
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aa97e99057a9bd0800000000000000
+      internalID: -2622655148815963502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_8
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1304
+        width: 260
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180168b0e815295a0800000000000000
+      internalID: -6516056040331145087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_9
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1305
+        width: 129
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dafb2fad84403ae0800000000000000
+      internalID: -1571680894632330536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1207
+        width: 278
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972ae50819b31b4c0800000000000000
+      internalID: -4273569075287907719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1207
+        width: 136
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e937f3325dbed5980800000000000000
+      internalID: -8548417217027411042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1208
+        width: 129
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66884e887e5032c0800000000000000
+      internalID: -4453956159593216406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1208
+        width: 268
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c4bab3ff5e11e70800000000000000
+      internalID: 9084294807763504186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1209
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d7c120eed894b20800000000000000
+      internalID: 3119180270307933456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1133
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a4158a8b57d1650800000000000000
+      internalID: 6205245297544743514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1132
+        width: 282
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f78178dfc304d80800000000000000
+      internalID: -8268541856261308543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1130
+        width: 265
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e7159d4035828f0800000000000000
+      internalID: -565110472944026072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_18
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1132
+        width: 265
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5ba8ff57cdd1300800000000000000
+      internalID: 224577955794957745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_19
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1131
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4d4bbd9ab57a2f0800000000000000
+      internalID: -961699210326649655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1035
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abe090f745099eb0800000000000000
+      internalID: -4712729728529667162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1033
+        width: 238
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcfa9ae7dab1d130800000000000000
+      internalID: 3589855814507756792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1033
+        width: 127
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c7e27110ef4fe60800000000000000
+      internalID: 7995294519126817884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_23
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1035
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feede3debf6f1fd50800000000000000
+      internalID: 6769463276792110831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1037
+        width: 285
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe2c264f1180e6f0800000000000000
+      internalID: -657383574274822407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_25
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1035
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235ed3fb977ec35a0800000000000000
+      internalID: -6540098048763239118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 945
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856834ee74042ac00800000000000000
+      internalID: 910360752366519896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 943
+        width: 276
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3ec2c2e163d6fb0800000000000000
+      internalID: -4653003336785796113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_28
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 943
+        width: 254
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdf6dc3e3a679e00800000000000000
+      internalID: 1051425853555539396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_29
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 943
+        width: 245
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dff995d885e37da0800000000000000
+      internalID: -5948158306964340781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_30
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 942
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1992e287458d2b1c0800000000000000
+      internalID: -4489288021229819503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 855
+        width: 293
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542a0f8ec9cc9f1f0800000000000000
+      internalID: -1010551667072916923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_32
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 857
+        width: 129
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd1bd6d44dc7a5c0800000000000000
+      internalID: -4204166031580914222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_33
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 857
+        width: 135
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7f75638fdd29a50800000000000000
+      internalID: 6526522868146632703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_34
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 858
+        width: 268
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fc2c01a69b2b0c0800000000000000
+      internalID: -4561379607374016762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_35
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 861
+        width: 112
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732e25c4c26d363e0800000000000000
+      internalID: -2061568718658149833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 765
+        width: 122
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265fcfe022767b6d0800000000000000
+      internalID: -2974795632876915358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 766
+        width: 281
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4aa6029055be290800000000000000
+      internalID: -7860095226958142235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_38
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 768
+        width: 276
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a75345b9268e20800000000000000
+      internalID: 3352412831119549112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_39
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 768
+        width: 271
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5128b2c09a68cc140800000000000000
+      internalID: 4741312568326062613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 674
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba788b96f539d7e00800000000000000
+      internalID: 1044152726624700331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 672
+        width: 281
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e7b82e7b1d4f330800000000000000
+      internalID: 3743847777961737865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 673
+        width: 267
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a457c7ef841e5e0800000000000000
+      internalID: -1882142911417202176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_43
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 745
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cccbc9168fb1c030800000000000000
+      internalID: 3513299767005007040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_44
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 669
+        width: 283
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb4d20289c481230800000000000000
+      internalID: 3609719317596031993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_45
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 672
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f6d7b00a9a81120800000000000000
+      internalID: 2384842507545309010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 580
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bc5ab2c60ff9a40800000000000000
+      internalID: 5377280827483081477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_47
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 581
+        width: 277
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0dbafe62091bf50800000000000000
+      internalID: 6895451001385111765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_48
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 582
+        width: 278
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77cf6c5e275908a0800000000000000
+      internalID: -6338439143916320898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_49
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 582
+        width: 271
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e87b64c567353660800000000000000
+      internalID: 7364853675860916451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 494
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b183db5f25f4e80800000000000000
+      internalID: -8192237981768606845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 493
+        width: 275
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755229178318460a0800000000000000
+      internalID: -6889239450546461353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 493
+        width: 289
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937bb39f9f9ff9950800000000000000
+      internalID: 6458155242696193849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_53
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 493
+        width: 287
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0384194355bd57b20800000000000000
+      internalID: 3131650274906687536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_54
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 495
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d494e4cbc05d9bb0800000000000000
+      internalID: -4927693581161556777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 407
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18ec9a3ffc240910800000000000000
+      internalID: 1802615225566685214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 406
+        width: 264
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c50dd121fc6b1d0800000000000000
+      internalID: -3335250797304718277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_57
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 407
+        width: 270
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542a88d217d394170800000000000000
+      internalID: 8163123355890262597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_58
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 408
+        width: 287
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c4ce41b19700ae0800000000000000
+      internalID: -1585133911612306374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 316
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee34746c7856ab7d0800000000000000
+      internalID: -2901895376065313810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 316
+        width: 271
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9588ca2307f5d60800000000000000
+      internalID: 7881141235866950127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_61
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 315
+        width: 276
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce036e2c98edbb540800000000000000
+      internalID: 5024854492523671788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_62
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 315
+        width: 258
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be21a089f014bde40800000000000000
+      internalID: 5682206890089124587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_63
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 317
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008a23975c48f4130800000000000000
+      internalID: 3553204614695397376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 224
+        width: 12
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c101e68587bc360800000000000000
+      internalID: 7190973551226133581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_65
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 223
+        width: 268
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17be3fb44f7122d0800000000000000
+      internalID: -3305220718270171361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_66
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 225
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a205b810285ee90800000000000000
+      internalID: -6997043502906332532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_67
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 225
+        width: 127
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b5019a8cefa48c0800000000000000
+      internalID: -4014115980064040168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_68
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 225
+        width: 279
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31576db03fd51760800000000000000
+      internalID: 7428088560846590266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_69
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 226
+        width: 101
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37407df4ad020e330800000000000000
+      internalID: 3738023812731962483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_70
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 135
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e35e101a04d0ee0800000000000000
+      internalID: -1293306457719751065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_71
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 135
+        width: 281
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a0297685fcf680800000000000000
+      internalID: -8719824820589516613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_72
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 135
+        width: 280
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32fd785e851fea50800000000000000
+      internalID: 6552479683961549371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_73
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 136
+        width: 276
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dcc1b320c98f090800000000000000
+      internalID: -8000473204628075119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_74
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 138
+        width: 12
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f3a8bf72cbd6510800000000000000
+      internalID: 1544097127167835929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_75
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 12
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44244a1f29e1d7dc0800000000000000
+      internalID: -3639719307377360316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_76
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 40
+        width: 251
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc57ae8d968b0b900800000000000000
+      internalID: 698260706992747983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 40
+        width: 129
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624d456a634620630800000000000000
+      internalID: 3891783213883118630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_78
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 40
+        width: 133
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e61a577b4ccdad0800000000000000
+      internalID: -2676047786333344202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_79
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 40
+        width: 281
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1c4376df3a0be40800000000000000
+      internalID: 5670212239613018617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martellone_BG_80
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 40
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1a5618783c058b0800000000000000
+      internalID: -5165413785835036230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Martellone_BG_0: 5379816455423852919
+      Martellone_BG_1: 7847488300919931634
+      Martellone_BG_10: -4273569075287907719
+      Martellone_BG_11: -8548417217027411042
+      Martellone_BG_12: -4453956159593216406
+      Martellone_BG_13: 9084294807763504186
+      Martellone_BG_14: 3119180270307933456
+      Martellone_BG_15: 6205245297544743514
+      Martellone_BG_16: -8268541856261308543
+      Martellone_BG_17: -565110472944026072
+      Martellone_BG_18: 224577955794957745
+      Martellone_BG_19: -961699210326649655
+      Martellone_BG_2: 2946633266377382372
+      Martellone_BG_20: -4712729728529667162
+      Martellone_BG_21: 3589855814507756792
+      Martellone_BG_22: 7995294519126817884
+      Martellone_BG_23: 6769463276792110831
+      Martellone_BG_24: -657383574274822407
+      Martellone_BG_25: -6540098048763239118
+      Martellone_BG_26: 910360752366519896
+      Martellone_BG_27: -4653003336785796113
+      Martellone_BG_28: 1051425853555539396
+      Martellone_BG_29: -5948158306964340781
+      Martellone_BG_3: -6909311208308933709
+      Martellone_BG_30: -4489288021229819503
+      Martellone_BG_31: -1010551667072916923
+      Martellone_BG_32: -4204166031580914222
+      Martellone_BG_33: 6526522868146632703
+      Martellone_BG_34: -4561379607374016762
+      Martellone_BG_35: -2061568718658149833
+      Martellone_BG_36: -2974795632876915358
+      Martellone_BG_37: -7860095226958142235
+      Martellone_BG_38: 3352412831119549112
+      Martellone_BG_39: 4741312568326062613
+      Martellone_BG_4: -588917028652994305
+      Martellone_BG_40: 1044152726624700331
+      Martellone_BG_41: 3743847777961737865
+      Martellone_BG_42: -1882142911417202176
+      Martellone_BG_43: 3513299767005007040
+      Martellone_BG_44: 3609719317596031993
+      Martellone_BG_45: 2384842507545309010
+      Martellone_BG_46: 5377280827483081477
+      Martellone_BG_47: 6895451001385111765
+      Martellone_BG_48: -6338439143916320898
+      Martellone_BG_49: 7364853675860916451
+      Martellone_BG_5: -5426091492040683424
+      Martellone_BG_50: -8192237981768606845
+      Martellone_BG_51: -6889239450546461353
+      Martellone_BG_52: 6458155242696193849
+      Martellone_BG_53: 3131650274906687536
+      Martellone_BG_54: -4927693581161556777
+      Martellone_BG_55: 1802615225566685214
+      Martellone_BG_56: -3335250797304718277
+      Martellone_BG_57: 8163123355890262597
+      Martellone_BG_58: -1585133911612306374
+      Martellone_BG_59: -2901895376065313810
+      Martellone_BG_6: -5149736979949826280
+      Martellone_BG_60: 7881141235866950127
+      Martellone_BG_61: 5024854492523671788
+      Martellone_BG_62: 5682206890089124587
+      Martellone_BG_63: 3553204614695397376
+      Martellone_BG_64: 7190973551226133581
+      Martellone_BG_65: -3305220718270171361
+      Martellone_BG_66: -6997043502906332532
+      Martellone_BG_67: -4014115980064040168
+      Martellone_BG_68: 7428088560846590266
+      Martellone_BG_69: 3738023812731962483
+      Martellone_BG_7: -2622655148815963502
+      Martellone_BG_70: -1293306457719751065
+      Martellone_BG_71: -8719824820589516613
+      Martellone_BG_72: 6552479683961549371
+      Martellone_BG_73: -8000473204628075119
+      Martellone_BG_74: 1544097127167835929
+      Martellone_BG_75: -3639719307377360316
+      Martellone_BG_76: 698260706992747983
+      Martellone_BG_77: 3891783213883118630
+      Martellone_BG_78: -2676047786333344202
+      Martellone_BG_79: 5670212239613018617
+      Martellone_BG_8: -6516056040331145087
+      Martellone_BG_80: -5165413785835036230
+      Martellone_BG_9: -1571680894632330536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a17ae75d7c75947bcedc5a42e5c588, type: 3}
+  m_Name: 16_Clothespin
+  m_EditorClassIdentifier: 
+  cardId: clothespin_card
+  slotInBinderPos: 16
+  cardName: Clothespin
+  cardRarity: common
+  cardFlavourText: "Pippiripipp\xEC"
+  cardPerDayIncome: 10000000
+  cardSellValue: 20000
+  cardP1: {fileID: 21300000, guid: 0be9f98b87b34154c8186f59038beb41, type: 3}
+  cardFrame: {fileID: 21300000, guid: 8ac0f9073b685f74e86f838d0fbc734a, type: 3}
+  cardP2: {fileID: 21300000, guid: 7987cdd27c77e774ca1b690fdcf8b28f, type: 3}
+  cardBg: {fileID: 21300000, guid: 48dfdd51c3cdd7a46941ec4401aa2b5e, type: 3}
+  cardP1Mat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardFrameMat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardP2Mat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardBgMat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}

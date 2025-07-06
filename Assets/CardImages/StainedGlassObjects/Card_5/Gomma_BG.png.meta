@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: a2edb5298a8c397409510fd19fda5fc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5548887644286138355
+    second: Gomma_BG_0
+  - first:
+      213: 7091589761769488539
+    second: Gomma_BG_1
+  - first:
+      213: 4431909509679355952
+    second: Gomma_BG_2
+  - first:
+      213: 4941647228233159040
+    second: Gomma_BG_3
+  - first:
+      213: 1564033410163798209
+    second: Gomma_BG_4
+  - first:
+      213: 5486392832558595361
+    second: Gomma_BG_5
+  - first:
+      213: -5319177145208391245
+    second: Gomma_BG_6
+  - first:
+      213: 6486547604793751302
+    second: Gomma_BG_7
+  - first:
+      213: 6931860687629324990
+    second: Gomma_BG_8
+  - first:
+      213: -7852729937405462309
+    second: Gomma_BG_9
+  - first:
+      213: 7472684756548803706
+    second: Gomma_BG_10
+  - first:
+      213: 3190200277954203605
+    second: Gomma_BG_11
+  - first:
+      213: -8342488315194513955
+    second: Gomma_BG_12
+  - first:
+      213: 2757792807566231654
+    second: Gomma_BG_13
+  - first:
+      213: 7673490796869744576
+    second: Gomma_BG_14
+  - first:
+      213: 6037754948991155764
+    second: Gomma_BG_15
+  - first:
+      213: 1603213232561043179
+    second: Gomma_BG_16
+  - first:
+      213: 8192232252703865784
+    second: Gomma_BG_17
+  - first:
+      213: -7463669483337958270
+    second: Gomma_BG_18
+  - first:
+      213: 220478516845030192
+    second: Gomma_BG_19
+  - first:
+      213: 2776352833747698047
+    second: Gomma_BG_20
+  - first:
+      213: 7309621327617179215
+    second: Gomma_BG_21
+  - first:
+      213: -773985381797209195
+    second: Gomma_BG_22
+  - first:
+      213: -8407967064098949636
+    second: Gomma_BG_23
+  - first:
+      213: 3158222973525400691
+    second: Gomma_BG_24
+  - first:
+      213: 7696757254223952840
+    second: Gomma_BG_25
+  - first:
+      213: 6551914629348913171
+    second: Gomma_BG_26
+  - first:
+      213: 5238210569503554694
+    second: Gomma_BG_27
+  - first:
+      213: 3190160848499273123
+    second: Gomma_BG_28
+  - first:
+      213: 399322383246898523
+    second: Gomma_BG_29
+  - first:
+      213: 4336173074673960477
+    second: Gomma_BG_30
+  - first:
+      213: 2794795899541528720
+    second: Gomma_BG_31
+  - first:
+      213: -2719370511226473384
+    second: Gomma_BG_32
+  - first:
+      213: -5093159138250387731
+    second: Gomma_BG_33
+  - first:
+      213: 1491571710550680976
+    second: Gomma_BG_34
+  - first:
+      213: -7807997208311854429
+    second: Gomma_BG_35
+  - first:
+      213: 6917189607539617079
+    second: Gomma_BG_36
+  - first:
+      213: 4808449112591327636
+    second: Gomma_BG_37
+  - first:
+      213: -2868471324578741198
+    second: Gomma_BG_38
+  - first:
+      213: -5054146842022078930
+    second: Gomma_BG_39
+  - first:
+      213: 9128852246322648864
+    second: Gomma_BG_40
+  - first:
+      213: 4628671820915536160
+    second: Gomma_BG_41
+  - first:
+      213: 1140651907455845901
+    second: Gomma_BG_42
+  - first:
+      213: 2234409094018650957
+    second: Gomma_BG_43
+  - first:
+      213: -9171431469891616090
+    second: Gomma_BG_44
+  - first:
+      213: -6976298459039205900
+    second: Gomma_BG_45
+  - first:
+      213: 4056045383802757191
+    second: Gomma_BG_46
+  - first:
+      213: 919823029275312076
+    second: Gomma_BG_47
+  - first:
+      213: 5008701843286310273
+    second: Gomma_BG_48
+  - first:
+      213: 4433715451164578174
+    second: Gomma_BG_49
+  - first:
+      213: -8683921634666701730
+    second: Gomma_BG_50
+  - first:
+      213: 5251044783369154742
+    second: Gomma_BG_51
+  - first:
+      213: -9203823915620171106
+    second: Gomma_BG_52
+  - first:
+      213: -7950136895110055481
+    second: Gomma_BG_53
+  - first:
+      213: -3491063482046295978
+    second: Gomma_BG_54
+  - first:
+      213: 3962139998552010971
+    second: Gomma_BG_55
+  - first:
+      213: 8502403161579031010
+    second: Gomma_BG_56
+  - first:
+      213: 1803512389448915755
+    second: Gomma_BG_57
+  - first:
+      213: 4236642852057418405
+    second: Gomma_BG_58
+  - first:
+      213: 7106950540674250547
+    second: Gomma_BG_59
+  - first:
+      213: 8534389645443386538
+    second: Gomma_BG_60
+  - first:
+      213: 6568016879943452617
+    second: Gomma_BG_61
+  - first:
+      213: 6302868874377664872
+    second: Gomma_BG_62
+  - first:
+      213: -8726869654182442837
+    second: Gomma_BG_63
+  - first:
+      213: -4470914429556362869
+    second: Gomma_BG_64
+  - first:
+      213: -2389542565002389875
+    second: Gomma_BG_65
+  - first:
+      213: 7652784123506092543
+    second: Gomma_BG_66
+  - first:
+      213: 5400829470453459751
+    second: Gomma_BG_67
+  - first:
+      213: 1168618637373066403
+    second: Gomma_BG_68
+  - first:
+      213: -7940636326450945107
+    second: Gomma_BG_69
+  - first:
+      213: -9093019097008967902
+    second: Gomma_BG_70
+  - first:
+      213: -1731487835318544369
+    second: Gomma_BG_71
+  - first:
+      213: -597342352987378392
+    second: Gomma_BG_72
+  - first:
+      213: -6113311547238987093
+    second: Gomma_BG_73
+  - first:
+      213: 7467454079073584691
+    second: Gomma_BG_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gomma_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1401
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7ba38c9eb910d40800000000000000
+      internalID: 5548887644286138355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1401
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b904113c0536a6260800000000000000
+      internalID: 7091589761769488539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1401
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0381d11c73e418d30800000000000000
+      internalID: 4431909509679355952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_3
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1401
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081912cd8f1449440800000000000000
+      internalID: 4941647228233159040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1401
+        width: 298
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0f7a5991094b510800000000000000
+      internalID: 1564033410163798209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_5
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1401
+        width: 83
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d77ea8635932c40800000000000000
+      internalID: 5486392832558595361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1374
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b93a72919c7e26b0800000000000000
+      internalID: -5319177145208391245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1374
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607746aeda8d40a50800000000000000
+      internalID: 6486547604793751302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1374
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb214ae919ae23060800000000000000
+      internalID: 6931860687629324990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1374
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd83fdb3abf750390800000000000000
+      internalID: -7852729937405462309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_10
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1374
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c5190b13f44b760800000000000000
+      internalID: 7472684756548803706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_11
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1374
+        width: 83
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df00d9104ed54c20800000000000000
+      internalID: 3190200277954203605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 806
+        width: 61
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5ebf5e317893c80800000000000000
+      internalID: -8342488315194513955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 805
+        width: 22
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668cc1372f5a54620800000000000000
+      internalID: 2757792807566231654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 806
+        width: 38
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c776ae4937bd7a60800000000000000
+      internalID: 7673490796869744576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 806
+        width: 63
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e797ff22a6ac350800000000000000
+      internalID: 6037754948991155764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 805
+        width: 22
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6b10ad0f1cf3610800000000000000
+      internalID: 1603213232561043179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 806
+        width: 38
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb79eb54d7a0b170800000000000000
+      internalID: 8192232252703865784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 806
+        width: 63
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cb7bc2628bb6890800000000000000
+      internalID: -7463669483337958270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_19
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 805
+        width: 22
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b272dfa0c4f0300800000000000000
+      internalID: 220478516845030192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_20
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 806
+        width: 38
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f714eaa4136978620800000000000000
+      internalID: 2776352833747698047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_21
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 806
+        width: 63
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ebd339eddf07560800000000000000
+      internalID: 7309621327617179215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_22
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 805
+        width: 22
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bd1a065604245f0800000000000000
+      internalID: -773985381797209195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_23
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 806
+        width: 38
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5b235a086e05b80800000000000000
+      internalID: -8407967064098949636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_24
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 806
+        width: 63
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c957abf0344db20800000000000000
+      internalID: 3158222973525400691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_25
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 805
+        width: 22
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbfd6c81ff50da60800000000000000
+      internalID: 7696757254223952840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_26
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 806
+        width: 38
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310f60154a31dea50800000000000000
+      internalID: 6551914629348913171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_27
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 806
+        width: 54
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cb4fd72ccd1b840800000000000000
+      internalID: 5238210569503554694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 730
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad6827b36ab54c20800000000000000
+      internalID: 3190160848499273123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 765
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b553b44879daa8500800000000000000
+      internalID: 399322383246898523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_30
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 730
+        width: 114
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d160e88ff6e2d2c30800000000000000
+      internalID: 4336173074673960477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_31
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 765
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09024eb201c19c620800000000000000
+      internalID: 2794795899541528720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 730
+        width: 114
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8547ca98dead24ad0800000000000000
+      internalID: -2719370511226473384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_33
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 765
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee0d0c9fb67159b0800000000000000
+      internalID: -5093159138250387731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_34
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 730
+        width: 114
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095256c619023b410800000000000000
+      internalID: 1491571710550680976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_35
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 765
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa845758eb64a390800000000000000
+      internalID: -7807997208311854429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_36
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 730
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2c699c4bceff50800000000000000
+      internalID: 6917189607539617079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_37
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 765
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4916c8cddfa0bb240800000000000000
+      internalID: 4808449112591327636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_38
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 730
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234071237842138d0800000000000000
+      internalID: -2868471324578741198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 697
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e269c96a9301cd9b0800000000000000
+      internalID: -5054146842022078930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_40
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 689
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027961550c230be70800000000000000
+      internalID: 9128852246322648864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 697
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021f7835f785c3040800000000000000
+      internalID: 4628671820915536160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 689
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06074ccdd864df00800000000000000
+      internalID: 1140651907455845901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 697
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4352eb8b37320f10800000000000000
+      internalID: 2234409094018650957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_44
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 689
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a28543aba788b080800000000000000
+      internalID: -9171431469891616090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_45
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 697
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5fcd573853f2f90800000000000000
+      internalID: -6976298459039205900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_46
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 689
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7402d6669c7f94830800000000000000
+      internalID: 4056045383802757191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_47
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 697
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfbd24fb2ed3cc00800000000000000
+      internalID: 919823029275312076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_48
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 689
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dbcea0acb728540800000000000000
+      internalID: 5008701843286310273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_49
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 697
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7153d546b8b78d30800000000000000
+      internalID: 4433715451164578174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 122
+        width: 38
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c9c5c58438c7780800000000000000
+      internalID: -8683921634666701730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 122
+        width: 63
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0f264c8657fd840800000000000000
+      internalID: 5251044783369154742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 122
+        width: 22
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e920736a9e2754080800000000000000
+      internalID: -9203823915620171106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_53
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 122
+        width: 38
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9fc339d907ba190800000000000000
+      internalID: -7950136895110055481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_54
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 122
+        width: 63
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650da4072404d8fc0800000000000000
+      internalID: -3491063482046295978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_55
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 122
+        width: 22
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd03f0c16595cf630800000000000000
+      internalID: 3962139998552010971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_56
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 122
+        width: 38
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e98317b0aa9ef570800000000000000
+      internalID: 8502403161579031010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_57
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 122
+        width: 63
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b5e1976fc570910800000000000000
+      internalID: 1803512389448915755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_58
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 122
+        width: 22
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa841d2a349bca30800000000000000
+      internalID: 4236642852057418405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_59
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 122
+        width: 38
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337b82dccd5f0a260800000000000000
+      internalID: 7106950540674250547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_60
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 122
+        width: 63
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaccc675a2e307670800000000000000
+      internalID: 8534389645443386538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_61
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 122
+        width: 29
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c78ccfad88462b50800000000000000
+      internalID: 6568016879943452617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_62
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 122
+        width: 38
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8699523e8d9487750800000000000000
+      internalID: 6302868874377664872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_63
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 122
+        width: 63
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c155594ee3e680800000000000000
+      internalID: -8726869654182442837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_64
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 122
+        width: 22
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81ff15a30f14f1c0800000000000000
+      internalID: -4470914429556362869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d865b5d82b3a6ded0800000000000000
+      internalID: -2389542565002389875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_66
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 95
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff964583d96243a60800000000000000
+      internalID: 7652784123506092543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_67
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 95
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72be6ded9c993fa40800000000000000
+      internalID: 5400829470453459751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_68
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 95
+        width: 129
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc5868574c73010800000000000000
+      internalID: 1168618637373066403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_69
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 95
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3245715513dc190800000000000000
+      internalID: -7940636326450945107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 49
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fefe2ee4b1fc180800000000000000
+      internalID: -9093019097008967902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_71
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 49
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f089de2dcf488f7e0800000000000000
+      internalID: -1731487835318544369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_72
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 49
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d24e87b40d5b7f0800000000000000
+      internalID: -597342352987378392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_73
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 43
+        width: 113
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baac6899987292ba0800000000000000
+      internalID: -6113311547238987093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomma_BG_74
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 49
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33609bfabe9b1a760800000000000000
+      internalID: 7467454079073584691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gomma_BG_0: 5548887644286138355
+      Gomma_BG_1: 7091589761769488539
+      Gomma_BG_10: 7472684756548803706
+      Gomma_BG_11: 3190200277954203605
+      Gomma_BG_12: -8342488315194513955
+      Gomma_BG_13: 2757792807566231654
+      Gomma_BG_14: 7673490796869744576
+      Gomma_BG_15: 6037754948991155764
+      Gomma_BG_16: 1603213232561043179
+      Gomma_BG_17: 8192232252703865784
+      Gomma_BG_18: -7463669483337958270
+      Gomma_BG_19: 220478516845030192
+      Gomma_BG_2: 4431909509679355952
+      Gomma_BG_20: 2776352833747698047
+      Gomma_BG_21: 7309621327617179215
+      Gomma_BG_22: -773985381797209195
+      Gomma_BG_23: -8407967064098949636
+      Gomma_BG_24: 3158222973525400691
+      Gomma_BG_25: 7696757254223952840
+      Gomma_BG_26: 6551914629348913171
+      Gomma_BG_27: 5238210569503554694
+      Gomma_BG_28: 3190160848499273123
+      Gomma_BG_29: 399322383246898523
+      Gomma_BG_3: 4941647228233159040
+      Gomma_BG_30: 4336173074673960477
+      Gomma_BG_31: 2794795899541528720
+      Gomma_BG_32: -2719370511226473384
+      Gomma_BG_33: -5093159138250387731
+      Gomma_BG_34: 1491571710550680976
+      Gomma_BG_35: -7807997208311854429
+      Gomma_BG_36: 6917189607539617079
+      Gomma_BG_37: 4808449112591327636
+      Gomma_BG_38: -2868471324578741198
+      Gomma_BG_39: -5054146842022078930
+      Gomma_BG_4: 1564033410163798209
+      Gomma_BG_40: 9128852246322648864
+      Gomma_BG_41: 4628671820915536160
+      Gomma_BG_42: 1140651907455845901
+      Gomma_BG_43: 2234409094018650957
+      Gomma_BG_44: -9171431469891616090
+      Gomma_BG_45: -6976298459039205900
+      Gomma_BG_46: 4056045383802757191
+      Gomma_BG_47: 919823029275312076
+      Gomma_BG_48: 5008701843286310273
+      Gomma_BG_49: 4433715451164578174
+      Gomma_BG_5: 5486392832558595361
+      Gomma_BG_50: -8683921634666701730
+      Gomma_BG_51: 5251044783369154742
+      Gomma_BG_52: -9203823915620171106
+      Gomma_BG_53: -7950136895110055481
+      Gomma_BG_54: -3491063482046295978
+      Gomma_BG_55: 3962139998552010971
+      Gomma_BG_56: 8502403161579031010
+      Gomma_BG_57: 1803512389448915755
+      Gomma_BG_58: 4236642852057418405
+      Gomma_BG_59: 7106950540674250547
+      Gomma_BG_6: -5319177145208391245
+      Gomma_BG_60: 8534389645443386538
+      Gomma_BG_61: 6568016879943452617
+      Gomma_BG_62: 6302868874377664872
+      Gomma_BG_63: -8726869654182442837
+      Gomma_BG_64: -4470914429556362869
+      Gomma_BG_65: -2389542565002389875
+      Gomma_BG_66: 7652784123506092543
+      Gomma_BG_67: 5400829470453459751
+      Gomma_BG_68: 1168618637373066403
+      Gomma_BG_69: -7940636326450945107
+      Gomma_BG_7: 6486547604793751302
+      Gomma_BG_70: -9093019097008967902
+      Gomma_BG_71: -1731487835318544369
+      Gomma_BG_72: -597342352987378392
+      Gomma_BG_73: -6113311547238987093
+      Gomma_BG_74: 7467454079073584691
+      Gomma_BG_8: 6931860687629324990
+      Gomma_BG_9: -7852729937405462309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

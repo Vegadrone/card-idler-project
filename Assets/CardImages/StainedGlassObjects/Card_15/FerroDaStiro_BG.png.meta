@@ -1,0 +1,3757 @@
+fileFormatVersion: 2
+guid: 6a6ddabdd76b26f438da2d7184922686
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9142268150113807070
+    second: FerroDaStiro_BG_0
+  - first:
+      213: 8593112634239981407
+    second: FerroDaStiro_BG_1
+  - first:
+      213: 1866675413674542536
+    second: FerroDaStiro_BG_2
+  - first:
+      213: -7749258533530872532
+    second: FerroDaStiro_BG_3
+  - first:
+      213: -5493811347255991268
+    second: FerroDaStiro_BG_4
+  - first:
+      213: -7673428796535408125
+    second: FerroDaStiro_BG_5
+  - first:
+      213: 6704167861257342195
+    second: FerroDaStiro_BG_6
+  - first:
+      213: -6897199814561264584
+    second: FerroDaStiro_BG_7
+  - first:
+      213: -8893833058398127272
+    second: FerroDaStiro_BG_8
+  - first:
+      213: 6697744936490301346
+    second: FerroDaStiro_BG_9
+  - first:
+      213: -4672827416295735003
+    second: FerroDaStiro_BG_10
+  - first:
+      213: 3241758110657508979
+    second: FerroDaStiro_BG_11
+  - first:
+      213: 2219923712638695533
+    second: FerroDaStiro_BG_12
+  - first:
+      213: 3608720274073709112
+    second: FerroDaStiro_BG_13
+  - first:
+      213: -272187893715944449
+    second: FerroDaStiro_BG_14
+  - first:
+      213: 2150471440534951632
+    second: FerroDaStiro_BG_15
+  - first:
+      213: 253659306742063663
+    second: FerroDaStiro_BG_16
+  - first:
+      213: 5406169439525721615
+    second: FerroDaStiro_BG_17
+  - first:
+      213: -4476925881773430186
+    second: FerroDaStiro_BG_18
+  - first:
+      213: 3044429038869151397
+    second: FerroDaStiro_BG_19
+  - first:
+      213: 4111407132451655890
+    second: FerroDaStiro_BG_20
+  - first:
+      213: -150509473980747622
+    second: FerroDaStiro_BG_21
+  - first:
+      213: -6750292741268749628
+    second: FerroDaStiro_BG_22
+  - first:
+      213: 1128401699201714007
+    second: FerroDaStiro_BG_23
+  - first:
+      213: 974019232527800826
+    second: FerroDaStiro_BG_24
+  - first:
+      213: -229870808475996168
+    second: FerroDaStiro_BG_25
+  - first:
+      213: 8113386923321365625
+    second: FerroDaStiro_BG_26
+  - first:
+      213: -2248419670178217156
+    second: FerroDaStiro_BG_27
+  - first:
+      213: -4689564623998706332
+    second: FerroDaStiro_BG_28
+  - first:
+      213: 5694201054286475088
+    second: FerroDaStiro_BG_29
+  - first:
+      213: -7083992892174520062
+    second: FerroDaStiro_BG_30
+  - first:
+      213: -5844777532304810083
+    second: FerroDaStiro_BG_31
+  - first:
+      213: -4726319864619562220
+    second: FerroDaStiro_BG_32
+  - first:
+      213: -2004023706267306961
+    second: FerroDaStiro_BG_33
+  - first:
+      213: -5007470843222200420
+    second: FerroDaStiro_BG_34
+  - first:
+      213: 4359445348403354181
+    second: FerroDaStiro_BG_35
+  - first:
+      213: 2458518881878586827
+    second: FerroDaStiro_BG_36
+  - first:
+      213: -9206642915405616522
+    second: FerroDaStiro_BG_37
+  - first:
+      213: 6501579617649746375
+    second: FerroDaStiro_BG_38
+  - first:
+      213: 1282018301166745617
+    second: FerroDaStiro_BG_39
+  - first:
+      213: 7146838170041346090
+    second: FerroDaStiro_BG_40
+  - first:
+      213: -3560997800163754348
+    second: FerroDaStiro_BG_41
+  - first:
+      213: 7845421611380493448
+    second: FerroDaStiro_BG_42
+  - first:
+      213: 4545327925793988497
+    second: FerroDaStiro_BG_43
+  - first:
+      213: -9893815788980174
+    second: FerroDaStiro_BG_44
+  - first:
+      213: 2061121787830398940
+    second: FerroDaStiro_BG_45
+  - first:
+      213: 291249094117270278
+    second: FerroDaStiro_BG_46
+  - first:
+      213: -603951119195687105
+    second: FerroDaStiro_BG_47
+  - first:
+      213: 8575179550827207160
+    second: FerroDaStiro_BG_48
+  - first:
+      213: 5994936086894643502
+    second: FerroDaStiro_BG_49
+  - first:
+      213: 7883258782858443242
+    second: FerroDaStiro_BG_50
+  - first:
+      213: -9179450131095130289
+    second: FerroDaStiro_BG_51
+  - first:
+      213: -3527733365627608402
+    second: FerroDaStiro_BG_52
+  - first:
+      213: -7066494861081890190
+    second: FerroDaStiro_BG_53
+  - first:
+      213: 449202212741401642
+    second: FerroDaStiro_BG_54
+  - first:
+      213: -731454897337090662
+    second: FerroDaStiro_BG_55
+  - first:
+      213: 594979381504917296
+    second: FerroDaStiro_BG_56
+  - first:
+      213: -8820487267692506191
+    second: FerroDaStiro_BG_57
+  - first:
+      213: -4261148243464861586
+    second: FerroDaStiro_BG_58
+  - first:
+      213: -5379194013238868312
+    second: FerroDaStiro_BG_59
+  - first:
+      213: 7707909403059261311
+    second: FerroDaStiro_BG_60
+  - first:
+      213: -8122619834871083933
+    second: FerroDaStiro_BG_61
+  - first:
+      213: 5535141428380052683
+    second: FerroDaStiro_BG_62
+  - first:
+      213: 8090330363864902124
+    second: FerroDaStiro_BG_63
+  - first:
+      213: -4137664286614010355
+    second: FerroDaStiro_BG_64
+  - first:
+      213: -8848459989119591430
+    second: FerroDaStiro_BG_65
+  - first:
+      213: -4610117423090207172
+    second: FerroDaStiro_BG_66
+  - first:
+      213: -5073409307500265182
+    second: FerroDaStiro_BG_67
+  - first:
+      213: 5059218221717303470
+    second: FerroDaStiro_BG_68
+  - first:
+      213: 4859600964169450145
+    second: FerroDaStiro_BG_69
+  - first:
+      213: 156275477065449495
+    second: FerroDaStiro_BG_70
+  - first:
+      213: -6275189082704151434
+    second: FerroDaStiro_BG_71
+  - first:
+      213: -3745355327876476010
+    second: FerroDaStiro_BG_72
+  - first:
+      213: 7000597373162612899
+    second: FerroDaStiro_BG_73
+  - first:
+      213: 8005057814608367947
+    second: FerroDaStiro_BG_74
+  - first:
+      213: -788495902999481133
+    second: FerroDaStiro_BG_75
+  - first:
+      213: 7816859016291389263
+    second: FerroDaStiro_BG_76
+  - first:
+      213: -8509939009758122956
+    second: FerroDaStiro_BG_77
+  - first:
+      213: 1436804836176919550
+    second: FerroDaStiro_BG_78
+  - first:
+      213: 2453501360799986605
+    second: FerroDaStiro_BG_79
+  - first:
+      213: -5169210795111087795
+    second: FerroDaStiro_BG_80
+  - first:
+      213: 8623345382178562845
+    second: FerroDaStiro_BG_81
+  - first:
+      213: -1845089248559504932
+    second: FerroDaStiro_BG_82
+  - first:
+      213: 1504588279748860198
+    second: FerroDaStiro_BG_83
+  - first:
+      213: -6622039370962856516
+    second: FerroDaStiro_BG_84
+  - first:
+      213: -93881801344365209
+    second: FerroDaStiro_BG_85
+  - first:
+      213: 9132614454032630082
+    second: FerroDaStiro_BG_86
+  - first:
+      213: 528618857375164903
+    second: FerroDaStiro_BG_87
+  - first:
+      213: 8649741348765438167
+    second: FerroDaStiro_BG_88
+  - first:
+      213: 1860682281596891247
+    second: FerroDaStiro_BG_89
+  - first:
+      213: -7683026220781533542
+    second: FerroDaStiro_BG_90
+  - first:
+      213: -3560991020996496741
+    second: FerroDaStiro_BG_91
+  - first:
+      213: -2526392503494038930
+    second: FerroDaStiro_BG_92
+  - first:
+      213: 3491364991500969320
+    second: FerroDaStiro_BG_93
+  - first:
+      213: -4996353686646509013
+    second: FerroDaStiro_BG_94
+  - first:
+      213: 2451503398073355663
+    second: FerroDaStiro_BG_95
+  - first:
+      213: 598513357114103534
+    second: FerroDaStiro_BG_96
+  - first:
+      213: 1576827773098192747
+    second: FerroDaStiro_BG_97
+  - first:
+      213: -4126834820338938865
+    second: FerroDaStiro_BG_98
+  - first:
+      213: -7114978854239274631
+    second: FerroDaStiro_BG_99
+  - first:
+      213: -1545543274693182098
+    second: FerroDaStiro_BG_100
+  - first:
+      213: 2950163677581258259
+    second: FerroDaStiro_BG_101
+  - first:
+      213: -1141587784342816078
+    second: FerroDaStiro_BG_102
+  - first:
+      213: 9213196206902181328
+    second: FerroDaStiro_BG_103
+  - first:
+      213: 4443150219571464897
+    second: FerroDaStiro_BG_104
+  - first:
+      213: 8439999274245013576
+    second: FerroDaStiro_BG_105
+  - first:
+      213: -4091505048049411301
+    second: FerroDaStiro_BG_106
+  - first:
+      213: 5341915908937213244
+    second: FerroDaStiro_BG_107
+  - first:
+      213: 3627220940518418737
+    second: FerroDaStiro_BG_108
+  - first:
+      213: -7471578568232197933
+    second: FerroDaStiro_BG_109
+  - first:
+      213: -7823675640878087624
+    second: FerroDaStiro_BG_110
+  - first:
+      213: -5184773282737759301
+    second: FerroDaStiro_BG_111
+  - first:
+      213: 6029834806297166348
+    second: FerroDaStiro_BG_112
+  - first:
+      213: -5227270183757121338
+    second: FerroDaStiro_BG_113
+  - first:
+      213: -6691410850322103761
+    second: FerroDaStiro_BG_114
+  - first:
+      213: 2584124632586999512
+    second: FerroDaStiro_BG_115
+  - first:
+      213: 6117755741244667751
+    second: FerroDaStiro_BG_116
+  - first:
+      213: 77818195904580418
+    second: FerroDaStiro_BG_117
+  - first:
+      213: -4051237350084340598
+    second: FerroDaStiro_BG_118
+  - first:
+      213: -5693249388071754904
+    second: FerroDaStiro_BG_119
+  - first:
+      213: 6253395833412955617
+    second: FerroDaStiro_BG_120
+  - first:
+      213: -97949146745173550
+    second: FerroDaStiro_BG_121
+  - first:
+      213: -6695675715438654772
+    second: FerroDaStiro_BG_122
+  - first:
+      213: -4669713989867151000
+    second: FerroDaStiro_BG_123
+  - first:
+      213: -3343440403607612809
+    second: FerroDaStiro_BG_124
+  - first:
+      213: -5102314684277616916
+    second: FerroDaStiro_BG_125
+  - first:
+      213: -7325925124169685208
+    second: FerroDaStiro_BG_126
+  - first:
+      213: -8995807419869679378
+    second: FerroDaStiro_BG_127
+  - first:
+      213: 6579458594111093641
+    second: FerroDaStiro_BG_128
+  - first:
+      213: -7870170049527394193
+    second: FerroDaStiro_BG_129
+  - first:
+      213: -7638588072342083505
+    second: FerroDaStiro_BG_130
+  - first:
+      213: -6697029458600633252
+    second: FerroDaStiro_BG_131
+  - first:
+      213: 2573465066815774366
+    second: FerroDaStiro_BG_132
+  - first:
+      213: -5413915954657523023
+    second: FerroDaStiro_BG_133
+  - first:
+      213: 7379196767255325852
+    second: FerroDaStiro_BG_134
+  - first:
+      213: 4451817762147293006
+    second: FerroDaStiro_BG_135
+  - first:
+      213: 8959569929753070261
+    second: FerroDaStiro_BG_136
+  - first:
+      213: -6442164100518908484
+    second: FerroDaStiro_BG_137
+  - first:
+      213: -3065240510825993913
+    second: FerroDaStiro_BG_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1333
+        width: 105
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaa6e8d17cdfde70800000000000000
+      internalID: 9142268150113807070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1391
+        width: 186
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f579bce996ed04770800000000000000
+      internalID: 8593112634239981407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1433
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5c60f0663c7e910800000000000000
+      internalID: 1866675413674542536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1266
+        width: 293
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c255a3ccb6a157490800000000000000
+      internalID: -7749258533530872532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1343
+        width: 177
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14ebc7efaf02c3b0800000000000000
+      internalID: -5493811347255991268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1281
+        width: 143
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30af0454a21828590800000000000000
+      internalID: -7673428796535408125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_6
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1422
+        width: 89
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc85dc462df90d50800000000000000
+      internalID: 6704167861257342195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1423
+        width: 96
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c8f24cf493840a0800000000000000
+      internalID: -6897199814561264584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1405
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bbd8674f1c29480800000000000000
+      internalID: -8893833058398127272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1319
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7fca7988b23fc50800000000000000
+      internalID: 6697744936490301346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_10
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1299
+        width: 178
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5218cfaf838c62fb0800000000000000
+      internalID: -4672827416295735003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1321
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3767b7973d90dfc20800000000000000
+      internalID: 3241758110657508979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1385
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68bb40ead0cece10800000000000000
+      internalID: 2219923712638695533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1376
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ae9ed28ffb41230800000000000000
+      internalID: 3608720274073709112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_14
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1255
+        width: 122
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb36e28d8ef83cf0800000000000000
+      internalID: -272187893715944449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_15
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1358
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d655b8a16208dd10800000000000000
+      internalID: 2150471440534951632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_16
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1312
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f222558abcd258300800000000000000
+      internalID: 253659306742063663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1203
+        width: 234
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d08e4672960b40800000000000000
+      internalID: 5406169439525721615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1260
+        width: 225
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a642b51a3ced1c0800000000000000
+      internalID: -4476925881773430186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1214
+        width: 163
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aefdada41cff3a20800000000000000
+      internalID: 3044429038869151397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_20
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1274
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0d9c8f007ae0930800000000000000
+      internalID: 4111407132451655890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_21
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1135
+        width: 134
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90fb0c4e6849edf0800000000000000
+      internalID: -150509473980747622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_22
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1313
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c247c234842252a0800000000000000
+      internalID: -6750292741268749628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_23
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1135
+        width: 138
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578ddced53e8af00800000000000000
+      internalID: 1128401699201714007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1110
+        width: 271
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9d737d459648d00800000000000000
+      internalID: 974019232527800826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1122
+        width: 66
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff6e84b7b55fccf0800000000000000
+      internalID: -229870808475996168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_26
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1231
+        width: 104
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9749ed19b6a889070800000000000000
+      internalID: 8113386923321365625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1160
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33c60df8320cc0e0800000000000000
+      internalID: -2248419670178217156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1134
+        width: 360
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d915322d15beeb0800000000000000
+      internalID: -4689564623998706332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_29
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1251
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f666090bdd50f40800000000000000
+      internalID: 5694201054286475088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1117
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201bb864ff990bd90800000000000000
+      internalID: -7083992892174520062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 856
+        width: 89
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f99c32dcd23eea0800000000000000
+      internalID: -5844777532304810083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1018
+        width: 182
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b8a7ecf1db86eb0800000000000000
+      internalID: -4726319864619562220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1018
+        width: 117
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24b9729e074034e0800000000000000
+      internalID: -2004023706267306961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 960
+        width: 289
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f6d9e7cc3e18ab0800000000000000
+      internalID: -5007470843222200420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_35
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 917
+        width: 311
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a9f41727cdf7c30800000000000000
+      internalID: 4359445348403354181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_36
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 962
+        width: 138
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5b6f3b5e96e1220800000000000000
+      internalID: 2458518881878586827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 776
+        width: 231
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa16d1c0f6b3080800000000000000
+      internalID: -9206642915405616522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 864
+        width: 110
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1eee427304a3a50800000000000000
+      internalID: 6501579617649746375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 967
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118f79c3ad4aac110800000000000000
+      internalID: 1282018301166745617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_40
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 882
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a286488337bae2360800000000000000
+      internalID: 7146838170041346090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_41
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 881
+        width: 67
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eba432e5bc49ec0800000000000000
+      internalID: -3560997800163754348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_42
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 776
+        width: 289
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cc183836980ec60800000000000000
+      internalID: 7845421611380493448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_43
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 776
+        width: 279
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f1d949aaf341f30800000000000000
+      internalID: 4545327925793988497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_44
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 839
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238bc6080a9dcdff0800000000000000
+      internalID: -9893815788980174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_45
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 871
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfe27288539a9c10800000000000000
+      internalID: 2061121787830398940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_46
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 863
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603a30c0289ba0400800000000000000
+      internalID: 291249094117270278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_47
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 880
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3734ae28a55e97f0800000000000000
+      internalID: -603951119195687105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_48
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 746
+        width: 121
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9df344e58210770800000000000000
+      internalID: 8575179550827207160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_49
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 827
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e298686cb9a423350800000000000000
+      internalID: 5994936086894643502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_50
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 805
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae971c08816f66d60800000000000000
+      internalID: 7883258782858443242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_51
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 847
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f69a69dba0c9080800000000000000
+      internalID: -9179450131095130289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 556
+        width: 231
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea22977d139fa0fc0800000000000000
+      internalID: -3527733365627608402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_53
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 449
+        width: 289
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272371e1d54ceed90800000000000000
+      internalID: -7066494861081890190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_54
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 553
+        width: 183
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c45c25803eb3600800000000000000
+      internalID: 449202212741401642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_55
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 701
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9db00375a959d5f0800000000000000
+      internalID: -731454897337090662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_56
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 710
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f384b589ac14800800000000000000
+      internalID: 594979381504917296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_57
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 709
+        width: 68
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3155f1095579580800000000000000
+      internalID: -8820487267692506191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_58
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 682
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e684ff4cf3c5dd4c0800000000000000
+      internalID: -4261148243464861586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_59
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 667
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a64dfe8b834955b0800000000000000
+      internalID: -5379194013238868312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_60
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 677
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f8d3a83cef7fa60800000000000000
+      internalID: 7707909403059261311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_61
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 726
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c87f0bb48a64f80800000000000000
+      internalID: -8122619834871083933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_62
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 615
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc242c7dc5c0dc40800000000000000
+      internalID: 5535141428380052683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_63
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 670
+        width: 126
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce969bdf990a64070800000000000000
+      internalID: 8090330363864902124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_64
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 656
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d064d8ce0401496c0800000000000000
+      internalID: -4137664286614010355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_65
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 631
+        width: 109
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb15436584f33580800000000000000
+      internalID: -8848459989119591430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_66
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 659
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c367edf01a29500c0800000000000000
+      internalID: -4610117423090207172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_67
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 643
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221494a6d11a799b0800000000000000
+      internalID: -5073409307500265182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_68
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 572
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0b4a2fa24f53640800000000000000
+      internalID: 5059218221717303470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_69
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 528
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a247736455c07340800000000000000
+      internalID: 4859600964169450145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_70
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 540
+        width: 166
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7104799e7b33b2200800000000000000
+      internalID: 156275477065449495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_71
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 531
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c7203d6cc0ae8a0800000000000000
+      internalID: -6275189082704151434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_72
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 569
+        width: 126
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6935e4c4c23d50cc0800000000000000
+      internalID: -3745355327876476010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_73
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 521
+        width: 121
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8e3ea583e172160800000000000000
+      internalID: 7000597373162612899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_74
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 547
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4152367bada71f60800000000000000
+      internalID: 8005057814608367947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_75
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 355
+        width: 230
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d47dd26723be05f0800000000000000
+      internalID: -788495902999481133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_76
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 390
+        width: 73
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f8b5d1cdf0b7c60800000000000000
+      internalID: 7816859016291389263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_77
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 546
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ca027ee8f96e980800000000000000
+      internalID: -8509939009758122956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_78
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 440
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb73efc26e80f310800000000000000
+      internalID: 1436804836176919550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_79
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 456
+        width: 55
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3bb6a0d769c0220800000000000000
+      internalID: 2453501360799986605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_80
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 447
+        width: 170
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d410a446b264348b0800000000000000
+      internalID: -5169210795111087795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_81
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 496
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d132248cfe64ca770800000000000000
+      internalID: 8623345382178562845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_82
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 420
+        width: 117
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1e7b8aa1de466e0800000000000000
+      internalID: -1845089248559504932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_83
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 495
+        width: 124
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62995ab911f51e410800000000000000
+      internalID: 1504588279748860198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_84
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 466
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb59b15f64ac914a0800000000000000
+      internalID: -6622039370962856516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_85
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 431
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dcef3cff672bef0800000000000000
+      internalID: -93881801344365209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_86
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 417
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241863395709dbe70800000000000000
+      internalID: 9132614454032630082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_87
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 331
+        width: 244
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e96b6fcc08065700800000000000000
+      internalID: 528618857375164903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_88
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 389
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d01c2caded0a0870800000000000000
+      internalID: 8649741348765438167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_89
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 361
+        width: 122
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6032724da872d910800000000000000
+      internalID: 1860682281596891247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_90
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 401
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a960e4ecb58606590800000000000000
+      internalID: -7683026220781533542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_91
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 402
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92f5298881d49ec0800000000000000
+      internalID: -3560991020996496741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_92
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 364
+        width: 166
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a270a476370fcd0800000000000000
+      internalID: -2526392503494038930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_93
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 327
+        width: 119
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86566a336f1d37030800000000000000
+      internalID: 3491364991500969320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_94
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 337
+        width: 181
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22b8373bc269aab0800000000000000
+      internalID: -4996353686646509013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_95
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 211
+        width: 77
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d43d71a5d750220800000000000000
+      internalID: 2451503398073355663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_96
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 233
+        width: 138
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6dc1c2ab85e4800800000000000000
+      internalID: 598513357114103534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_97
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 303
+        width: 138
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fec77518402e510800000000000000
+      internalID: 1576827773098192747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_98
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 215
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c0cf688998ab6c0800000000000000
+      internalID: -4126834820338938865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_99
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 240
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f6a8cd64824d90800000000000000
+      internalID: -7114978854239274631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_100
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 151
+        width: 215
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d3bee84902d8ae0800000000000000
+      internalID: -1545543274693182098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_101
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 282
+        width: 137
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ead7feb3611f820800000000000000
+      internalID: 2950163677581258259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_102
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 300
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba325265f34820f0800000000000000
+      internalID: -1141587784342816078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_103
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 297
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd7166f229dbdf70800000000000000
+      internalID: 9213196206902181328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_104
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 299
+        width: 121
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca8149759d39ad30800000000000000
+      internalID: 4443150219571464897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 242
+        width: 150
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840cde57f96e02570800000000000000
+      internalID: 8439999274245013576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_106
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 328
+        width: 111
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b1c4626dd0837c0800000000000000
+      internalID: -4091505048049411301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_107
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 249
+        width: 113
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35e53c673c422a40800000000000000
+      internalID: 5341915908937213244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_108
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 293
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13965714a3a765230800000000000000
+      internalID: 3627220940518418737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_109
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 85
+        width: 180
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d02919d0ee9f4890800000000000000
+      internalID: -7471578568232197933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_110
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 124
+        width: 97
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832c59bc478bc6390800000000000000
+      internalID: -7823675640878087624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_111
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 278
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbda716b2cfb08b0800000000000000
+      internalID: -5184773282737759301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_112
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 223
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0201a31fc64ea350800000000000000
+      internalID: 6029834806297166348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_113
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 208
+        width: 173
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c87a2096710577b0800000000000000
+      internalID: -5227270183757121338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_114
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 282
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f224b54c8455323a0800000000000000
+      internalID: -6691410850322103761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_115
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 106
+        width: 194
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d65fac79a7acd320800000000000000
+      internalID: 2584124632586999512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_116
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 99
+        width: 118
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767be73fe62a6e450800000000000000
+      internalID: 6117755741244667751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_117
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 97
+        width: 133
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b44f3ac37741100800000000000000
+      internalID: 77818195904580418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_118
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 169
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a849d6f281d17c7c0800000000000000
+      internalID: -4051237350084340598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_119
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 40
+        width: 238
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863e54e78d38df0b0800000000000000
+      internalID: -5693249388071754904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 111
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edac7ae06688c650800000000000000
+      internalID: 6253395833412955617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_121
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 139
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9833e15c304aef0800000000000000
+      internalID: -97949146745173550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_122
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 226
+        width: 101
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccac11a796e2413a0800000000000000
+      internalID: -6695675715438654772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_123
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 202
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861eb4f0ed7d13fb0800000000000000
+      internalID: -4669713989867151000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_124
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 113
+        width: 70
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772974fcaa6b991d0800000000000000
+      internalID: -3343440403607612809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_125
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 50
+        width: 143
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee8f5fe3dfe039b0800000000000000
+      internalID: -5102314684277616916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_126
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 53
+        width: 78
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827a1caf9e5155a90800000000000000
+      internalID: -7325925124169685208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_127
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 154
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee038de30d8782380800000000000000
+      internalID: -8995807419869679378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_128
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 40
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bf16c5bbeee4b50800000000000000
+      internalID: 6579458594111093641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_129
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 77
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f605004b90a87c290800000000000000
+      internalID: -7870170049527394193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_130
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 51
+        width: 143
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48a3828e984ef590800000000000000
+      internalID: -7638588072342083505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_131
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 40
+        width: 48
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c58c5903f5f03a0800000000000000
+      internalID: -6697029458600633252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_132
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 82
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e5e6de7d8c6b320800000000000000
+      internalID: 2573465066815774366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_133
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 165
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba81d69f18edd4b0800000000000000
+      internalID: -5413915954657523023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_134
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 40
+        width: 120
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ce6f7fc5c286660800000000000000
+      internalID: 7379196767255325852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_135
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 40
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47509dfaa808cd30800000000000000
+      internalID: 4451817762147293006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_136
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 40
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba043b9169c65c70800000000000000
+      internalID: 8959569929753070261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_137
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 40
+        width: 235
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdebc3f1e5d896a0800000000000000
+      internalID: -6442164100518908484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FerroDaStiro_BG_138
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 40
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7496419eef31675d0800000000000000
+      internalID: -3065240510825993913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FerroDaStiro_BG_0: 9142268150113807070
+      FerroDaStiro_BG_1: 8593112634239981407
+      FerroDaStiro_BG_10: -4672827416295735003
+      FerroDaStiro_BG_100: -1545543274693182098
+      FerroDaStiro_BG_101: 2950163677581258259
+      FerroDaStiro_BG_102: -1141587784342816078
+      FerroDaStiro_BG_103: 9213196206902181328
+      FerroDaStiro_BG_104: 4443150219571464897
+      FerroDaStiro_BG_105: 8439999274245013576
+      FerroDaStiro_BG_106: -4091505048049411301
+      FerroDaStiro_BG_107: 5341915908937213244
+      FerroDaStiro_BG_108: 3627220940518418737
+      FerroDaStiro_BG_109: -7471578568232197933
+      FerroDaStiro_BG_11: 3241758110657508979
+      FerroDaStiro_BG_110: -7823675640878087624
+      FerroDaStiro_BG_111: -5184773282737759301
+      FerroDaStiro_BG_112: 6029834806297166348
+      FerroDaStiro_BG_113: -5227270183757121338
+      FerroDaStiro_BG_114: -6691410850322103761
+      FerroDaStiro_BG_115: 2584124632586999512
+      FerroDaStiro_BG_116: 6117755741244667751
+      FerroDaStiro_BG_117: 77818195904580418
+      FerroDaStiro_BG_118: -4051237350084340598
+      FerroDaStiro_BG_119: -5693249388071754904
+      FerroDaStiro_BG_12: 2219923712638695533
+      FerroDaStiro_BG_120: 6253395833412955617
+      FerroDaStiro_BG_121: -97949146745173550
+      FerroDaStiro_BG_122: -6695675715438654772
+      FerroDaStiro_BG_123: -4669713989867151000
+      FerroDaStiro_BG_124: -3343440403607612809
+      FerroDaStiro_BG_125: -5102314684277616916
+      FerroDaStiro_BG_126: -7325925124169685208
+      FerroDaStiro_BG_127: -8995807419869679378
+      FerroDaStiro_BG_128: 6579458594111093641
+      FerroDaStiro_BG_129: -7870170049527394193
+      FerroDaStiro_BG_13: 3608720274073709112
+      FerroDaStiro_BG_130: -7638588072342083505
+      FerroDaStiro_BG_131: -6697029458600633252
+      FerroDaStiro_BG_132: 2573465066815774366
+      FerroDaStiro_BG_133: -5413915954657523023
+      FerroDaStiro_BG_134: 7379196767255325852
+      FerroDaStiro_BG_135: 4451817762147293006
+      FerroDaStiro_BG_136: 8959569929753070261
+      FerroDaStiro_BG_137: -6442164100518908484
+      FerroDaStiro_BG_138: -3065240510825993913
+      FerroDaStiro_BG_14: -272187893715944449
+      FerroDaStiro_BG_15: 2150471440534951632
+      FerroDaStiro_BG_16: 253659306742063663
+      FerroDaStiro_BG_17: 5406169439525721615
+      FerroDaStiro_BG_18: -4476925881773430186
+      FerroDaStiro_BG_19: 3044429038869151397
+      FerroDaStiro_BG_2: 1866675413674542536
+      FerroDaStiro_BG_20: 4111407132451655890
+      FerroDaStiro_BG_21: -150509473980747622
+      FerroDaStiro_BG_22: -6750292741268749628
+      FerroDaStiro_BG_23: 1128401699201714007
+      FerroDaStiro_BG_24: 974019232527800826
+      FerroDaStiro_BG_25: -229870808475996168
+      FerroDaStiro_BG_26: 8113386923321365625
+      FerroDaStiro_BG_27: -2248419670178217156
+      FerroDaStiro_BG_28: -4689564623998706332
+      FerroDaStiro_BG_29: 5694201054286475088
+      FerroDaStiro_BG_3: -7749258533530872532
+      FerroDaStiro_BG_30: -7083992892174520062
+      FerroDaStiro_BG_31: -5844777532304810083
+      FerroDaStiro_BG_32: -4726319864619562220
+      FerroDaStiro_BG_33: -2004023706267306961
+      FerroDaStiro_BG_34: -5007470843222200420
+      FerroDaStiro_BG_35: 4359445348403354181
+      FerroDaStiro_BG_36: 2458518881878586827
+      FerroDaStiro_BG_37: -9206642915405616522
+      FerroDaStiro_BG_38: 6501579617649746375
+      FerroDaStiro_BG_39: 1282018301166745617
+      FerroDaStiro_BG_4: -5493811347255991268
+      FerroDaStiro_BG_40: 7146838170041346090
+      FerroDaStiro_BG_41: -3560997800163754348
+      FerroDaStiro_BG_42: 7845421611380493448
+      FerroDaStiro_BG_43: 4545327925793988497
+      FerroDaStiro_BG_44: -9893815788980174
+      FerroDaStiro_BG_45: 2061121787830398940
+      FerroDaStiro_BG_46: 291249094117270278
+      FerroDaStiro_BG_47: -603951119195687105
+      FerroDaStiro_BG_48: 8575179550827207160
+      FerroDaStiro_BG_49: 5994936086894643502
+      FerroDaStiro_BG_5: -7673428796535408125
+      FerroDaStiro_BG_50: 7883258782858443242
+      FerroDaStiro_BG_51: -9179450131095130289
+      FerroDaStiro_BG_52: -3527733365627608402
+      FerroDaStiro_BG_53: -7066494861081890190
+      FerroDaStiro_BG_54: 449202212741401642
+      FerroDaStiro_BG_55: -731454897337090662
+      FerroDaStiro_BG_56: 594979381504917296
+      FerroDaStiro_BG_57: -8820487267692506191
+      FerroDaStiro_BG_58: -4261148243464861586
+      FerroDaStiro_BG_59: -5379194013238868312
+      FerroDaStiro_BG_6: 6704167861257342195
+      FerroDaStiro_BG_60: 7707909403059261311
+      FerroDaStiro_BG_61: -8122619834871083933
+      FerroDaStiro_BG_62: 5535141428380052683
+      FerroDaStiro_BG_63: 8090330363864902124
+      FerroDaStiro_BG_64: -4137664286614010355
+      FerroDaStiro_BG_65: -8848459989119591430
+      FerroDaStiro_BG_66: -4610117423090207172
+      FerroDaStiro_BG_67: -5073409307500265182
+      FerroDaStiro_BG_68: 5059218221717303470
+      FerroDaStiro_BG_69: 4859600964169450145
+      FerroDaStiro_BG_7: -6897199814561264584
+      FerroDaStiro_BG_70: 156275477065449495
+      FerroDaStiro_BG_71: -6275189082704151434
+      FerroDaStiro_BG_72: -3745355327876476010
+      FerroDaStiro_BG_73: 7000597373162612899
+      FerroDaStiro_BG_74: 8005057814608367947
+      FerroDaStiro_BG_75: -788495902999481133
+      FerroDaStiro_BG_76: 7816859016291389263
+      FerroDaStiro_BG_77: -8509939009758122956
+      FerroDaStiro_BG_78: 1436804836176919550
+      FerroDaStiro_BG_79: 2453501360799986605
+      FerroDaStiro_BG_8: -8893833058398127272
+      FerroDaStiro_BG_80: -5169210795111087795
+      FerroDaStiro_BG_81: 8623345382178562845
+      FerroDaStiro_BG_82: -1845089248559504932
+      FerroDaStiro_BG_83: 1504588279748860198
+      FerroDaStiro_BG_84: -6622039370962856516
+      FerroDaStiro_BG_85: -93881801344365209
+      FerroDaStiro_BG_86: 9132614454032630082
+      FerroDaStiro_BG_87: 528618857375164903
+      FerroDaStiro_BG_88: 8649741348765438167
+      FerroDaStiro_BG_89: 1860682281596891247
+      FerroDaStiro_BG_9: 6697744936490301346
+      FerroDaStiro_BG_90: -7683026220781533542
+      FerroDaStiro_BG_91: -3560991020996496741
+      FerroDaStiro_BG_92: -2526392503494038930
+      FerroDaStiro_BG_93: 3491364991500969320
+      FerroDaStiro_BG_94: -4996353686646509013
+      FerroDaStiro_BG_95: 2451503398073355663
+      FerroDaStiro_BG_96: 598513357114103534
+      FerroDaStiro_BG_97: 1576827773098192747
+      FerroDaStiro_BG_98: -4126834820338938865
+      FerroDaStiro_BG_99: -7114978854239274631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: 1bdd2d0771ec33a45b7462bb4e8fdb45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -990902057138707710
+    second: Forchetta_BG_0
+  - first:
+      213: -6747336462809904591
+    second: Forchetta_BG_1
+  - first:
+      213: 6168139323470645887
+    second: Forchetta_BG_2
+  - first:
+      213: 6986997745427179762
+    second: Forchetta_BG_3
+  - first:
+      213: -1308209210765777054
+    second: Forchetta_BG_4
+  - first:
+      213: 6201472532664069592
+    second: Forchetta_BG_5
+  - first:
+      213: 5509117504874106161
+    second: Forchetta_BG_6
+  - first:
+      213: -5005615145011862595
+    second: Forchetta_BG_7
+  - first:
+      213: 5738085535750604291
+    second: Forchetta_BG_8
+  - first:
+      213: 5954831380883994876
+    second: Forchetta_BG_9
+  - first:
+      213: 8325359237682993049
+    second: Forchetta_BG_10
+  - first:
+      213: 8842629795778248609
+    second: Forchetta_BG_11
+  - first:
+      213: -4933072925817404881
+    second: Forchetta_BG_12
+  - first:
+      213: 2332132959494842743
+    second: Forchetta_BG_13
+  - first:
+      213: -799994830919741255
+    second: Forchetta_BG_14
+  - first:
+      213: 6874228313385771582
+    second: Forchetta_BG_15
+  - first:
+      213: 1655542482197382131
+    second: Forchetta_BG_16
+  - first:
+      213: -2003114943780387061
+    second: Forchetta_BG_17
+  - first:
+      213: -5417413074852282609
+    second: Forchetta_BG_18
+  - first:
+      213: -6269434571137036641
+    second: Forchetta_BG_19
+  - first:
+      213: 6345925820272244012
+    second: Forchetta_BG_20
+  - first:
+      213: 2131289161481563123
+    second: Forchetta_BG_21
+  - first:
+      213: 6704725776608821715
+    second: Forchetta_BG_22
+  - first:
+      213: 7961002403278506679
+    second: Forchetta_BG_23
+  - first:
+      213: 4558579676581158192
+    second: Forchetta_BG_24
+  - first:
+      213: 7148223861264597493
+    second: Forchetta_BG_25
+  - first:
+      213: 6680360699992545636
+    second: Forchetta_BG_26
+  - first:
+      213: -981927491648639009
+    second: Forchetta_BG_27
+  - first:
+      213: 5425222122019894514
+    second: Forchetta_BG_28
+  - first:
+      213: -666971771248652587
+    second: Forchetta_BG_29
+  - first:
+      213: -735837623659841108
+    second: Forchetta_BG_30
+  - first:
+      213: 1035890723963937681
+    second: Forchetta_BG_31
+  - first:
+      213: 4133589083579750965
+    second: Forchetta_BG_32
+  - first:
+      213: 2023196921553096707
+    second: Forchetta_BG_33
+  - first:
+      213: 3900832253205732787
+    second: Forchetta_BG_34
+  - first:
+      213: -3991622715308491774
+    second: Forchetta_BG_35
+  - first:
+      213: -2002725437660994879
+    second: Forchetta_BG_36
+  - first:
+      213: -3984884046670932426
+    second: Forchetta_BG_37
+  - first:
+      213: -2097915540126206497
+    second: Forchetta_BG_38
+  - first:
+      213: -4211787557240130592
+    second: Forchetta_BG_39
+  - first:
+      213: 3233646412240949689
+    second: Forchetta_BG_40
+  - first:
+      213: 5373412238384856072
+    second: Forchetta_BG_41
+  - first:
+      213: 3808668977054429556
+    second: Forchetta_BG_42
+  - first:
+      213: 7469542917147527870
+    second: Forchetta_BG_43
+  - first:
+      213: 5731580842999783002
+    second: Forchetta_BG_44
+  - first:
+      213: -7086718220067020996
+    second: Forchetta_BG_45
+  - first:
+      213: 8279204483888646679
+    second: Forchetta_BG_46
+  - first:
+      213: 5700362848473285244
+    second: Forchetta_BG_47
+  - first:
+      213: -6616054249561764439
+    second: Forchetta_BG_48
+  - first:
+      213: 2706379614756253131
+    second: Forchetta_BG_49
+  - first:
+      213: -7532279805650220394
+    second: Forchetta_BG_50
+  - first:
+      213: -7930104539453227787
+    second: Forchetta_BG_51
+  - first:
+      213: -4155221863005362868
+    second: Forchetta_BG_52
+  - first:
+      213: 8507326373222072492
+    second: Forchetta_BG_53
+  - first:
+      213: -1136346011623542871
+    second: Forchetta_BG_54
+  - first:
+      213: -6158608805185539366
+    second: Forchetta_BG_55
+  - first:
+      213: -8601520773616972738
+    second: Forchetta_BG_56
+  - first:
+      213: -4572925962990681065
+    second: Forchetta_BG_57
+  - first:
+      213: -8398884226863657014
+    second: Forchetta_BG_58
+  - first:
+      213: -2376648920412195818
+    second: Forchetta_BG_59
+  - first:
+      213: 3329540764342664662
+    second: Forchetta_BG_60
+  - first:
+      213: -4227947509088648079
+    second: Forchetta_BG_61
+  - first:
+      213: -8671024080327497887
+    second: Forchetta_BG_62
+  - first:
+      213: 5653530901745925395
+    second: Forchetta_BG_63
+  - first:
+      213: -7666520853017980657
+    second: Forchetta_BG_64
+  - first:
+      213: -4800373333684800531
+    second: Forchetta_BG_65
+  - first:
+      213: 701883043751211001
+    second: Forchetta_BG_66
+  - first:
+      213: -724959936233206403
+    second: Forchetta_BG_67
+  - first:
+      213: 7706337224117433247
+    second: Forchetta_BG_68
+  - first:
+      213: -632516801617509471
+    second: Forchetta_BG_69
+  - first:
+      213: 6753739180852930601
+    second: Forchetta_BG_70
+  - first:
+      213: 6204929462619621481
+    second: Forchetta_BG_71
+  - first:
+      213: -7427176500272090295
+    second: Forchetta_BG_72
+  - first:
+      213: 377645789267426406
+    second: Forchetta_BG_73
+  - first:
+      213: 5896919811959453749
+    second: Forchetta_BG_74
+  - first:
+      213: 1920074444831492690
+    second: Forchetta_BG_75
+  - first:
+      213: -8370407108968348880
+    second: Forchetta_BG_76
+  - first:
+      213: -8740928036126987578
+    second: Forchetta_BG_77
+  - first:
+      213: 7923221077280375152
+    second: Forchetta_BG_78
+  - first:
+      213: -3842612879724406009
+    second: Forchetta_BG_79
+  - first:
+      213: -2200224475998612718
+    second: Forchetta_BG_80
+  - first:
+      213: 8309631047789574129
+    second: Forchetta_BG_81
+  - first:
+      213: 7466513245753606310
+    second: Forchetta_BG_82
+  - first:
+      213: -3646618084997077503
+    second: Forchetta_BG_83
+  - first:
+      213: -4266493904679034650
+    second: Forchetta_BG_84
+  - first:
+      213: -1738787225253968591
+    second: Forchetta_BG_85
+  - first:
+      213: 1434034188523979555
+    second: Forchetta_BG_86
+  - first:
+      213: -5208468763341458773
+    second: Forchetta_BG_87
+  - first:
+      213: 7100194569959242385
+    second: Forchetta_BG_88
+  - first:
+      213: -5713677471289459437
+    second: Forchetta_BG_89
+  - first:
+      213: 6517116985744711991
+    second: Forchetta_BG_90
+  - first:
+      213: -7233337216652259658
+    second: Forchetta_BG_91
+  - first:
+      213: 7762207052395998146
+    second: Forchetta_BG_92
+  - first:
+      213: 3008560563584344890
+    second: Forchetta_BG_93
+  - first:
+      213: -8156263154326625303
+    second: Forchetta_BG_94
+  - first:
+      213: -4774167892508087269
+    second: Forchetta_BG_95
+  - first:
+      213: -4201183572577905699
+    second: Forchetta_BG_96
+  - first:
+      213: -4316269050480647368
+    second: Forchetta_BG_97
+  - first:
+      213: 2674412061792281650
+    second: Forchetta_BG_98
+  - first:
+      213: -3198550436291897586
+    second: Forchetta_BG_99
+  - first:
+      213: -607717915039743803
+    second: Forchetta_BG_100
+  - first:
+      213: 2230439820448909780
+    second: Forchetta_BG_101
+  - first:
+      213: 5989480139824406041
+    second: Forchetta_BG_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forchetta_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1435
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2032b0d34db9f32f0800000000000000
+      internalID: -990902057138707710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1362
+        width: 160
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13acc2a6c35ac52a0800000000000000
+      internalID: -6747336462809904591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1276
+        width: 168
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a0694d802a99550800000000000000
+      internalID: 6168139323470645887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1381
+        width: 156
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f864a64e6dc6f060800000000000000
+      internalID: 6986997745427179762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1291
+        width: 172
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267696c67ae48dde0800000000000000
+      internalID: -1308209210765777054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1388
+        width: 149
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dda8c1696e001650800000000000000
+      internalID: 6201472532664069592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1296
+        width: 177
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d48ef9e21547c40800000000000000
+      internalID: 5509117504874106161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1398
+        width: 134
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3a047eb8b788ab0800000000000000
+      internalID: -5005615145011862595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_8
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1318
+        width: 169
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306c831a466c1af40800000000000000
+      internalID: 5738085535750604291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_9
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1419
+        width: 88
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf870f2479fc3a250800000000000000
+      internalID: 5954831380883994876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_10
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1332
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9979c95fd1e998370800000000000000
+      internalID: 8325359237682993049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1276
+        width: 76
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afb5a1f2f457ba70800000000000000
+      internalID: 8842629795778248609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1173
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f228e8d7f443a8bb0800000000000000
+      internalID: -4933072925817404881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1187
+        width: 174
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779abab02966d5020800000000000000
+      internalID: 2332132959494842743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1200
+        width: 172
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b051e890f8d5e4f0800000000000000
+      internalID: -799994830919741255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_15
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1213
+        width: 168
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32aa44da3a266f50800000000000000
+      internalID: 6874228313385771582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_16
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1229
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f381f9bd1ba9f610800000000000000
+      internalID: 1655542482197382131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_17
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1134
+        width: 127
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0781b352918334e0800000000000000
+      internalID: -2003114943780387061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_18
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1302
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f7fd7d28b71d4b0800000000000000
+      internalID: -5417413074852282609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1090
+        width: 68
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec2d4797e7ef8a0800000000000000
+      internalID: -6269434571137036641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 991
+        width: 156
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257e4059e1411850800000000000000
+      internalID: 6345925820272244012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1089
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbafb7433cd39d10800000000000000
+      internalID: 2131289161481563123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1000
+        width: 172
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d18c271298fb0d50800000000000000
+      internalID: 6704725776608821715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1097
+        width: 177
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba427fa1892b7e60800000000000000
+      internalID: 7961002403278506679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1063
+        width: 172
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d5fee3014534f30800000000000000
+      internalID: 4558579676581158192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_25
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1117
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1c5a99ab7933360800000000000000
+      internalID: 7148223861264597493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_26
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1027
+        width: 169
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469198e99a865bc50800000000000000
+      internalID: 6680360699992545636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_27
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1124
+        width: 177
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfa719162e7f52f0800000000000000
+      internalID: -981927491648639009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_28
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1075
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f43692a6c24a4b40800000000000000
+      internalID: 5425222122019894514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_29
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 531
+        width: 58
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dec28335b07eb6f0800000000000000
+      internalID: -666971771248652587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_30
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1033
+        width: 117
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca933657497c9c5f0800000000000000
+      internalID: -735837623659841108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_31
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1103
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1932ef30029306e00800000000000000
+      internalID: 1035890723963937681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 901
+        width: 170
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a143eee557d5930800000000000000
+      internalID: 4133589083579750965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 451
+        width: 615
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30016db71e6d31c10800000000000000
+      internalID: 2023196921553096707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1033
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdd6bc444a822630800000000000000
+      internalID: 3900832253205732787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1045
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c38a8f948ea98c0800000000000000
+      internalID: -3991622715308491774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_36
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 931
+        width: 136
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2e39943d3e434e0800000000000000
+      internalID: -2002725437660994879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_37
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 940
+        width: 133
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636de078219d2b8c0800000000000000
+      internalID: -3984884046670932426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 924
+        width: 57
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd571067ee4b2e2e0800000000000000
+      internalID: -2097915540126206497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 354
+        width: 71
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3ba4d1889bc85c0800000000000000
+      internalID: -4211787557240130592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 839
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b196d2874830ec20800000000000000
+      internalID: 3233646412240949689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 896
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c7aa416f1329a40800000000000000
+      internalID: 5373412238384856072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_42
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 857
+        width: 60
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4713164614c1bd430800000000000000
+      internalID: 3808668977054429556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_43
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 346
+        width: 104
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba0d1335b529a760800000000000000
+      internalID: 7469542917147527870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_44
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 893
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e9f64d86aaa8f40800000000000000
+      internalID: 5731580842999783002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 863
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fdd9d635be6ad90800000000000000
+      internalID: -7086718220067020996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 723
+        width: 78
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a010dec94a5e270800000000000000
+      internalID: 8279204483888646679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_47
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 793
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7285121fc1cb1f40800000000000000
+      internalID: 5700362848473285244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_48
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 799
+        width: 15
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad4820a6bd0f24a0800000000000000
+      internalID: -6616054249561764439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 743
+        width: 27
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcda7ecabedfe8520800000000000000
+      internalID: 2706379614756253131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_50
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 827
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ace5bac67f77790800000000000000
+      internalID: -7532279805650220394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 649
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc7d26dfeb92f190800000000000000
+      internalID: -7930104539453227787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_52
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 640
+        width: 76
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45e0ac1bbfa556c0800000000000000
+      internalID: -4155221863005362868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_53
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 672
+        width: 25
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0c6304348101670800000000000000
+      internalID: 8507326373222072492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_54
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 680
+        width: 51
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af2f33b253ea30f0800000000000000
+      internalID: -1136346011623542871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 583
+        width: 47
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2b250ebe9388aa0800000000000000
+      internalID: -6158608805185539366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_56
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 586
+        width: 50
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cca60ed6241a880800000000000000
+      internalID: -8601520773616972738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_57
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 704
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71487c7a014b980c0800000000000000
+      internalID: -4572925962990681065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 561
+        width: 39
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf092c7b4b217b80800000000000000
+      internalID: -8398884226863657014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 475
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614f30f1662740fd0800000000000000
+      internalID: -2376648920412195818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_60
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 535
+        width: 130
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddb3db3fa7e43e20800000000000000
+      internalID: 3329540764342664662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 465
+        width: 70
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17406cf14205355c0800000000000000
+      internalID: -4227947509088648079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 441
+        width: 138
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167a83d3a855aa780800000000000000
+      internalID: -8671024080327497887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_63
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 554
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d7245c660657e40800000000000000
+      internalID: 5653530901745925395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_64
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 465
+        width: 155
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f011db437eb0b9590800000000000000
+      internalID: -7666520853017980657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_65
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 496
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3b570f2e5a16db0800000000000000
+      internalID: -4800373333684800531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_66
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 375
+        width: 33
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff29a8d8e69db900800000000000000
+      internalID: 701883043751211001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 346
+        width: 160
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d0e6c67cc60f5f0800000000000000
+      internalID: -724959936233206403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_68
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 357
+        width: 162
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93b3ea10e862fa60800000000000000
+      internalID: 7706337224117433247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 358
+        width: 163
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a34f15f159d837f0800000000000000
+      internalID: -632516801617509471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_70
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 360
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928606c800a1abd50800000000000000
+      internalID: 6753739180852930601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_71
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 278
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9684ccb98765c1650800000000000000
+      internalID: 6204929462619621481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_72
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 403
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9433729e25e5de890800000000000000
+      internalID: -7427176500272090295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_73
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 432
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cf43038daad3500800000000000000
+      internalID: 377645789267426406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_74
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 311
+        width: 37
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5387ec4635116d150800000000000000
+      internalID: 5896919811959453749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_75
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 247
+        width: 153
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a8c7ad88975aa10800000000000000
+      internalID: 1920074444831492690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_76
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 183
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033898c251756db80800000000000000
+      internalID: -8370407108968348880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_77
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 160
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cae567334cf1b680800000000000000
+      internalID: -8740928036126987578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_78
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 260
+        width: 166
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0714f2c379fe4fd60800000000000000
+      internalID: 7923221077280375152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_79
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 169
+        width: 170
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b9fa6e1fb4caac0800000000000000
+      internalID: -3842612879724406009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_80
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 268
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2139bf11f7b3771e0800000000000000
+      internalID: -2200224475998612718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_81
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 178
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7fd02696db15370800000000000000
+      internalID: 8309631047789574129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_82
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 267
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a084ebdc326e9760800000000000000
+      internalID: 7466513245753606310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_83
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 184
+        width: 154
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106eb3c1c2c946dc0800000000000000
+      internalID: -3646618084997077503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_84
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 181
+        width: 174
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0ac37066e5ac4c0800000000000000
+      internalID: -4266493904679034650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_85
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 68
+        width: 141
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13500ca2b369ed7e0800000000000000
+      internalID: -1738787225253968591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_86
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323ccb22f76b6e310800000000000000
+      internalID: 1434034188523979555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_87
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 40
+        width: 162
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba27051614dc7b7b0800000000000000
+      internalID: -5208468763341458773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 69
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19af39ac755f88260800000000000000
+      internalID: 7100194569959242385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_89
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 40
+        width: 174
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31db3aabc90f4b0b0800000000000000
+      internalID: -5713677471289459437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_90
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 76
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7316afe8e53717a50800000000000000
+      internalID: 6517116985744711991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_91
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 40
+        width: 166
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be44d410260e9b90800000000000000
+      internalID: -7233337216652259658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_92
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 98
+        width: 150
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb681f2036e8bb60800000000000000
+      internalID: 7762207052395998146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_93
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 40
+        width: 162
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33a1bd74ed80c920800000000000000
+      internalID: 3008560563584344890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_94
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 89
+        width: 171
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e321c7ffd12fce80800000000000000
+      internalID: -8156263154326625303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_95
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 40
+        width: 166
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ceafca89fbebdb0800000000000000
+      internalID: -4774167892508087269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_96
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 100
+        width: 75
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd39940bcc562b5c0800000000000000
+      internalID: -4201183572577905699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833a61bca288914c0800000000000000
+      internalID: -4316269050480647368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_98
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 40
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234262eb99b6d1520800000000000000
+      internalID: 2674412061792281650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_99
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 40
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0796a823577c93d0800000000000000
+      internalID: -3198550436291897586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_100
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 40
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c04a6ea6c3f097f0800000000000000
+      internalID: -607717915039743803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_101
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 40
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d94eb6033d14fe10800000000000000
+      internalID: 2230439820448909780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forchetta_BG_102
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 40
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e9d7b1478ee1350800000000000000
+      internalID: 5989480139824406041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Forchetta_BG_0: -990902057138707710
+      Forchetta_BG_1: -6747336462809904591
+      Forchetta_BG_10: 8325359237682993049
+      Forchetta_BG_100: -607717915039743803
+      Forchetta_BG_101: 2230439820448909780
+      Forchetta_BG_102: 5989480139824406041
+      Forchetta_BG_11: 8842629795778248609
+      Forchetta_BG_12: -4933072925817404881
+      Forchetta_BG_13: 2332132959494842743
+      Forchetta_BG_14: -799994830919741255
+      Forchetta_BG_15: 6874228313385771582
+      Forchetta_BG_16: 1655542482197382131
+      Forchetta_BG_17: -2003114943780387061
+      Forchetta_BG_18: -5417413074852282609
+      Forchetta_BG_19: -6269434571137036641
+      Forchetta_BG_2: 6168139323470645887
+      Forchetta_BG_20: 6345925820272244012
+      Forchetta_BG_21: 2131289161481563123
+      Forchetta_BG_22: 6704725776608821715
+      Forchetta_BG_23: 7961002403278506679
+      Forchetta_BG_24: 4558579676581158192
+      Forchetta_BG_25: 7148223861264597493
+      Forchetta_BG_26: 6680360699992545636
+      Forchetta_BG_27: -981927491648639009
+      Forchetta_BG_28: 5425222122019894514
+      Forchetta_BG_29: -666971771248652587
+      Forchetta_BG_3: 6986997745427179762
+      Forchetta_BG_30: -735837623659841108
+      Forchetta_BG_31: 1035890723963937681
+      Forchetta_BG_32: 4133589083579750965
+      Forchetta_BG_33: 2023196921553096707
+      Forchetta_BG_34: 3900832253205732787
+      Forchetta_BG_35: -3991622715308491774
+      Forchetta_BG_36: -2002725437660994879
+      Forchetta_BG_37: -3984884046670932426
+      Forchetta_BG_38: -2097915540126206497
+      Forchetta_BG_39: -4211787557240130592
+      Forchetta_BG_4: -1308209210765777054
+      Forchetta_BG_40: 3233646412240949689
+      Forchetta_BG_41: 5373412238384856072
+      Forchetta_BG_42: 3808668977054429556
+      Forchetta_BG_43: 7469542917147527870
+      Forchetta_BG_44: 5731580842999783002
+      Forchetta_BG_45: -7086718220067020996
+      Forchetta_BG_46: 8279204483888646679
+      Forchetta_BG_47: 5700362848473285244
+      Forchetta_BG_48: -6616054249561764439
+      Forchetta_BG_49: 2706379614756253131
+      Forchetta_BG_5: 6201472532664069592
+      Forchetta_BG_50: -7532279805650220394
+      Forchetta_BG_51: -7930104539453227787
+      Forchetta_BG_52: -4155221863005362868
+      Forchetta_BG_53: 8507326373222072492
+      Forchetta_BG_54: -1136346011623542871
+      Forchetta_BG_55: -6158608805185539366
+      Forchetta_BG_56: -8601520773616972738
+      Forchetta_BG_57: -4572925962990681065
+      Forchetta_BG_58: -8398884226863657014
+      Forchetta_BG_59: -2376648920412195818
+      Forchetta_BG_6: 5509117504874106161
+      Forchetta_BG_60: 3329540764342664662
+      Forchetta_BG_61: -4227947509088648079
+      Forchetta_BG_62: -8671024080327497887
+      Forchetta_BG_63: 5653530901745925395
+      Forchetta_BG_64: -7666520853017980657
+      Forchetta_BG_65: -4800373333684800531
+      Forchetta_BG_66: 701883043751211001
+      Forchetta_BG_67: -724959936233206403
+      Forchetta_BG_68: 7706337224117433247
+      Forchetta_BG_69: -632516801617509471
+      Forchetta_BG_7: -5005615145011862595
+      Forchetta_BG_70: 6753739180852930601
+      Forchetta_BG_71: 6204929462619621481
+      Forchetta_BG_72: -7427176500272090295
+      Forchetta_BG_73: 377645789267426406
+      Forchetta_BG_74: 5896919811959453749
+      Forchetta_BG_75: 1920074444831492690
+      Forchetta_BG_76: -8370407108968348880
+      Forchetta_BG_77: -8740928036126987578
+      Forchetta_BG_78: 7923221077280375152
+      Forchetta_BG_79: -3842612879724406009
+      Forchetta_BG_8: 5738085535750604291
+      Forchetta_BG_80: -2200224475998612718
+      Forchetta_BG_81: 8309631047789574129
+      Forchetta_BG_82: 7466513245753606310
+      Forchetta_BG_83: -3646618084997077503
+      Forchetta_BG_84: -4266493904679034650
+      Forchetta_BG_85: -1738787225253968591
+      Forchetta_BG_86: 1434034188523979555
+      Forchetta_BG_87: -5208468763341458773
+      Forchetta_BG_88: 7100194569959242385
+      Forchetta_BG_89: -5713677471289459437
+      Forchetta_BG_9: 5954831380883994876
+      Forchetta_BG_90: 6517116985744711991
+      Forchetta_BG_91: -7233337216652259658
+      Forchetta_BG_92: 7762207052395998146
+      Forchetta_BG_93: 3008560563584344890
+      Forchetta_BG_94: -8156263154326625303
+      Forchetta_BG_95: -4774167892508087269
+      Forchetta_BG_96: -4201183572577905699
+      Forchetta_BG_97: -4316269050480647368
+      Forchetta_BG_98: 2674412061792281650
+      Forchetta_BG_99: -3198550436291897586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

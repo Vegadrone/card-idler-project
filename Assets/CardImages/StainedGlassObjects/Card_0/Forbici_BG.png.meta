@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 9ff1c3e992419e543b60c7a68e3cd569
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 972163571573601636
+    second: Forbici_BG_0
+  - first:
+      213: -8797825388219864099
+    second: Forbici_BG_1
+  - first:
+      213: -3515065472068667255
+    second: Forbici_BG_2
+  - first:
+      213: -829087087802459927
+    second: Forbici_BG_3
+  - first:
+      213: 4378309638980551374
+    second: Forbici_BG_4
+  - first:
+      213: -8137271571574532031
+    second: Forbici_BG_5
+  - first:
+      213: 1854826592588480809
+    second: Forbici_BG_6
+  - first:
+      213: 8922737455302117394
+    second: Forbici_BG_7
+  - first:
+      213: 1018541553792951641
+    second: Forbici_BG_8
+  - first:
+      213: -6730733839854318208
+    second: Forbici_BG_9
+  - first:
+      213: -3465486951270421042
+    second: Forbici_BG_10
+  - first:
+      213: 7153402891560892504
+    second: Forbici_BG_11
+  - first:
+      213: 8071721828532240616
+    second: Forbici_BG_12
+  - first:
+      213: -9183209389803458913
+    second: Forbici_BG_13
+  - first:
+      213: -6981432362232469624
+    second: Forbici_BG_14
+  - first:
+      213: -7832094992817943669
+    second: Forbici_BG_15
+  - first:
+      213: 327606077443051845
+    second: Forbici_BG_16
+  - first:
+      213: 8833994613851487106
+    second: Forbici_BG_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forbici_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1178
+        width: 310
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465383b1e91dd7d00800000000000000
+      internalID: 972163571573601636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 394
+        width: 920
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbed3b1c68d7e580800000000000000
+      internalID: -8797825388219864099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1305
+        width: 318
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9883b17a39af73fc0800000000000000
+      internalID: -3515065472068667255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_3
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1241
+        width: 173
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8dba3bfad7e74f0800000000000000
+      internalID: -829087087802459927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_4
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1149
+        width: 199
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2ca1c5b61e2cc30800000000000000
+      internalID: 4378309638980551374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 967
+        width: 94
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1485a676e9a921f80800000000000000
+      internalID: -8137271571574532031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_6
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1005
+        width: 109
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9214f2b65faadb910800000000000000
+      internalID: 1854826592588480809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_7
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 839
+        width: 46
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2180b5fd07ee3db70800000000000000
+      internalID: 8922737455302117394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 472
+        width: 121
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955adce8526922e00800000000000000
+      internalID: 1018541553792951641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 556
+        width: 132
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d48cdcb31a792a0800000000000000
+      internalID: -6730733839854318208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 258
+        width: 246
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd66cf8afd18efc0800000000000000
+      internalID: -3465486951270421042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 166
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8583dbe870ef54360800000000000000
+      internalID: 7153402891560892504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 40
+        width: 191
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e04e6bbc34840070800000000000000
+      internalID: 8071721828532240616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 40
+        width: 345
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eabb6f6bfae8080800000000000000
+      internalID: -9183209389803458913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 172
+        width: 236
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887a7b97148fc1f90800000000000000
+      internalID: -6981432362232469624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_15
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 297
+        width: 226
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b88f9a91fce4390800000000000000
+      internalID: -7832094992817943669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_16
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 40
+        width: 295
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5419040edf3eb8400800000000000000
+      internalID: 327606077443051845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forbici_BG_17
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 40
+        width: 166
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bf45afb47a89a70800000000000000
+      internalID: 8833994613851487106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Forbici_BG_0: 972163571573601636
+      Forbici_BG_1: -8797825388219864099
+      Forbici_BG_10: -3465486951270421042
+      Forbici_BG_11: 7153402891560892504
+      Forbici_BG_12: 8071721828532240616
+      Forbici_BG_13: -9183209389803458913
+      Forbici_BG_14: -6981432362232469624
+      Forbici_BG_15: -7832094992817943669
+      Forbici_BG_16: 327606077443051845
+      Forbici_BG_17: 8833994613851487106
+      Forbici_BG_2: -3515065472068667255
+      Forbici_BG_3: -829087087802459927
+      Forbici_BG_4: 4378309638980551374
+      Forbici_BG_5: -8137271571574532031
+      Forbici_BG_6: 1854826592588480809
+      Forbici_BG_7: 8922737455302117394
+      Forbici_BG_8: 1018541553792951641
+      Forbici_BG_9: -6730733839854318208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: d7528b067dd917c48ac011874fdb54fc
+  m_SerializeEntries:
+  - m_GUID: 057226b975266994bb1067141f7e43d5
+    m_Address: Chtulhu-B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1218eecb1ad26a846b02a8cf37e9dcde
+    m_Address: Chtulhu-P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e693baf7f05c7d4594762debc5cb6da
+    m_Address: Shader Graphs_Scroll Foil
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 231a253f8e3612b4f8e3b3cd03d4762d
+    m_Address: Chtulhu-P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0e0ec79dda4b1544a48d509bcca20e4
+    m_Address: Chtulhu-F
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 89d5390db1cc54547928797b58971c32, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: edf31bd9ee038304b8803843045fd6c6, type: 2}
+    - {fileID: 11400000, guid: 61b10ff02a90b5d4fa1a7a3dc825183c, type: 2}

@@ -1,0 +1,383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: StainedGlassOjects
+  m_EditorClassIdentifier: 
+  m_GroupName: StainedGlassOjects
+  m_GUID: 96af2f6bf162a3f479220363887c0804
+  m_SerializeEntries:
+  - m_GUID: 0175b94588319af498e1ef59437fe98c
+    m_Address: SpazzolinoDenti_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02f85d6606aa5a24fa45f9d4dbc34c92
+    m_Address: Joypad_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08e05bc6e19d87d4cabdce3f307b3929
+    m_Address: Zaino_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0993460c4ca3781468d14be073f06849
+    m_Address: Zaino_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0be9f98b87b34154c8186f59038beb41
+    m_Address: Molletta_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c6ec9d9aa017ac489d1cdcdfb104c88
+    m_Address: TelecomandoTV_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fc34892c7f592a4da1f3ddcfe802b7a
+    m_Address: Penna_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 101329e18106c9c48bafad8d7e004107
+    m_Address: Paperella_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10c43b4570d39ab4d87f87f42ab4b64b
+    m_Address: Libro_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12fef069d927cac4cb089beb5f3dcb2d
+    m_Address: Forchetta_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1359b9ed81b3e124cbe894bb2203c39c
+    m_Address: Coltello_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bdd2d0771ec33a45b7462bb4e8fdb45
+    m_Address: Forchetta_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23ed006a4bfff274299d9d9ab7f13939
+    m_Address: Coltello_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 265b49877ef4972429a6edd5d22a7176
+    m_Address: Tazzina_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b51e3d260798724a846b26eee410a3a
+    m_Address: TelecomandoTV_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e3f2415426026544bfed1175cf32096
+    m_Address: FerroDaStiro_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fc6c32030656f34a82aa010a1074c7d
+    m_Address: Martellone_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32030196e63b12749b6a6bf2858ece15
+    m_Address: Forbici_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35e9cce1ada766049b0ba0e3fa44724d
+    m_Address: TelecomandoTV_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ebb198ee7c0c0843996a1feba942769
+    m_Address: TazzaWC_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f99bff13b388484a92ddba3bbaed9dd
+    m_Address: Tazzina_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 445209e8f94586a4890830b45a50e0f5
+    m_Address: Joypad_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 455f264b7596c8440a44cca7c5a35155
+    m_Address: Joypad_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 464f61e658644dd47aab483a7ebf1fcc
+    m_Address: Tazzina_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48dfdd51c3cdd7a46941ec4401aa2b5e
+    m_Address: Molletta_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 514c5ea73e8dd9f4eb500c731f9c6f6d
+    m_Address: SpazzolinoDenti_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52135c817e1733049ae077117dda54a3
+    m_Address: SpazzolinoDenti_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59d8dc81e13e04f428c6c86619f2a330
+    m_Address: Cucchiaio_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b1049d29952af441b5c863e894a6042
+    m_Address: Gomma_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b5b39deb0c250549aed1380e8fcd575
+    m_Address: Martellone_P1.
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b681b4cee8264e479091a0668dc58b4
+    m_Address: Cucchiaio_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65aea71c4de8e3146ae0b20528477b1c
+    m_Address: Gomma_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a6ddabdd76b26f438da2d7184922686
+    m_Address: FerroDaStiro_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73298730e68293d449f68060a4fc8633
+    m_Address: Tazzina_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7987cdd27c77e774ca1b690fdcf8b28f
+    m_Address: Molletta_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83c21c5a492406540a210ec89be80cd2
+    m_Address: Libro_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8462aeff1cda835479e5c17f2ab7b21c
+    m_Address: FerroDaStiro_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ac0f9073b685f74e86f838d0fbc734a
+    m_Address: Molletta_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98df99024856b2049998fda8d9140a53
+    m_Address: Penna_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a60ae7bd181ed74c9a1eb06239068df
+    m_Address: TazzaWC_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b1a108e75c77d74d8b6268a36aee462
+    m_Address: Scarpa_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ed92e0536bb933429a2bd0b055442e4
+    m_Address: TelecomandoTV_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ff1c3e992419e543b60c7a68e3cd569
+    m_Address: Forbici_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0d69b24cefa428408773c95e020b324
+    m_Address: Forbici_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0ea0e8cbddb75147994caf9c4439a32
+    m_Address: Forbici_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2edb5298a8c397409510fd19fda5fc1
+    m_Address: Gomma_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4b09568a94e4454fa2edf95f699fe36
+    m_Address: Forchetta_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7229691b4d12414697905f11956d681
+    m_Address: Paperella_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa461322e3e54bb479a9122afbe822c3
+    m_Address: Paperella_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: addea8a0bba8edc498a6eae553e01718
+    m_Address: Cucchiaio_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0abeff99bf9e5c4db9fa944c272c8ff
+    m_Address: Forchetta_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2e9123a7045efa49be8b645e0950b89
+    m_Address: TazzaWC_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b64ccbe259aa76b4080bebf8103f473d
+    m_Address: Penna_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6f2e2c7e18722848a5d0e65c2815bfa
+    m_Address: Zaino_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bef86b10ffa092a47850668826c7a676
+    m_Address: Joypad_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c779fb4f646b7294e92d34e4df21b3df
+    m_Address: Scarpa_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b22b02f675b8145a9d064d0bd94223
+    m_Address: Paperella_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd7e2608ddd5b4849a3981b7f3d8d93e
+    m_Address: Penna_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ced555bcad5ecb44a9a3253ab93f03a6
+    m_Address: TazzaWC_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d07b5f0d9b50a8a4d93ca9494c58f88f
+    m_Address: Zaino_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1680078b2a951f49bc14d52a73b2b25
+    m_Address: Martellone_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9d914d27b7ed3a46a2bdfa53e6f37fd
+    m_Address: Cucchiaio_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de606a715ec40374d98b315bafa5e8f8
+    m_Address: Coltello_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfe2011bf969fee4881a3686f5ec8339
+    m_Address: Libro_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5520beca49a7ae42a4cf4daa5ccc05e
+    m_Address: Gomma_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6e5e1313a4dbf04ebbde6b3cb7f53ff
+    m_Address: FerroDaStiro_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea3ea69a502769b4e9b70cf068979285
+    m_Address: Libro_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eeb87a20ba9a0e945b9bde8a21d5da14
+    m_Address: Coltello_FRAME
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7262bba7681a6b4291b243d0cd27eb1
+    m_Address: Scarpa_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb85569d5ae6f33468db8bab765a07c6
+    m_Address: Scarpa_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc3e46b58b2027e4cb3fd97275023827
+    m_Address: SpazzolinoDenti_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdbaf2ffdb6740240a2daa2037e1ce42
+    m_Address: Martellone_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 89d5390db1cc54547928797b58971c32, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 58e71ff00b653f44fb56d291e3eb635f, type: 2}
+    - {fileID: 11400000, guid: c9f66e8062830ab4897183492ee6ff10, type: 2}

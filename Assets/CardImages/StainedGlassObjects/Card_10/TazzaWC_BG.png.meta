@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: b2e9123a7045efa49be8b645e0950b89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2863622582540163478
+    second: TazzaWC_BG_0
+  - first:
+      213: -4447977322746275630
+    second: TazzaWC_BG_1
+  - first:
+      213: -4557002403902163590
+    second: TazzaWC_BG_2
+  - first:
+      213: -292710923667557018
+    second: TazzaWC_BG_3
+  - first:
+      213: -2347630749960304061
+    second: TazzaWC_BG_4
+  - first:
+      213: 7157374159964492526
+    second: TazzaWC_BG_5
+  - first:
+      213: 5782611608534518507
+    second: TazzaWC_BG_6
+  - first:
+      213: 2680216080333655323
+    second: TazzaWC_BG_7
+  - first:
+      213: -7006013844076511863
+    second: TazzaWC_BG_8
+  - first:
+      213: 5605163445285096595
+    second: TazzaWC_BG_9
+  - first:
+      213: 6694310869574527095
+    second: TazzaWC_BG_10
+  - first:
+      213: 5005829640344998177
+    second: TazzaWC_BG_11
+  - first:
+      213: -5667134944131475655
+    second: TazzaWC_BG_12
+  - first:
+      213: -7509111978012929068
+    second: TazzaWC_BG_13
+  - first:
+      213: -5629455380575028443
+    second: TazzaWC_BG_14
+  - first:
+      213: 8647424926736769974
+    second: TazzaWC_BG_15
+  - first:
+      213: -5044428841700913732
+    second: TazzaWC_BG_16
+  - first:
+      213: -6545620954726541980
+    second: TazzaWC_BG_17
+  - first:
+      213: 7156891505952906309
+    second: TazzaWC_BG_18
+  - first:
+      213: -4804468586379765262
+    second: TazzaWC_BG_19
+  - first:
+      213: 5301530237389476223
+    second: TazzaWC_BG_20
+  - first:
+      213: 792802136161186399
+    second: TazzaWC_BG_21
+  - first:
+      213: 6858837561379034984
+    second: TazzaWC_BG_22
+  - first:
+      213: -4059356100067401190
+    second: TazzaWC_BG_23
+  - first:
+      213: -3531532788529227811
+    second: TazzaWC_BG_24
+  - first:
+      213: 4002441123851678150
+    second: TazzaWC_BG_25
+  - first:
+      213: -7661614152583447033
+    second: TazzaWC_BG_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TazzaWC_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1132
+        width: 365
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6628ecee6e5248d0800000000000000
+      internalID: -2863622582540163478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 592
+        width: 353
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d817bcf03c9542c0800000000000000
+      internalID: -4447977322746275630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1107
+        width: 975
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a757fca257642c0c0800000000000000
+      internalID: -4557002403902163590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 928
+        width: 430
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6653bec37f410fbf0800000000000000
+      internalID: -292710923667557018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 887
+        width: 735
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a05dc654a8b6fd0800000000000000
+      internalID: -2347630749960304061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 875
+        width: 404
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee25e3980e9145360800000000000000
+      internalID: 7157374159964492526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_6
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 925
+        width: 485
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea00c0de96ff3050800000000000000
+      internalID: 5782611608534518507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1036
+        width: 445
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dc39d135a023520800000000000000
+      internalID: 2680216080333655323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 514
+        width: 325
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db95c3783a5ce90800000000000000
+      internalID: -7006013844076511863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 182
+        width: 706
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c0930c47a89cd40800000000000000
+      internalID: 5605163445285096595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 602
+        width: 367
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778a6059448f6ec50800000000000000
+      internalID: 6694310869574527095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 519
+        width: 395
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12192ee2987487540800000000000000
+      internalID: 5005829640344998177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 732
+        width: 579
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93717d84bca4a51b0800000000000000
+      internalID: -5667134944131475655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 702
+        width: 135
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d398e3e0764ac790800000000000000
+      internalID: -7509111978012929068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_14
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 694
+        width: 344
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bf9e1582820e1b0800000000000000
+      internalID: -5629455380575028443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_15
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 372
+        width: 262
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3e004a723d10870800000000000000
+      internalID: 8647424926736769974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_16
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 194
+        width: 372
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd8eabe1b69ef9b0800000000000000
+      internalID: -5044428841700913732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_17
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 695
+        width: 289
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465db2ffb684925a0800000000000000
+      internalID: -6545620954726541980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_18
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 725
+        width: 244
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c5554e7e2625360800000000000000
+      internalID: 7156891505952906309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 346
+        width: 116
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f99f4e9649135db0800000000000000
+      internalID: -4804468586379765262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 267
+        width: 734
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71979589a1d29940800000000000000
+      internalID: 5301530237389476223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 224
+        width: 223
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52fe07a759900b00800000000000000
+      internalID: 792802136161186399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 627
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8679a122c6c7f2f50800000000000000
+      internalID: 6858837561379034984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 40
+        width: 499
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12eaa662254aa7c0800000000000000
+      internalID: -4059356100067401190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_24
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 46
+        width: 322
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd71213c3a97dfec0800000000000000
+      internalID: -3531532788529227811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 779
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1389d0ff68b8730800000000000000
+      internalID: 4002441123851678150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TazzaWC_BG_26
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 40
+        width: 293
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e782d658a7ca590800000000000000
+      internalID: -7661614152583447033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TazzaWC_BG_0: -2863622582540163478
+      TazzaWC_BG_1: -4447977322746275630
+      TazzaWC_BG_10: 6694310869574527095
+      TazzaWC_BG_11: 5005829640344998177
+      TazzaWC_BG_12: -5667134944131475655
+      TazzaWC_BG_13: -7509111978012929068
+      TazzaWC_BG_14: -5629455380575028443
+      TazzaWC_BG_15: 8647424926736769974
+      TazzaWC_BG_16: -5044428841700913732
+      TazzaWC_BG_17: -6545620954726541980
+      TazzaWC_BG_18: 7156891505952906309
+      TazzaWC_BG_19: -4804468586379765262
+      TazzaWC_BG_2: -4557002403902163590
+      TazzaWC_BG_20: 5301530237389476223
+      TazzaWC_BG_21: 792802136161186399
+      TazzaWC_BG_22: 6858837561379034984
+      TazzaWC_BG_23: -4059356100067401190
+      TazzaWC_BG_24: -3531532788529227811
+      TazzaWC_BG_25: 4002441123851678150
+      TazzaWC_BG_26: -7661614152583447033
+      TazzaWC_BG_3: -292710923667557018
+      TazzaWC_BG_4: -2347630749960304061
+      TazzaWC_BG_5: 7157374159964492526
+      TazzaWC_BG_6: 5782611608534518507
+      TazzaWC_BG_7: 2680216080333655323
+      TazzaWC_BG_8: -7006013844076511863
+      TazzaWC_BG_9: 5605163445285096595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

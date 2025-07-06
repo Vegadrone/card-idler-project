@@ -1,0 +1,4641 @@
+fileFormatVersion: 2
+guid: bef86b10ffa092a47850668826c7a676
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6978945757049106683
+    second: Joypad_BG_0
+  - first:
+      213: -8860013086872992758
+    second: Joypad_BG_1
+  - first:
+      213: -224411280163675686
+    second: Joypad_BG_2
+  - first:
+      213: -6802092253996323802
+    second: Joypad_BG_3
+  - first:
+      213: -7889115173997336211
+    second: Joypad_BG_4
+  - first:
+      213: 3319888853522635317
+    second: Joypad_BG_5
+  - first:
+      213: -238800597074829122
+    second: Joypad_BG_6
+  - first:
+      213: 8192640496966027080
+    second: Joypad_BG_7
+  - first:
+      213: -2605328769854517407
+    second: Joypad_BG_8
+  - first:
+      213: -5822562522034987315
+    second: Joypad_BG_9
+  - first:
+      213: -1483548147281825977
+    second: Joypad_BG_10
+  - first:
+      213: 4140518867564057059
+    second: Joypad_BG_11
+  - first:
+      213: -3292684690464412597
+    second: Joypad_BG_12
+  - first:
+      213: 8767418423533840524
+    second: Joypad_BG_13
+  - first:
+      213: 5436027578827892345
+    second: Joypad_BG_14
+  - first:
+      213: 4680773978364305221
+    second: Joypad_BG_15
+  - first:
+      213: 1977601183155769815
+    second: Joypad_BG_16
+  - first:
+      213: 1632843752380504225
+    second: Joypad_BG_17
+  - first:
+      213: -8872084403694473514
+    second: Joypad_BG_18
+  - first:
+      213: -5756095564607034248
+    second: Joypad_BG_19
+  - first:
+      213: -8395203395892224553
+    second: Joypad_BG_20
+  - first:
+      213: 5019296875210711887
+    second: Joypad_BG_21
+  - first:
+      213: 4979857204961424423
+    second: Joypad_BG_22
+  - first:
+      213: -3252610605732978119
+    second: Joypad_BG_23
+  - first:
+      213: 2154906145416241904
+    second: Joypad_BG_24
+  - first:
+      213: 2136397741382885354
+    second: Joypad_BG_25
+  - first:
+      213: 2929112859479879279
+    second: Joypad_BG_26
+  - first:
+      213: -9217933932933590294
+    second: Joypad_BG_27
+  - first:
+      213: -3132513631082863522
+    second: Joypad_BG_28
+  - first:
+      213: 3897482163479969207
+    second: Joypad_BG_29
+  - first:
+      213: -8362861042049906292
+    second: Joypad_BG_30
+  - first:
+      213: -2649344752984435626
+    second: Joypad_BG_31
+  - first:
+      213: -2928772526395082751
+    second: Joypad_BG_32
+  - first:
+      213: 8964687115208016538
+    second: Joypad_BG_33
+  - first:
+      213: -5731734911183137283
+    second: Joypad_BG_34
+  - first:
+      213: 2615851043861743566
+    second: Joypad_BG_35
+  - first:
+      213: 5492615130196172768
+    second: Joypad_BG_36
+  - first:
+      213: -5098930821381864068
+    second: Joypad_BG_37
+  - first:
+      213: -4972794794207680353
+    second: Joypad_BG_38
+  - first:
+      213: -7176474921562106594
+    second: Joypad_BG_39
+  - first:
+      213: -5797493336829602287
+    second: Joypad_BG_40
+  - first:
+      213: 4460505302991821284
+    second: Joypad_BG_41
+  - first:
+      213: 2072320004929859539
+    second: Joypad_BG_42
+  - first:
+      213: 1078347219764248292
+    second: Joypad_BG_43
+  - first:
+      213: -4698779858800148091
+    second: Joypad_BG_44
+  - first:
+      213: -1709639523713157832
+    second: Joypad_BG_45
+  - first:
+      213: 8290413670728842223
+    second: Joypad_BG_46
+  - first:
+      213: 3896264820879398316
+    second: Joypad_BG_47
+  - first:
+      213: -3535426390580137717
+    second: Joypad_BG_48
+  - first:
+      213: -2803464169549573994
+    second: Joypad_BG_49
+  - first:
+      213: -3359168248450763561
+    second: Joypad_BG_50
+  - first:
+      213: 3192386514120803489
+    second: Joypad_BG_51
+  - first:
+      213: -1615172563321927376
+    second: Joypad_BG_52
+  - first:
+      213: -7648292419279180042
+    second: Joypad_BG_53
+  - first:
+      213: -836307769837376725
+    second: Joypad_BG_54
+  - first:
+      213: 6035154630782033635
+    second: Joypad_BG_55
+  - first:
+      213: 5126950750495482299
+    second: Joypad_BG_56
+  - first:
+      213: -3705219186151892786
+    second: Joypad_BG_57
+  - first:
+      213: -6697192158586009475
+    second: Joypad_BG_58
+  - first:
+      213: 6871417001086951896
+    second: Joypad_BG_59
+  - first:
+      213: 7109184361283157635
+    second: Joypad_BG_60
+  - first:
+      213: 6722876432771692820
+    second: Joypad_BG_61
+  - first:
+      213: 3498486099124873519
+    second: Joypad_BG_62
+  - first:
+      213: 6367370993595597228
+    second: Joypad_BG_63
+  - first:
+      213: -3549830543188127492
+    second: Joypad_BG_64
+  - first:
+      213: -911317354074855335
+    second: Joypad_BG_65
+  - first:
+      213: 8082810331620509948
+    second: Joypad_BG_66
+  - first:
+      213: -1738030985474573438
+    second: Joypad_BG_67
+  - first:
+      213: -3998757574090517168
+    second: Joypad_BG_68
+  - first:
+      213: 892805988788883927
+    second: Joypad_BG_69
+  - first:
+      213: 1015367620044006816
+    second: Joypad_BG_70
+  - first:
+      213: 2459143572558919603
+    second: Joypad_BG_71
+  - first:
+      213: -1628133440515622007
+    second: Joypad_BG_72
+  - first:
+      213: 6648060463487988891
+    second: Joypad_BG_73
+  - first:
+      213: 450716926104919668
+    second: Joypad_BG_74
+  - first:
+      213: 5092488563649285176
+    second: Joypad_BG_75
+  - first:
+      213: 9101049593174010310
+    second: Joypad_BG_76
+  - first:
+      213: -8160269961206377520
+    second: Joypad_BG_77
+  - first:
+      213: 8581778331116861904
+    second: Joypad_BG_78
+  - first:
+      213: -6686256525925556462
+    second: Joypad_BG_79
+  - first:
+      213: -1749757538458011747
+    second: Joypad_BG_80
+  - first:
+      213: -6537151653283796019
+    second: Joypad_BG_81
+  - first:
+      213: -8885366775290302515
+    second: Joypad_BG_82
+  - first:
+      213: -508322430657084911
+    second: Joypad_BG_83
+  - first:
+      213: 6340929443529751638
+    second: Joypad_BG_84
+  - first:
+      213: 1805370255346724986
+    second: Joypad_BG_85
+  - first:
+      213: 3101966856163037295
+    second: Joypad_BG_86
+  - first:
+      213: -3531257493773211974
+    second: Joypad_BG_87
+  - first:
+      213: -6691346164993416461
+    second: Joypad_BG_88
+  - first:
+      213: 2303708454584923868
+    second: Joypad_BG_89
+  - first:
+      213: -1509437003925887562
+    second: Joypad_BG_90
+  - first:
+      213: 8136588702196994097
+    second: Joypad_BG_91
+  - first:
+      213: 2808752666876641498
+    second: Joypad_BG_92
+  - first:
+      213: -7287051873924904905
+    second: Joypad_BG_93
+  - first:
+      213: -279810327657848267
+    second: Joypad_BG_94
+  - first:
+      213: 619329336498957439
+    second: Joypad_BG_95
+  - first:
+      213: -3922973217937101333
+    second: Joypad_BG_96
+  - first:
+      213: 7243013657153066415
+    second: Joypad_BG_97
+  - first:
+      213: -237786027611986095
+    second: Joypad_BG_98
+  - first:
+      213: 4339165962598154127
+    second: Joypad_BG_99
+  - first:
+      213: -2425771703535424465
+    second: Joypad_BG_100
+  - first:
+      213: 6695345464016581628
+    second: Joypad_BG_101
+  - first:
+      213: -1576143359732423309
+    second: Joypad_BG_102
+  - first:
+      213: 1611146190876514743
+    second: Joypad_BG_103
+  - first:
+      213: 2169822587370716097
+    second: Joypad_BG_104
+  - first:
+      213: -1706018575781645141
+    second: Joypad_BG_105
+  - first:
+      213: -7937029689263825432
+    second: Joypad_BG_106
+  - first:
+      213: 2887491828092230756
+    second: Joypad_BG_107
+  - first:
+      213: 7077064761879718071
+    second: Joypad_BG_108
+  - first:
+      213: 7898370479929668845
+    second: Joypad_BG_109
+  - first:
+      213: 4857048547308409732
+    second: Joypad_BG_110
+  - first:
+      213: 3187371011389408575
+    second: Joypad_BG_111
+  - first:
+      213: -8963321824504348146
+    second: Joypad_BG_112
+  - first:
+      213: 5198117011951247089
+    second: Joypad_BG_113
+  - first:
+      213: 3895411754466948413
+    second: Joypad_BG_114
+  - first:
+      213: -6619311525828571006
+    second: Joypad_BG_115
+  - first:
+      213: 3623074722710126044
+    second: Joypad_BG_116
+  - first:
+      213: -2652731639450304944
+    second: Joypad_BG_117
+  - first:
+      213: 7418956851678399903
+    second: Joypad_BG_118
+  - first:
+      213: 8284558278144240528
+    second: Joypad_BG_119
+  - first:
+      213: 1006156690065815854
+    second: Joypad_BG_120
+  - first:
+      213: -390434281145573325
+    second: Joypad_BG_121
+  - first:
+      213: 5368312358515124757
+    second: Joypad_BG_122
+  - first:
+      213: 2528420556046793769
+    second: Joypad_BG_123
+  - first:
+      213: -7096699122446236975
+    second: Joypad_BG_124
+  - first:
+      213: 6878917006809222699
+    second: Joypad_BG_125
+  - first:
+      213: -5937513187050745716
+    second: Joypad_BG_126
+  - first:
+      213: 875789600907125730
+    second: Joypad_BG_127
+  - first:
+      213: -3272519817730621453
+    second: Joypad_BG_128
+  - first:
+      213: 3172046495683930389
+    second: Joypad_BG_129
+  - first:
+      213: 7042053186858109873
+    second: Joypad_BG_130
+  - first:
+      213: 5851794121878121630
+    second: Joypad_BG_131
+  - first:
+      213: 7887368544654061524
+    second: Joypad_BG_132
+  - first:
+      213: -4705015033441004153
+    second: Joypad_BG_133
+  - first:
+      213: 4150793248845099814
+    second: Joypad_BG_134
+  - first:
+      213: 7710870618774768028
+    second: Joypad_BG_135
+  - first:
+      213: -8052806185312699624
+    second: Joypad_BG_136
+  - first:
+      213: -9082127488166992695
+    second: Joypad_BG_137
+  - first:
+      213: -799496145367825412
+    second: Joypad_BG_138
+  - first:
+      213: -8986350989002787953
+    second: Joypad_BG_139
+  - first:
+      213: -2481722217830531417
+    second: Joypad_BG_140
+  - first:
+      213: -8011569201024372523
+    second: Joypad_BG_141
+  - first:
+      213: 7827420074531242085
+    second: Joypad_BG_142
+  - first:
+      213: 5561990001323223499
+    second: Joypad_BG_143
+  - first:
+      213: 1934209171409630173
+    second: Joypad_BG_144
+  - first:
+      213: 1701042945585982364
+    second: Joypad_BG_145
+  - first:
+      213: 6063912369326243164
+    second: Joypad_BG_146
+  - first:
+      213: 2634233153744158135
+    second: Joypad_BG_147
+  - first:
+      213: 2177145712827325520
+    second: Joypad_BG_148
+  - first:
+      213: 7970075270669964903
+    second: Joypad_BG_149
+  - first:
+      213: -8601174740086164001
+    second: Joypad_BG_150
+  - first:
+      213: -4603969545573800141
+    second: Joypad_BG_151
+  - first:
+      213: -7378594829805187163
+    second: Joypad_BG_152
+  - first:
+      213: -8397719679920632392
+    second: Joypad_BG_153
+  - first:
+      213: -3761199487415380418
+    second: Joypad_BG_154
+  - first:
+      213: -1087521997812581791
+    second: Joypad_BG_155
+  - first:
+      213: -3435445445268406411
+    second: Joypad_BG_156
+  - first:
+      213: -1072878972090743602
+    second: Joypad_BG_157
+  - first:
+      213: 3245639483737686597
+    second: Joypad_BG_158
+  - first:
+      213: -5165750966049629807
+    second: Joypad_BG_159
+  - first:
+      213: -7062268356798556449
+    second: Joypad_BG_160
+  - first:
+      213: -3479150330539845224
+    second: Joypad_BG_161
+  - first:
+      213: 8349073705165005111
+    second: Joypad_BG_162
+  - first:
+      213: 8703946388375884760
+    second: Joypad_BG_163
+  - first:
+      213: -1583541797455530702
+    second: Joypad_BG_164
+  - first:
+      213: -5730667189188403656
+    second: Joypad_BG_165
+  - first:
+      213: -311096297836893873
+    second: Joypad_BG_166
+  - first:
+      213: -2473992915123195710
+    second: Joypad_BG_167
+  - first:
+      213: -373780593673816679
+    second: Joypad_BG_168
+  - first:
+      213: -7903814923048982759
+    second: Joypad_BG_169
+  - first:
+      213: -6249492952112210005
+    second: Joypad_BG_170
+  - first:
+      213: -8042406639020560092
+    second: Joypad_BG_171
+  - first:
+      213: -8300017268429607254
+    second: Joypad_BG_172
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Joypad_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1419
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0b1a3a0323ad060800000000000000
+      internalID: 6978945757049106683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1326
+        width: 100
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a048f933a09ea0580800000000000000
+      internalID: -8860013086872992758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1419
+        width: 123
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1e042312bb2ecf0800000000000000
+      internalID: -224411280163675686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1422
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cec1f422d1a91a0800000000000000
+      internalID: -6802092253996323802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1415
+        width: 125
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69aebd2c8b348290800000000000000
+      internalID: -7889115173997336211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1327
+        width: 101
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53adeff925d921e20800000000000000
+      internalID: 3319888853522635317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_6
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1419
+        width: 121
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb024374f1c9facf0800000000000000
+      internalID: -238800597074829122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_7
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1422
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847c322202b12b170800000000000000
+      internalID: 8192640496966027080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_8
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1420
+        width: 121
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f47b5994308dbd0800000000000000
+      internalID: -2605328769854517407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1331
+        width: 97
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce1a974c3a123fa0800000000000000
+      internalID: -5822562522034987315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1418
+        width: 126
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fe31af1d0696be0800000000000000
+      internalID: -1483548147281825977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_11
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1425
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e155fef8f3167930800000000000000
+      internalID: 4140518867564057059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_12
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1421
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c608b28b80e42d0800000000000000
+      internalID: -3292684690464412597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1327
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8823fbba902ca970800000000000000
+      internalID: 8767418423533840524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1323
+        width: 146
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97663491846a07b40800000000000000
+      internalID: 5436027578827892345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1246
+        width: 93
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fdb4e222375f040800000000000000
+      internalID: 4680773978364305221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1327
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1546d5cc9d17b10800000000000000
+      internalID: 1977601183155769815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1323
+        width: 145
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a81b5addb609a610800000000000000
+      internalID: 1632843752380504225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1244
+        width: 96
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dee18cbd3600e480800000000000000
+      internalID: -8872084403694473514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1327
+        width: 148
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c6562c49d3e10b0800000000000000
+      internalID: -5756095564607034248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_20
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1328
+        width: 141
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd0babdfe3e7b80800000000000000
+      internalID: -8395203395892224553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_21
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1244
+        width: 93
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43a9252aef18a540800000000000000
+      internalID: 5019296875210711887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_22
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1326
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72435e55eb10c1540800000000000000
+      internalID: 4979857204961424423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1236
+        width: 101
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9322e9c13e76cd2d0800000000000000
+      internalID: -3252610605732978119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1150
+        width: 105
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f267d9d8b3c7ed10800000000000000
+      internalID: 2154906145416241904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1239
+        width: 141
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd21a3d6206ad10800000000000000
+      internalID: 2136397741382885354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1236
+        width: 145
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ea35860ac46a820800000000000000
+      internalID: 2929112859479879279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_27
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1152
+        width: 98
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2597c3de1531080800000000000000
+      internalID: -9217933932933590294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1239
+        width: 138
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54ac3503731784d0800000000000000
+      internalID: -3132513631082863522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_29
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1240
+        width: 139
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf4a0c063a61630800000000000000
+      internalID: 3897482163479969207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_30
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1154
+        width: 100
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8989aac03621fb80800000000000000
+      internalID: -8362861042049906292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_31
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1239
+        width: 147
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65451d6ebf2ab3bd0800000000000000
+      internalID: -2649344752984435626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_32
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1241
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1083c4097e8ea57d0800000000000000
+      internalID: -2928772526395082751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1148
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92ce703f67f86c70800000000000000
+      internalID: 8964687115208016538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1145
+        width: 152
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df559306779c470b0800000000000000
+      internalID: -5731734911183137283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_35
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1067
+        width: 97
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7c6be3aae5d4420800000000000000
+      internalID: 2615851043861743566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_36
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1151
+        width: 143
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef574b1c50b93c40800000000000000
+      internalID: 5492615130196172768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_37
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1148
+        width: 149
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754e39ee65fc39b0800000000000000
+      internalID: -5098930821381864068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_38
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1067
+        width: 99
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e65e4b751dfab0800000000000000
+      internalID: -4972794794207680353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_39
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1151
+        width: 147
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e159ac8d41a086c90800000000000000
+      internalID: -7176474921562106594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_40
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1150
+        width: 145
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d39ec68a2b8fa0800000000000000
+      internalID: -5797493336829602287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_41
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1065
+        width: 99
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9d297b0f5e6ed30800000000000000
+      internalID: 4460505302991821284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_42
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1151
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfa7ca901c52cc10800000000000000
+      internalID: 2072320004929859539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1059
+        width: 107
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eef392451f07fe00800000000000000
+      internalID: 1078347219764248292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 974
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58105761d949aceb0800000000000000
+      internalID: -4698779858800148091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1061
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835fb1749e32648e0800000000000000
+      internalID: -1709639523713157832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1058
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febb5dc1f477d0370800000000000000
+      internalID: 8290413670728842223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_47
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 974
+        width: 101
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca51e571630521630800000000000000
+      internalID: 3896264820879398316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_48
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1061
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01fde3ed64afeec0800000000000000
+      internalID: -3535426390580137717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_49
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1063
+        width: 147
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6905671f0381819d0800000000000000
+      internalID: -2803464169549573994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_50
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 977
+        width: 100
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d432529646d161d0800000000000000
+      internalID: -3359168248450763561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_51
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1061
+        width: 146
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a40befde92ad4c20800000000000000
+      internalID: 3192386514120803489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_52
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1063
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0394d387c11c599e0800000000000000
+      internalID: -1615172563321927376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 974
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2d8a219ecbd590800000000000000
+      internalID: -7648292419279180042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_54
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 971
+        width: 147
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba1f7a386d464f0800000000000000
+      internalID: -836307769837376725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 884
+        width: 97
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee115c392d21c350800000000000000
+      internalID: 6035154630782033635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 974
+        width: 139
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a4383b86962740800000000000000
+      internalID: 5126950750495482299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_57
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 967
+        width: 148
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8547208ca649cc0800000000000000
+      internalID: -3705219186151892786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_58
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 886
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7803fa073bce03a0800000000000000
+      internalID: -6697192158586009475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_59
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 974
+        width: 146
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d12e5d2b5d2c5f50800000000000000
+      internalID: 6871417001086951896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_60
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 976
+        width: 140
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e7b01b285e8a260800000000000000
+      internalID: 7109184361283157635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_61
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 886
+        width: 99
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419b33c0f747c4d50800000000000000
+      internalID: 6722876432771692820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_62
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 970
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29eaf5429e1d8030800000000000000
+      internalID: 3498486099124873519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 880
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca14462de227d5850800000000000000
+      internalID: 6367370993595597228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_64
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 801
+        width: 96
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf09074cde77cbec0800000000000000
+      internalID: -3549830543188127492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 883
+        width: 141
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95828b0e1b95a53f0800000000000000
+      internalID: -911317354074855335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_66
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 880
+        width: 149
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8091b0c29eb2070800000000000000
+      internalID: 8082810331620509948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_67
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 801
+        width: 95
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b7a26f60641e7e0800000000000000
+      internalID: -1738030985474573438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_68
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 883
+        width: 141
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0559e653c2f8188c0800000000000000
+      internalID: -3998757574090517168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_69
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 883
+        width: 141
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d15a170152e36c00800000000000000
+      internalID: 892805988788883927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_70
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 805
+        width: 95
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a52825887f471e00800000000000000
+      internalID: 1015367620044006816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_71
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 883
+        width: 147
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b73f06dc02a02220800000000000000
+      internalID: 2459143572558919603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_72
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 885
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bb1271345b769e0800000000000000
+      internalID: -1628133440515622007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_73
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 794
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b943583c4c7a24c50800000000000000
+      internalID: 6648060463487988891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 794
+        width: 149
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e5db208a4414600800000000000000
+      internalID: 450716926104919668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_75
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 710
+        width: 99
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c0e031e572ca640800000000000000
+      internalID: 5092488563649285176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_76
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 795
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9a954b26c6d4e70800000000000000
+      internalID: 9101049593174010310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_77
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 793
+        width: 150
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3d00b84b5e0ce80800000000000000
+      internalID: -8160269961206377520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_78
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 709
+        width: 96
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d97d578ce9981770800000000000000
+      internalID: 8581778331116861904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_79
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 795
+        width: 146
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fd11f6d15a533a0800000000000000
+      internalID: -6686256525925556462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_80
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 796
+        width: 142
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97f5251acc97b7e0800000000000000
+      internalID: -1749757538458011747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_81
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 711
+        width: 98
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb6927e43f5745a0800000000000000
+      internalID: -6537151653283796019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_82
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 795
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf63cb9ef5d0b480800000000000000
+      internalID: -8885366775290302515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 708
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1124259417312f8f0800000000000000
+      internalID: -508322430657084911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_84
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 617
+        width: 102
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cf763bbb18ff750800000000000000
+      internalID: 6340929443529751638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_85
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 707
+        width: 143
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a707ff59ea6fd0910800000000000000
+      internalID: 1805370255346724986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_86
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 706
+        width: 139
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6012a6bb666c0b20800000000000000
+      internalID: 3101966856163037295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_87
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 615
+        width: 103
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab62631d4047efec0800000000000000
+      internalID: -3531257493773211974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_88
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 707
+        width: 140
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2256e7d109323a0800000000000000
+      internalID: -6691346164993416461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_89
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 705
+        width: 146
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6399542aa68ff10800000000000000
+      internalID: 2303708454584923868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_90
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 617
+        width: 97
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5ea22da076d0be0800000000000000
+      internalID: -1509437003925887562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_91
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 706
+        width: 147
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13098eda058fae070800000000000000
+      internalID: 8136588702196994097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_92
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 707
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad00d1b4ba1baf620800000000000000
+      internalID: 2808752666876641498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_93
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 615
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7388cdadde03fda90800000000000000
+      internalID: -7287051873924904905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_94
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 614
+        width: 141
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532e77f4df9ed1cf0800000000000000
+      internalID: -279810327657848267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_95
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 535
+        width: 95
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7caffc00cc489800800000000000000
+      internalID: 619329336498957439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_96
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 615
+        width: 142
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedec71a4acce89c0800000000000000
+      internalID: -3922973217937101333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_97
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 614
+        width: 139
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa559e9cb8a548460800000000000000
+      internalID: 7243013657153066415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_98
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 531
+        width: 98
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157e2a32ed633bcf0800000000000000
+      internalID: -237786027611986095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_99
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 615
+        width: 145
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ff02ef370d73c30800000000000000
+      internalID: 4339165962598154127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_100
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 614
+        width: 143
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ca398ec7de55ed0800000000000000
+      internalID: -2425771703535424465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_101
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 532
+        width: 93
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf33b3fd935aaec50800000000000000
+      internalID: 6695345464016581628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_102
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 614
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375ee0017f9602ae0800000000000000
+      internalID: -1576143359732423309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_103
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 529
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b91b64ace0fb5610800000000000000
+      internalID: 1611146190876514743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 438
+        width: 107
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb9d1a522cc1e10800000000000000
+      internalID: 2169822587370716097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_105
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 527
+        width: 143
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4315ae4210358e0800000000000000
+      internalID: -1706018575781645141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_106
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 527
+        width: 139
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed53bfbc810ad190800000000000000
+      internalID: -7937029689263825432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_107
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 440
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cd741e48e621820800000000000000
+      internalID: 2887491828092230756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_108
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 527
+        width: 140
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b86640b7e8c63260800000000000000
+      internalID: 7077064761879718071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_109
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 527
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4b3a8aa16ac9d60800000000000000
+      internalID: 7898370479929668845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_110
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 441
+        width: 101
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48315278be3b76340800000000000000
+      internalID: 4857048547308409732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_111
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 527
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f354e352c01db3c20800000000000000
+      internalID: 3187371011389408575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_112
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 527
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0289e25a42eb9380800000000000000
+      internalID: -8963321824504348146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_113
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 436
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fed44ea1eb632840800000000000000
+      internalID: 5198117011951247089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_114
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 436
+        width: 147
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3532e61a584f0630800000000000000
+      internalID: 3895411754466948413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_115
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 355
+        width: 99
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280d655ec3b7324a0800000000000000
+      internalID: -6619311525828571006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_116
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 439
+        width: 145
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd75d1b34fb74230800000000000000
+      internalID: 3623074722710126044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_117
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 439
+        width: 142
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eff12f0aa9f2bd0800000000000000
+      internalID: -2652731639450304944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_118
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 355
+        width: 101
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dcd3403fd65f660800000000000000
+      internalID: 7418956851678399903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_119
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 439
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b2fc94cd9a8f270800000000000000
+      internalID: 8284558278144240528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_120
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 436
+        width: 149
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2971c3cd2696fd00800000000000000
+      internalID: 1006156690065815854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_121
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 352
+        width: 99
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330ee240716e49af0800000000000000
+      internalID: -390434281145573325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_122
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 439
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a22a4c5a3108a40800000000000000
+      internalID: 5368312358515124757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_123
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 351
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cf6fd7911c61320800000000000000
+      internalID: 2528420556046793769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_124
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 263
+        width: 102
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d204c08fb5738d90800000000000000
+      internalID: -7096699122446236975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_125
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 349
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ec1465292d67f50800000000000000
+      internalID: 6878917006809222699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_126
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 349
+        width: 145
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8094a4f637b99da0800000000000000
+      internalID: -5937513187050745716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_127
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 262
+        width: 103
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3ec0c700e672c00800000000000000
+      internalID: 875789600907125730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_128
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 349
+        width: 145
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff7db7709ca592d0800000000000000
+      internalID: -3272519817730621453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_129
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 351
+        width: 149
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519634a4b7f550c20800000000000000
+      internalID: 3172046495683930389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_130
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 263
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbc51420166ab160800000000000000
+      internalID: 7042053186858109873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_131
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 349
+        width: 142
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ca34defbfb53150800000000000000
+      internalID: 5851794121878121630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_132
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 349
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfe1bcf6ef857d60800000000000000
+      internalID: 7887368544654061524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_133
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 262
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78550ec51cd64beb0800000000000000
+      internalID: -4705015033441004153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_134
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 262
+        width: 142
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623708dc7749a9930800000000000000
+      internalID: 4150793248845099814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_135
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 172
+        width: 99
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99011d49f3820b60800000000000000
+      internalID: 7710870618774768028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_136
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 262
+        width: 141
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b3e57a07fae3090800000000000000
+      internalID: -8052806185312699624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_137
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 258
+        width: 144
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4eefe2b2dc5f180800000000000000
+      internalID: -9082127488166992695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_138
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 174
+        width: 99
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf38e00ed7e97e4f0800000000000000
+      internalID: -799496145367825412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_139
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 262
+        width: 147
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83328123611a4380800000000000000
+      internalID: -8986350989002787953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_140
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 262
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae3407aac62f8dd0800000000000000
+      internalID: -2481722217830531417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_141
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 174
+        width: 99
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d07b7f324031d090800000000000000
+      internalID: -8011569201024372523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_142
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 258
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560423a161590ac60800000000000000
+      internalID: 7827420074531242085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_143
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 172
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc925210078203d40800000000000000
+      internalID: 5561990001323223499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_144
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 89
+        width: 98
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd37c275ef0b7da10800000000000000
+      internalID: 1934209171409630173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_145
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 171
+        width: 143
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b2657eb815b9710800000000000000
+      internalID: 1701042945585982364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_146
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 171
+        width: 144
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5db9c20c28572450800000000000000
+      internalID: 6063912369326243164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_147
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 89
+        width: 97
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd3a78b81dae8420800000000000000
+      internalID: 2634233153744158135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_148
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 171
+        width: 142
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c5655ad76c63e10800000000000000
+      internalID: 2177145712827325520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_149
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 172
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766986d3b356b9e60800000000000000
+      internalID: 7970075270669964903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_150
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 91
+        width: 94
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5f916152d72a880800000000000000
+      internalID: -8601174740086164001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_151
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 171
+        width: 145
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3376b57571a6b10c0800000000000000
+      internalID: -4603969545573800141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_152
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 171
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af8de38817f99990800000000000000
+      internalID: -7378594829805187163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_153
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 82
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd0603b17e457b80800000000000000
+      internalID: -8397719679920632392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 146
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36993f6ef88dcbc0800000000000000
+      internalID: -3761199487415380418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_155
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 40
+        width: 104
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a35f2418858e0f0800000000000000
+      internalID: -1087521997812581791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_156
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 83
+        width: 142
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ffa8db198d250d0800000000000000
+      internalID: -3435445445268406411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_157
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 83
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec48b8d524e5c11f0800000000000000
+      internalID: -1072878972090743602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_158
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 40
+        width: 103
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542ca211ae3da0d20800000000000000
+      internalID: 3245639483737686597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_159
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 83
+        width: 147
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1991b7e9dd09f48b0800000000000000
+      internalID: -5165750966049629807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_160
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 82
+        width: 145
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd65a84d858cdfd90800000000000000
+      internalID: -7062268356798556449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_161
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 40
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8995dfb253397bfc0800000000000000
+      internalID: -3479150330539845224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_162
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 83
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7312aefac4eddd370800000000000000
+      internalID: 8349073705165005111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_163
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 100
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3503fef11aac870800000000000000
+      internalID: 8703946388375884760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_164
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235fdab0021260ae0800000000000000
+      internalID: -1583541797455530702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_165
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 40
+        width: 118
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e5076cd849870b0800000000000000
+      internalID: -5730667189188403656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_166
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 40
+        width: 117
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f492e7cb093ceabf0800000000000000
+      internalID: -311096297836893873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_167
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 40
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0bf3d2d8c9aadd0800000000000000
+      internalID: -2473992915123195710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_168
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 40
+        width: 116
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995332ac78010daf0800000000000000
+      internalID: -373780593673816679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_169
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 40
+        width: 120
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917eb352432005290800000000000000
+      internalID: -7903814923048982759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_170
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 40
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf5b0375475549a0800000000000000
+      internalID: -6249492952112210005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_171
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 40
+        width: 120
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421bfe5b5c1a36090800000000000000
+      internalID: -8042406639020560092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joypad_BG_172
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 40
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae25ad054a60dc80800000000000000
+      internalID: -8300017268429607254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Joypad_BG_0: 6978945757049106683
+      Joypad_BG_1: -8860013086872992758
+      Joypad_BG_10: -1483548147281825977
+      Joypad_BG_100: -2425771703535424465
+      Joypad_BG_101: 6695345464016581628
+      Joypad_BG_102: -1576143359732423309
+      Joypad_BG_103: 1611146190876514743
+      Joypad_BG_104: 2169822587370716097
+      Joypad_BG_105: -1706018575781645141
+      Joypad_BG_106: -7937029689263825432
+      Joypad_BG_107: 2887491828092230756
+      Joypad_BG_108: 7077064761879718071
+      Joypad_BG_109: 7898370479929668845
+      Joypad_BG_11: 4140518867564057059
+      Joypad_BG_110: 4857048547308409732
+      Joypad_BG_111: 3187371011389408575
+      Joypad_BG_112: -8963321824504348146
+      Joypad_BG_113: 5198117011951247089
+      Joypad_BG_114: 3895411754466948413
+      Joypad_BG_115: -6619311525828571006
+      Joypad_BG_116: 3623074722710126044
+      Joypad_BG_117: -2652731639450304944
+      Joypad_BG_118: 7418956851678399903
+      Joypad_BG_119: 8284558278144240528
+      Joypad_BG_12: -3292684690464412597
+      Joypad_BG_120: 1006156690065815854
+      Joypad_BG_121: -390434281145573325
+      Joypad_BG_122: 5368312358515124757
+      Joypad_BG_123: 2528420556046793769
+      Joypad_BG_124: -7096699122446236975
+      Joypad_BG_125: 6878917006809222699
+      Joypad_BG_126: -5937513187050745716
+      Joypad_BG_127: 875789600907125730
+      Joypad_BG_128: -3272519817730621453
+      Joypad_BG_129: 3172046495683930389
+      Joypad_BG_13: 8767418423533840524
+      Joypad_BG_130: 7042053186858109873
+      Joypad_BG_131: 5851794121878121630
+      Joypad_BG_132: 7887368544654061524
+      Joypad_BG_133: -4705015033441004153
+      Joypad_BG_134: 4150793248845099814
+      Joypad_BG_135: 7710870618774768028
+      Joypad_BG_136: -8052806185312699624
+      Joypad_BG_137: -9082127488166992695
+      Joypad_BG_138: -799496145367825412
+      Joypad_BG_139: -8986350989002787953
+      Joypad_BG_14: 5436027578827892345
+      Joypad_BG_140: -2481722217830531417
+      Joypad_BG_141: -8011569201024372523
+      Joypad_BG_142: 7827420074531242085
+      Joypad_BG_143: 5561990001323223499
+      Joypad_BG_144: 1934209171409630173
+      Joypad_BG_145: 1701042945585982364
+      Joypad_BG_146: 6063912369326243164
+      Joypad_BG_147: 2634233153744158135
+      Joypad_BG_148: 2177145712827325520
+      Joypad_BG_149: 7970075270669964903
+      Joypad_BG_15: 4680773978364305221
+      Joypad_BG_150: -8601174740086164001
+      Joypad_BG_151: -4603969545573800141
+      Joypad_BG_152: -7378594829805187163
+      Joypad_BG_153: -8397719679920632392
+      Joypad_BG_154: -3761199487415380418
+      Joypad_BG_155: -1087521997812581791
+      Joypad_BG_156: -3435445445268406411
+      Joypad_BG_157: -1072878972090743602
+      Joypad_BG_158: 3245639483737686597
+      Joypad_BG_159: -5165750966049629807
+      Joypad_BG_16: 1977601183155769815
+      Joypad_BG_160: -7062268356798556449
+      Joypad_BG_161: -3479150330539845224
+      Joypad_BG_162: 8349073705165005111
+      Joypad_BG_163: 8703946388375884760
+      Joypad_BG_164: -1583541797455530702
+      Joypad_BG_165: -5730667189188403656
+      Joypad_BG_166: -311096297836893873
+      Joypad_BG_167: -2473992915123195710
+      Joypad_BG_168: -373780593673816679
+      Joypad_BG_169: -7903814923048982759
+      Joypad_BG_17: 1632843752380504225
+      Joypad_BG_170: -6249492952112210005
+      Joypad_BG_171: -8042406639020560092
+      Joypad_BG_172: -8300017268429607254
+      Joypad_BG_18: -8872084403694473514
+      Joypad_BG_19: -5756095564607034248
+      Joypad_BG_2: -224411280163675686
+      Joypad_BG_20: -8395203395892224553
+      Joypad_BG_21: 5019296875210711887
+      Joypad_BG_22: 4979857204961424423
+      Joypad_BG_23: -3252610605732978119
+      Joypad_BG_24: 2154906145416241904
+      Joypad_BG_25: 2136397741382885354
+      Joypad_BG_26: 2929112859479879279
+      Joypad_BG_27: -9217933932933590294
+      Joypad_BG_28: -3132513631082863522
+      Joypad_BG_29: 3897482163479969207
+      Joypad_BG_3: -6802092253996323802
+      Joypad_BG_30: -8362861042049906292
+      Joypad_BG_31: -2649344752984435626
+      Joypad_BG_32: -2928772526395082751
+      Joypad_BG_33: 8964687115208016538
+      Joypad_BG_34: -5731734911183137283
+      Joypad_BG_35: 2615851043861743566
+      Joypad_BG_36: 5492615130196172768
+      Joypad_BG_37: -5098930821381864068
+      Joypad_BG_38: -4972794794207680353
+      Joypad_BG_39: -7176474921562106594
+      Joypad_BG_4: -7889115173997336211
+      Joypad_BG_40: -5797493336829602287
+      Joypad_BG_41: 4460505302991821284
+      Joypad_BG_42: 2072320004929859539
+      Joypad_BG_43: 1078347219764248292
+      Joypad_BG_44: -4698779858800148091
+      Joypad_BG_45: -1709639523713157832
+      Joypad_BG_46: 8290413670728842223
+      Joypad_BG_47: 3896264820879398316
+      Joypad_BG_48: -3535426390580137717
+      Joypad_BG_49: -2803464169549573994
+      Joypad_BG_5: 3319888853522635317
+      Joypad_BG_50: -3359168248450763561
+      Joypad_BG_51: 3192386514120803489
+      Joypad_BG_52: -1615172563321927376
+      Joypad_BG_53: -7648292419279180042
+      Joypad_BG_54: -836307769837376725
+      Joypad_BG_55: 6035154630782033635
+      Joypad_BG_56: 5126950750495482299
+      Joypad_BG_57: -3705219186151892786
+      Joypad_BG_58: -6697192158586009475
+      Joypad_BG_59: 6871417001086951896
+      Joypad_BG_6: -238800597074829122
+      Joypad_BG_60: 7109184361283157635
+      Joypad_BG_61: 6722876432771692820
+      Joypad_BG_62: 3498486099124873519
+      Joypad_BG_63: 6367370993595597228
+      Joypad_BG_64: -3549830543188127492
+      Joypad_BG_65: -911317354074855335
+      Joypad_BG_66: 8082810331620509948
+      Joypad_BG_67: -1738030985474573438
+      Joypad_BG_68: -3998757574090517168
+      Joypad_BG_69: 892805988788883927
+      Joypad_BG_7: 8192640496966027080
+      Joypad_BG_70: 1015367620044006816
+      Joypad_BG_71: 2459143572558919603
+      Joypad_BG_72: -1628133440515622007
+      Joypad_BG_73: 6648060463487988891
+      Joypad_BG_74: 450716926104919668
+      Joypad_BG_75: 5092488563649285176
+      Joypad_BG_76: 9101049593174010310
+      Joypad_BG_77: -8160269961206377520
+      Joypad_BG_78: 8581778331116861904
+      Joypad_BG_79: -6686256525925556462
+      Joypad_BG_8: -2605328769854517407
+      Joypad_BG_80: -1749757538458011747
+      Joypad_BG_81: -6537151653283796019
+      Joypad_BG_82: -8885366775290302515
+      Joypad_BG_83: -508322430657084911
+      Joypad_BG_84: 6340929443529751638
+      Joypad_BG_85: 1805370255346724986
+      Joypad_BG_86: 3101966856163037295
+      Joypad_BG_87: -3531257493773211974
+      Joypad_BG_88: -6691346164993416461
+      Joypad_BG_89: 2303708454584923868
+      Joypad_BG_9: -5822562522034987315
+      Joypad_BG_90: -1509437003925887562
+      Joypad_BG_91: 8136588702196994097
+      Joypad_BG_92: 2808752666876641498
+      Joypad_BG_93: -7287051873924904905
+      Joypad_BG_94: -279810327657848267
+      Joypad_BG_95: 619329336498957439
+      Joypad_BG_96: -3922973217937101333
+      Joypad_BG_97: 7243013657153066415
+      Joypad_BG_98: -237786027611986095
+      Joypad_BG_99: 4339165962598154127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

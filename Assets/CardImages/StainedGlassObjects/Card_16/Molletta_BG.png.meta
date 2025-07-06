@@ -1,0 +1,2691 @@
+fileFormatVersion: 2
+guid: 48dfdd51c3cdd7a46941ec4401aa2b5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8063282679087151009
+    second: Molletta_BG_0
+  - first:
+      213: 5452133710358428699
+    second: Molletta_BG_1
+  - first:
+      213: -3195908147339870605
+    second: Molletta_BG_2
+  - first:
+      213: 2399712317075028156
+    second: Molletta_BG_3
+  - first:
+      213: -7961065517618931785
+    second: Molletta_BG_4
+  - first:
+      213: -1380323056603158797
+    second: Molletta_BG_5
+  - first:
+      213: -5594451504775243992
+    second: Molletta_BG_6
+  - first:
+      213: 6410743146978560238
+    second: Molletta_BG_7
+  - first:
+      213: 6416065555178639216
+    second: Molletta_BG_8
+  - first:
+      213: 5237398561542261178
+    second: Molletta_BG_9
+  - first:
+      213: 8688350091711601210
+    second: Molletta_BG_10
+  - first:
+      213: 385545655046463667
+    second: Molletta_BG_11
+  - first:
+      213: 6893202994853679500
+    second: Molletta_BG_12
+  - first:
+      213: 3358490472587772884
+    second: Molletta_BG_13
+  - first:
+      213: 3283141347006719836
+    second: Molletta_BG_14
+  - first:
+      213: 5212818405465703732
+    second: Molletta_BG_15
+  - first:
+      213: -8154879508583418049
+    second: Molletta_BG_16
+  - first:
+      213: 5816086091327656067
+    second: Molletta_BG_17
+  - first:
+      213: 1622095584807231846
+    second: Molletta_BG_18
+  - first:
+      213: -1421263527465470163
+    second: Molletta_BG_19
+  - first:
+      213: -2887602622638006462
+    second: Molletta_BG_20
+  - first:
+      213: 6973865776666073412
+    second: Molletta_BG_21
+  - first:
+      213: -7745447925065952215
+    second: Molletta_BG_22
+  - first:
+      213: 2468986855595938837
+    second: Molletta_BG_23
+  - first:
+      213: -5983393668305029971
+    second: Molletta_BG_24
+  - first:
+      213: -5668095672656648610
+    second: Molletta_BG_25
+  - first:
+      213: 3576471363119135849
+    second: Molletta_BG_26
+  - first:
+      213: 8043159600133162642
+    second: Molletta_BG_27
+  - first:
+      213: 1964969461222067151
+    second: Molletta_BG_28
+  - first:
+      213: -8697170597365953779
+    second: Molletta_BG_29
+  - first:
+      213: 5832514943118361899
+    second: Molletta_BG_30
+  - first:
+      213: -731963551922581307
+    second: Molletta_BG_31
+  - first:
+      213: -301343924665756740
+    second: Molletta_BG_32
+  - first:
+      213: 2552378093304602412
+    second: Molletta_BG_33
+  - first:
+      213: -2187078082366690821
+    second: Molletta_BG_34
+  - first:
+      213: 409633564593203645
+    second: Molletta_BG_35
+  - first:
+      213: -3211803617757162487
+    second: Molletta_BG_36
+  - first:
+      213: 888363408140024564
+    second: Molletta_BG_37
+  - first:
+      213: -8189437539471244813
+    second: Molletta_BG_38
+  - first:
+      213: -3808115483504145819
+    second: Molletta_BG_39
+  - first:
+      213: -8398637237575961339
+    second: Molletta_BG_40
+  - first:
+      213: 3493823853478070806
+    second: Molletta_BG_41
+  - first:
+      213: -6325102991182106596
+    second: Molletta_BG_42
+  - first:
+      213: 6119939893721544056
+    second: Molletta_BG_43
+  - first:
+      213: -1940821285965881307
+    second: Molletta_BG_44
+  - first:
+      213: -1304330313272399278
+    second: Molletta_BG_45
+  - first:
+      213: -1179561668671605797
+    second: Molletta_BG_46
+  - first:
+      213: 6894649669043772656
+    second: Molletta_BG_47
+  - first:
+      213: 8387915058328871223
+    second: Molletta_BG_48
+  - first:
+      213: 8565554309990363450
+    second: Molletta_BG_49
+  - first:
+      213: -2829560798432046723
+    second: Molletta_BG_50
+  - first:
+      213: -833155175960747998
+    second: Molletta_BG_51
+  - first:
+      213: -2568845183314273026
+    second: Molletta_BG_52
+  - first:
+      213: -5594070164054168417
+    second: Molletta_BG_53
+  - first:
+      213: -5910673958428072070
+    second: Molletta_BG_54
+  - first:
+      213: -2560140376701968212
+    second: Molletta_BG_55
+  - first:
+      213: -1754180602472645080
+    second: Molletta_BG_56
+  - first:
+      213: -6025426805862518772
+    second: Molletta_BG_57
+  - first:
+      213: -8753681247321567138
+    second: Molletta_BG_58
+  - first:
+      213: 8244209236286220378
+    second: Molletta_BG_59
+  - first:
+      213: -8417550055624881613
+    second: Molletta_BG_60
+  - first:
+      213: -5118342779641911722
+    second: Molletta_BG_61
+  - first:
+      213: 1816255415434897896
+    second: Molletta_BG_62
+  - first:
+      213: -8489056336040958570
+    second: Molletta_BG_63
+  - first:
+      213: -7733588513631151589
+    second: Molletta_BG_64
+  - first:
+      213: -2157577035082910600
+    second: Molletta_BG_65
+  - first:
+      213: -8992563884303854776
+    second: Molletta_BG_66
+  - first:
+      213: 7690683882550237675
+    second: Molletta_BG_67
+  - first:
+      213: -718576039441137779
+    second: Molletta_BG_68
+  - first:
+      213: 1223097338000867773
+    second: Molletta_BG_69
+  - first:
+      213: 3091676576046479501
+    second: Molletta_BG_70
+  - first:
+      213: -3322521236931646075
+    second: Molletta_BG_71
+  - first:
+      213: -1519208392101310754
+    second: Molletta_BG_72
+  - first:
+      213: 667466296834436962
+    second: Molletta_BG_73
+  - first:
+      213: -5800229127999535570
+    second: Molletta_BG_74
+  - first:
+      213: -8581151818045781242
+    second: Molletta_BG_75
+  - first:
+      213: 4983740749385372718
+    second: Molletta_BG_76
+  - first:
+      213: -4744007174106586026
+    second: Molletta_BG_77
+  - first:
+      213: -6487335844591669045
+    second: Molletta_BG_78
+  - first:
+      213: 1930431493467981222
+    second: Molletta_BG_79
+  - first:
+      213: 1218713166141435139
+    second: Molletta_BG_80
+  - first:
+      213: -3898194791548264455
+    second: Molletta_BG_81
+  - first:
+      213: -4416043963937351221
+    second: Molletta_BG_82
+  - first:
+      213: 3903928229042225081
+    second: Molletta_BG_83
+  - first:
+      213: -2979628767138435624
+    second: Molletta_BG_84
+  - first:
+      213: 4921181473226749215
+    second: Molletta_BG_85
+  - first:
+      213: -3362711150644207264
+    second: Molletta_BG_86
+  - first:
+      213: -2277232113902338143
+    second: Molletta_BG_87
+  - first:
+      213: 931914453318014118
+    second: Molletta_BG_88
+  - first:
+      213: 8576586219153567931
+    second: Molletta_BG_89
+  - first:
+      213: -2706712652133354170
+    second: Molletta_BG_90
+  - first:
+      213: -448273717112861485
+    second: Molletta_BG_91
+  - first:
+      213: -2931793811818188227
+    second: Molletta_BG_92
+  - first:
+      213: 262029774976161049
+    second: Molletta_BG_93
+  - first:
+      213: -2134075171071706625
+    second: Molletta_BG_94
+  - first:
+      213: 2368268347704359388
+    second: Molletta_BG_95
+  - first:
+      213: -6528016566880963721
+    second: Molletta_BG_96
+  - first:
+      213: -5562978997863876051
+    second: Molletta_BG_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Molletta_BG_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1257
+        width: 181
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58437ddf17791090800000000000000
+      internalID: -8063282679087151009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1226
+        width: 204
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cb8d119bed9ab40800000000000000
+      internalID: 5452133710358428699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1288
+        width: 172
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eb70ff87ad5a3d0800000000000000
+      internalID: -3195908147339870605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1327
+        width: 137
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8f26e53ad7d4120800000000000000
+      internalID: 2399712317075028156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1241
+        width: 202
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b756bc571d948190800000000000000
+      internalID: -7961065517618931785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1275
+        width: 190
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f623e74e7b18dce0800000000000000
+      internalID: -1380323056603158797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1286
+        width: 178
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827d8b04ff38c52b0800000000000000
+      internalID: -5594451504775243992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1237
+        width: 205
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee84de53de887f850800000000000000
+      internalID: 6410743146978560238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1240
+        width: 194
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fca00f0a17a0950800000000000000
+      internalID: 6416065555178639216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1435
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab94ed72e3afea840800000000000000
+      internalID: 5237398561542261178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1214
+        width: 224
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ad3b42068339870800000000000000
+      internalID: 8688350091711601210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_11
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1213
+        width: 211
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b06db50bbbb95500800000000000000
+      internalID: 385545655046463667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1257
+        width: 175
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8199e02a9399af50800000000000000
+      internalID: 6893202994853679500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_13
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1315
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3c0207a41cb9e20800000000000000
+      internalID: 3358490472587772884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_14
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1213
+        width: 187
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57abb709af009d20800000000000000
+      internalID: 3283141347006719836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 943
+        width: 260
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435c66898b6a75840800000000000000
+      internalID: 5212818405465703732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 942
+        width: 260
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37f5c81b4c04de80800000000000000
+      internalID: -8154879508583418049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 973
+        width: 259
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380dca03c73e6b050800000000000000
+      internalID: 5816086091327656067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1258
+        width: 177
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6612a241757d28610800000000000000
+      internalID: 1622095584807231846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1065
+        width: 133
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27b3391a58a64ce0800000000000000
+      internalID: -1421263527465470163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 991
+        width: 169
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fdc21c6bc2de7d0800000000000000
+      internalID: -2887602622638006462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1029
+        width: 177
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4495f6989f528c060800000000000000
+      internalID: 6973865776666073412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 987
+        width: 179
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92458283624a28490800000000000000
+      internalID: -7745447925065952215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1042
+        width: 177
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51497e2c67a934220800000000000000
+      internalID: 2468986855595938837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 940
+        width: 260
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da47b59f827b6fca0800000000000000
+      internalID: -5983393668305029971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_25
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 961
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e562f5e3401e651b0800000000000000
+      internalID: -5668095672656648610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1040
+        width: 176
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cb21c71cd22a130800000000000000
+      internalID: 3576471363119135849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 914
+        width: 256
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296c5b5ba0b0f9f60800000000000000
+      internalID: 8043159600133162642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_28
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 914
+        width: 257
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbc1aa6059f44b10800000000000000
+      internalID: 1964969461222067151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_29
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 964
+        width: 171
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bc709db617d4780800000000000000
+      internalID: -8697170597365953779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_30
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1013
+        width: 175
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254ab3507141f050800000000000000
+      internalID: 5832514943118361899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_31
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 913
+        width: 257
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c01f13170b87d5f0800000000000000
+      internalID: -731963551922581307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_32
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 914
+        width: 258
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3531f0c4961dbf0800000000000000
+      internalID: -301343924665756740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_33
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 959
+        width: 170
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fd8ef4a5edb6320800000000000000
+      internalID: 2552378093304602412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_34
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1008
+        width: 144
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9ad7c5210f5a1e0800000000000000
+      internalID: -2187078082366690821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_35
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 906
+        width: 123
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9a7a18e8f4fa500800000000000000
+      internalID: 409633564593203645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 647
+        width: 212
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904154360a16d63d0800000000000000
+      internalID: -3211803617757162487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 684
+        width: 173
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa34ad10d9145c00800000000000000
+      internalID: 888363408140024564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 741
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1419582f5495e80800000000000000
+      internalID: -8189437539471244813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 637
+        width: 259
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a021ed42bd62bc0800000000000000
+      internalID: -3808115483504145819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 669
+        width: 260
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505bae82eeb027b80800000000000000
+      internalID: -8398637237575961339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 635
+        width: 95
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ac85e984e8c7030800000000000000
+      internalID: 3493823853478070806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_42
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 657
+        width: 178
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1074d26758b838a0800000000000000
+      internalID: -6325102991182106596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 737
+        width: 179
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875b30498e46ee450800000000000000
+      internalID: 6119939893721544056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_44
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 609
+        width: 256
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520ac75c251d015e0800000000000000
+      internalID: -1940821285965881307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 611
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aef9f9d7616ede0800000000000000
+      internalID: -1304330313272399278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_46
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 664
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3792479ea51afe0800000000000000
+      internalID: -1179561668671605797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_47
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 710
+        width: 174
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc5e163857beaf50800000000000000
+      internalID: 6894649669043772656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_48
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 613
+        width: 258
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731a7d1fd4cd76470800000000000000
+      internalID: 8387915058328871223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_49
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 640
+        width: 258
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31ba4f3346fed670800000000000000
+      internalID: 8565554309990363450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_50
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 657
+        width: 175
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71561b02716bb8d0800000000000000
+      internalID: -2829560798432046723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_51
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 710
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220e41e18c90074f0800000000000000
+      internalID: -833155175960747998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_52
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 605
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc54958ae0a95cd0800000000000000
+      internalID: -2568845183314273026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_53
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 610
+        width: 213
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca0fe03dedd52b0800000000000000
+      internalID: -5594070164054168417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 557
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a772eb4d95119fda0800000000000000
+      internalID: -5910673958428072070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 365
+        width: 224
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca06b8f34ed887cd0800000000000000
+      internalID: -2560140376701968212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 370
+        width: 258
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ebcbd3906e7a7e0800000000000000
+      internalID: -1754180602472645080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_57
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 437
+        width: 177
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b2708e32616ca0800000000000000
+      internalID: -6025426805862518772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_58
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 310
+        width: 257
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505668d84da48680800000000000000
+      internalID: -8753681247321567138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 309
+        width: 258
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58a5d6ee90596270800000000000000
+      internalID: 8244209236286220378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_60
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 342
+        width: 262
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ac86f82dade2b80800000000000000
+      internalID: -8417550055624881613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_61
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 312
+        width: 253
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65622cc2c5ef7f8b0800000000000000
+      internalID: -5118342779641911722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_62
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 611
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9606a6da2a43910800000000000000
+      internalID: 1816255415434897896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_63
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 342
+        width: 259
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695eff34d30d03a80800000000000000
+      internalID: -8489056336040958570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_64
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 505
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a59fd9836cca490800000000000000
+      internalID: -7733588513631151589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_65
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 608
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874b7503e1fbe02e0800000000000000
+      internalID: -2157577035082910600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 337
+        width: 95
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843df08bacef33380800000000000000
+      internalID: -8992563884303854776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_67
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 355
+        width: 174
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be99a338e3ccaba60800000000000000
+      internalID: 7690683882550237675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_68
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 308
+        width: 258
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ff00936ea1706f0800000000000000
+      internalID: -718576039441137779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_69
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 355
+        width: 178
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db184457c8059f010800000000000000
+      internalID: 1223097338000867773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_70
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 409
+        width: 175
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8875ab2777d7ea20800000000000000
+      internalID: 3091676576046479501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_71
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 356
+        width: 174
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d6ff9d98804e1d0800000000000000
+      internalID: -3322521236931646075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_72
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 409
+        width: 175
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede42093400baeae0800000000000000
+      internalID: -1519208392101310754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_73
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 309
+        width: 94
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fac528f01534900800000000000000
+      internalID: 667466296834436962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_74
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 354
+        width: 175
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26c6b9c652718fa0800000000000000
+      internalID: -5800229127999535570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_75
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 409
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b0fa9e2ef99e880800000000000000
+      internalID: -8581151818045781242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_76
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 310
+        width: 201
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2411cb7ecdc92540800000000000000
+      internalID: 4983740749385372718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_77
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 308
+        width: 96
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654e8772c96e92eb0800000000000000
+      internalID: -4744007174106586026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_78
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 169
+        width: 136
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc07474bb6a58f5a0800000000000000
+      internalID: -6487335844591669045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_79
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 81
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5c26727354aca10800000000000000
+      internalID: 1930431493467981222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_80
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 132
+        width: 174
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da3f6ea2db9e010800000000000000
+      internalID: 1218713166141435139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_81
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 40
+        width: 236
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffdc789d74d6e9c0800000000000000
+      internalID: -3898194791548264455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 40
+        width: 262
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc99109796f07b2c0800000000000000
+      internalID: -4416043963937351221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_83
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 51
+        width: 175
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf7ea85a0a8d2630800000000000000
+      internalID: 3903928229042225081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_84
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 106
+        width: 174
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddad2c4c6b36a6d0800000000000000
+      internalID: -2979628767138435624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_85
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 40
+        width: 236
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15f9e2f97c8b4440800000000000000
+      internalID: 4921181473226749215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 256
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0616b9f56004551d0800000000000000
+      internalID: -3362711150644207264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_87
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 50
+        width: 174
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af3dbb2575a560e0800000000000000
+      internalID: -2277232113902338143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_88
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 106
+        width: 173
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4921ff143deec00800000000000000
+      internalID: 931914453318014118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_89
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 40
+        width: 237
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0b822c9b7260770800000000000000
+      internalID: 8576586219153567931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_90
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 40
+        width: 257
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64539840f23df6ad0800000000000000
+      internalID: -2706712652133354170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_91
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 51
+        width: 173
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc0859ed6967c9f0800000000000000
+      internalID: -448273717112861485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_92
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 108
+        width: 175
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3273ebbf0d2057d0800000000000000
+      internalID: -2931793811818188227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_93
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 40
+        width: 238
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915970a21bae2a300800000000000000
+      internalID: 262029774976161049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_94
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 40
+        width: 257
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff93a4050fd3262e0800000000000000
+      internalID: -2134075171071706625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_95
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 53
+        width: 170
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd938bdb387cdd020800000000000000
+      internalID: 2368268347704359388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_96
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 110
+        width: 154
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773f133f483d765a0800000000000000
+      internalID: -6528016566880963721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molletta_BG_97
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 40
+        width: 115
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a7d5b43145cc2b0800000000000000
+      internalID: -5562978997863876051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Molletta_BG_0: -8063282679087151009
+      Molletta_BG_1: 5452133710358428699
+      Molletta_BG_10: 8688350091711601210
+      Molletta_BG_11: 385545655046463667
+      Molletta_BG_12: 6893202994853679500
+      Molletta_BG_13: 3358490472587772884
+      Molletta_BG_14: 3283141347006719836
+      Molletta_BG_15: 5212818405465703732
+      Molletta_BG_16: -8154879508583418049
+      Molletta_BG_17: 5816086091327656067
+      Molletta_BG_18: 1622095584807231846
+      Molletta_BG_19: -1421263527465470163
+      Molletta_BG_2: -3195908147339870605
+      Molletta_BG_20: -2887602622638006462
+      Molletta_BG_21: 6973865776666073412
+      Molletta_BG_22: -7745447925065952215
+      Molletta_BG_23: 2468986855595938837
+      Molletta_BG_24: -5983393668305029971
+      Molletta_BG_25: -5668095672656648610
+      Molletta_BG_26: 3576471363119135849
+      Molletta_BG_27: 8043159600133162642
+      Molletta_BG_28: 1964969461222067151
+      Molletta_BG_29: -8697170597365953779
+      Molletta_BG_3: 2399712317075028156
+      Molletta_BG_30: 5832514943118361899
+      Molletta_BG_31: -731963551922581307
+      Molletta_BG_32: -301343924665756740
+      Molletta_BG_33: 2552378093304602412
+      Molletta_BG_34: -2187078082366690821
+      Molletta_BG_35: 409633564593203645
+      Molletta_BG_36: -3211803617757162487
+      Molletta_BG_37: 888363408140024564
+      Molletta_BG_38: -8189437539471244813
+      Molletta_BG_39: -3808115483504145819
+      Molletta_BG_4: -7961065517618931785
+      Molletta_BG_40: -8398637237575961339
+      Molletta_BG_41: 3493823853478070806
+      Molletta_BG_42: -6325102991182106596
+      Molletta_BG_43: 6119939893721544056
+      Molletta_BG_44: -1940821285965881307
+      Molletta_BG_45: -1304330313272399278
+      Molletta_BG_46: -1179561668671605797
+      Molletta_BG_47: 6894649669043772656
+      Molletta_BG_48: 8387915058328871223
+      Molletta_BG_49: 8565554309990363450
+      Molletta_BG_5: -1380323056603158797
+      Molletta_BG_50: -2829560798432046723
+      Molletta_BG_51: -833155175960747998
+      Molletta_BG_52: -2568845183314273026
+      Molletta_BG_53: -5594070164054168417
+      Molletta_BG_54: -5910673958428072070
+      Molletta_BG_55: -2560140376701968212
+      Molletta_BG_56: -1754180602472645080
+      Molletta_BG_57: -6025426805862518772
+      Molletta_BG_58: -8753681247321567138
+      Molletta_BG_59: 8244209236286220378
+      Molletta_BG_6: -5594451504775243992
+      Molletta_BG_60: -8417550055624881613
+      Molletta_BG_61: -5118342779641911722
+      Molletta_BG_62: 1816255415434897896
+      Molletta_BG_63: -8489056336040958570
+      Molletta_BG_64: -7733588513631151589
+      Molletta_BG_65: -2157577035082910600
+      Molletta_BG_66: -8992563884303854776
+      Molletta_BG_67: 7690683882550237675
+      Molletta_BG_68: -718576039441137779
+      Molletta_BG_69: 1223097338000867773
+      Molletta_BG_7: 6410743146978560238
+      Molletta_BG_70: 3091676576046479501
+      Molletta_BG_71: -3322521236931646075
+      Molletta_BG_72: -1519208392101310754
+      Molletta_BG_73: 667466296834436962
+      Molletta_BG_74: -5800229127999535570
+      Molletta_BG_75: -8581151818045781242
+      Molletta_BG_76: 4983740749385372718
+      Molletta_BG_77: -4744007174106586026
+      Molletta_BG_78: -6487335844591669045
+      Molletta_BG_79: 1930431493467981222
+      Molletta_BG_8: 6416065555178639216
+      Molletta_BG_80: 1218713166141435139
+      Molletta_BG_81: -3898194791548264455
+      Molletta_BG_82: -4416043963937351221
+      Molletta_BG_83: 3903928229042225081
+      Molletta_BG_84: -2979628767138435624
+      Molletta_BG_85: 4921181473226749215
+      Molletta_BG_86: -3362711150644207264
+      Molletta_BG_87: -2277232113902338143
+      Molletta_BG_88: 931914453318014118
+      Molletta_BG_89: 8576586219153567931
+      Molletta_BG_9: 5237398561542261178
+      Molletta_BG_90: -2706712652133354170
+      Molletta_BG_91: -448273717112861485
+      Molletta_BG_92: -2931793811818188227
+      Molletta_BG_93: 262029774976161049
+      Molletta_BG_94: -2134075171071706625
+      Molletta_BG_95: 2368268347704359388
+      Molletta_BG_96: -6528016566880963721
+      Molletta_BG_97: -5562978997863876051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
