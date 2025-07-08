@@ -35,6 +35,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ff7d0c7673c2a4478f5b39e299e61b6
+    m_Address: Shader Graphs_Scroll Foil 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e0e0ec79dda4b1544a48d509bcca20e4
     m_Address: Chtulhu-F
     m_ReadOnly: 0

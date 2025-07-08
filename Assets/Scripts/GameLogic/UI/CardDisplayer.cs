@@ -30,11 +30,11 @@ public class CardDisplayer : MonoBehaviour
             if (handle.Status == AsyncOperationStatus.Succeeded)
             {
                 cardPieceImage.sprite = handle.Result;
-                Debug.Log($"{cardPieceImage.name} from {cardPiecePath} is correctly loaded!");
+                //Debug.Log($"{cardPieceImage.name} from {cardPiecePath} is correctly loaded!");
             }
             else
             {
-                Debug.LogError($"{cardPieceImage.name} from {cardPiecePath} failed to load!");
+                //Debug.LogError($"{cardPieceImage.name} from {cardPiecePath} failed to load!");
             }
         };
 
@@ -46,11 +46,11 @@ public class CardDisplayer : MonoBehaviour
                 if (matHandle.Status == AsyncOperationStatus.Succeeded)
                 {
                     cardPieceImage.material = matHandle.Result;
-                    Debug.Log($"{cardPieceImage.name} material from {cardPieceMatPath} loaded.");
+                    //Debug.Log($"{cardPieceImage.name} material from {cardPieceMatPath} loaded.");
                 }
                 else
                 {
-                    Debug.LogError($"{cardPieceImage.name} material from {cardPieceMatPath} failed.");
+                    //Debug.LogError($"{cardPieceImage.name} material from {cardPieceMatPath} failed.");
                 }
             };
         }

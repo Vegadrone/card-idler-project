@@ -9,7 +9,7 @@ public class ViewerDebugger : MonoBehaviour
     private void Start()
     {
         cardData = CardDatabaseManager.Instance.GetCardSOById(cardId).ToCardData();
-        Debug.Log("This Image is in: " + cardData.CardP1Path);
+        //Debug.Log("This Image is in: " + cardData.CardP1Path);
         cardPrefab = Instantiate(cardPrefab, gameObject.transform);
         CardDisplayer cardDisplayer = cardPrefab.GetComponent<CardDisplayer>();
         cardDisplayer.DisplayCard(cardData);
