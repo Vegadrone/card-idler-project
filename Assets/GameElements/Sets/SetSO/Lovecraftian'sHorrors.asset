@@ -12,7 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1b610404f15dc541ac0ef99ef45ab0a, type: 3}
   m_Name: Lovecraftian'sHorrors
   m_EditorClassIdentifier: 
-  setId: 
-  setName: 
-  cardsInSet: []
-  isAvailable: 0
+  setId: lovecraftians_horrors_set
+  setName: Lovecraftian's Horrors
+  cardsInSet:
+  - {fileID: 11400000, guid: 0cbf9d2835cee94498ce6e886f44e86a, type: 2}
+  - {fileID: 11400000, guid: 5e8529ca73d583f43acbc9ce272fa3ab, type: 2}
+  - {fileID: 11400000, guid: f993d9235f2f14c46abb6426478cbc88, type: 2}
+  - {fileID: 11400000, guid: f4d8bb656200d2444b17a258612e0f5c, type: 2}
+  - {fileID: 11400000, guid: d7183eb2abdb3c847aecc615657cec15, type: 2}
+  - {fileID: 11400000, guid: 9d20033e43920574b9a9211f5bdd71c8, type: 2}
+  - {fileID: 11400000, guid: 641791d950c4e1247a1d75e51b7deb7a, type: 2}
+  - {fileID: 11400000, guid: 4eaaf628c4e324544b62a207fab50658, type: 2}
+  - {fileID: 11400000, guid: 7b3557d4593e70c49b1f13fe87f683b3, type: 2}
+  - {fileID: 11400000, guid: 9792a7ae2aacf2644bc49b36c5117b22, type: 2}
+  - {fileID: 11400000, guid: 9feceb8cc91bb5843a0f538a79fcc9cf, type: 2}
+  - {fileID: 11400000, guid: a8ed522c1c9593f45897328492019d6b, type: 2}
+  - {fileID: 11400000, guid: 2ef8e8c9ef1101c4187616fc6457303e, type: 2}
+  - {fileID: 11400000, guid: a5f5b2b3838b7e24a85ec8217102d2e3, type: 2}
+  - {fileID: 11400000, guid: 0aa46081103a9764390bc1f660c406c1, type: 2}
+  - {fileID: 11400000, guid: 6cd1a2e0ea121514c9fb4a8c2f0e0c69, type: 2}
+  - {fileID: 11400000, guid: ecc8edb62e2795f4190ddc7694bab319, type: 2}
+  - {fileID: 11400000, guid: 099ed82fd38ee4643a8f9c8d107cdd1a, type: 2}
+  isAvailable: 1

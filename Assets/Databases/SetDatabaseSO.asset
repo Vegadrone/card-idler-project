@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c574e92de8351f4e87158b2284d7dec, type: 3}
   m_Name: SetDatabaseSO
   m_EditorClassIdentifier: 
-  setsSOInDatabase: []
+  setsSOInDatabase:
+  - {fileID: 11400000, guid: 6a5e59aa4c026b34d8b88478f7952e83, type: 2}
+  - {fileID: 11400000, guid: d62e142a095a8b544acad7744d1e2f1b, type: 2}
