@@ -19,7 +19,7 @@ public class CardDatabaseManager : MonoBehaviour
 
         Instance = this;
         DontDestroyOnLoad(this.gameObject);
-        cardDatabase.DictionaryInit();
+        cardDatabase.CardsDictionaryInit();
     }
 
     public CardSO GetCardSOById(string id)

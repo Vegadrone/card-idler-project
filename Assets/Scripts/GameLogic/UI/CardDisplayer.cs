@@ -1,5 +1,4 @@
 using UnityEngine.UI;
-using TMPro;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
@@ -10,49 +9,66 @@ public class CardDisplayer : MonoBehaviour
     [SerializeField] private Image cardFrame;
     [SerializeField] private Image cardP2;
     [SerializeField] private Image cardBg;
-    
-    [SerializeField] private TextMeshProUGUI cardName;
 
-    public void DisplayCard(CardData data)
+    public async void DisplayCard(CardData data, AssetsLoader assetsLoader)
     {
-        cardName.text = data.CardName;
+        Sprite loadedP1Sprite = await assetsLoader.LoadSpriteAsync(data.CardP1Path);
+        Sprite loadedFrameSprite = await assetsLoader.LoadSpriteAsync(data.CardFramePath);
+        Sprite loadedP2Sprite = await assetsLoader.LoadSpriteAsync(data.CardP2Path);
+        Sprite loadedBgSprite = await assetsLoader.LoadSpriteAsync(data.CardBgPath);
 
-        TakeAddressables(data.CardP1Path, cardP1, data.CardP1MatPath);
-        TakeAddressables(data.CardFramePath, cardFrame);
-        TakeAddressables(data.CardP2Path, cardP2);
-        TakeAddressables(data.CardBgPath, cardBg, data.CardBgMatPath);
+        Material loadedP1Material = await assetsLoader.LoadMaterialAsync(data.CardP1MatPath);
+        Material loadedFrameMaterial = await assetsLoader.LoadMaterialAsync(data.CardFrameMatPath);
+        Material loadedP2Material = await assetsLoader.LoadMaterialAsync(data.CardP2MatPath);
+        Material loadedBgMaterial = await assetsLoader.LoadMaterialAsync(data.CardBgMatPath);
+
+        //SPRITES ASSIGN
+
+        AssignImage(cardP1, loadedP1Sprite, "P1");
+        AssignImage(cardFrame, loadedFrameSprite, "Frame");
+        AssignImage(cardP2, loadedP2Sprite, "P2");
+        AssignImage(cardBg, loadedBgSprite, "Background");
+
+        //MATERIALS ASSIGN
+
+        AssignMaterial(cardP1, loadedP1Material, "P1");
+        AssignMaterial(cardFrame, loadedFrameMaterial, "Frame");
+        AssignMaterial(cardP2, loadedP2Material, "P2");
+        AssignMaterial(cardBg, loadedBgMaterial, "Background");
     }
 
-    private void TakeAddressables(string cardPiecePath, Image cardPieceImage, string cardPieceMatPath = null)
+    private void AssignImage(Image target, Sprite sprite, string name)
     {
-        Addressables.LoadAssetAsync<Sprite>(cardPiecePath).Completed += handle =>
+        if (target == null)
         {
-            if (handle.Status == AsyncOperationStatus.Succeeded)
-            {
-                cardPieceImage.sprite = handle.Result;
-                //Debug.Log($"{cardPieceImage.name} from {cardPiecePath} is correctly loaded!");
-            }
-            else
-            {
-                //Debug.LogError($"{cardPieceImage.name} from {cardPiecePath} failed to load!");
-            }
-        };
-
-        if (!string.IsNullOrEmpty(cardPieceMatPath))//Se la stringa non è vuota o null
+            Debug.LogError($"{name} Image component is not assigned!");
+             return;
+        }
+        if (sprite != null)
         {
-            Addressables.LoadAssetAsync<Material>(cardPieceMatPath).Completed += matHandle =>
-            {
-
-                if (matHandle.Status == AsyncOperationStatus.Succeeded)
-                {
-                    cardPieceImage.material = matHandle.Result;
-                    //Debug.Log($"{cardPieceImage.name} material from {cardPieceMatPath} loaded.");
-                }
-                else
-                {
-                    //Debug.LogError($"{cardPieceImage.name} material from {cardPieceMatPath} failed.");
-                }
-            };
+            target.sprite = sprite;
+        }
+        else
+        {
+            Debug.LogWarning($"{name} sprite failed to load!"); ;
         }
     }
+
+    private void AssignMaterial(Image target, Material material, string name)
+    {
+        if (target == null)
+        {
+            Debug.LogError($"{name} Image component is not assigned!");
+             return;
+        }
+        if (material != null)
+        {
+            target.material = material;
+        }
+        else
+        {
+            Debug.LogWarning($"{name} material failed to load!"); ;
+        }
+    }     
 }
+

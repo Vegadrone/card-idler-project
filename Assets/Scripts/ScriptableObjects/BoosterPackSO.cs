@@ -4,9 +4,11 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "BoosterPackSO", menuName = "IdlerProject/BoosterPackSO")]
 public class BoosterPackSO : ScriptableObject
 {
-     [Header("BoosterPack Charateristcs")]
+    [Header("BoosterPack Charateristcs")]
     [SerializeField] string boosterPackId;
-    [SerializeField] List<string> setCardListId;
+    [SerializeField] string setId;
+    public string SetId => setId;
+   
     [SerializeField] long packCost;
 
     [Header("BoosterPack Visuals")]
@@ -18,7 +20,7 @@ public class BoosterPackSO : ScriptableObject
         {
             //Booster Pack Characteristcs
             BoosterId = this.boosterPackId,
-            SetCardListId = this.setCardListId,
+            SetId = this.setId,
             PackCost = this.packCost,
 
             //Booster Pack Visuals

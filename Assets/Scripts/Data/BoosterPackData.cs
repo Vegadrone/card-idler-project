@@ -6,8 +6,8 @@ public class BoosterPackData
     [JsonProperty("boosterPackId")]
     public string BoosterId { get; set; }
 
-    [JsonProperty("setCardList")]
-    public List<string> SetCardListId { get; set; }
+    [JsonProperty("setId")]
+    public string SetId { get; set; }
 
     [JsonProperty("packCost")]
     public long PackCost { get; set; }

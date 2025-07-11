@@ -8,7 +8,7 @@ public class CardDatabaseSO : ScriptableObject
 
     private Dictionary<string, CardSO> cardSearch;
 
-    public void DictionaryInit()
+    public void CardsDictionaryInit()
     {
         cardSearch = new Dictionary<string, CardSO>();
         foreach (var card in cardsInDatabase)
@@ -21,7 +21,7 @@ public class CardDatabaseSO : ScriptableObject
     {
         if (cardSearch == null)
         {
-            DictionaryInit();
+            CardsDictionaryInit();
         }
 
         cardSearch.TryGetValue(cardId, out CardSO card);

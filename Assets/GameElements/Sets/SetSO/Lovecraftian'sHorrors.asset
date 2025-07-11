@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c1b610404f15dc541ac0ef99ef45ab0a, type: 3}
-  m_Name: SetSO
+  m_Name: Lovecraftian'sHorrors
   m_EditorClassIdentifier: 
-  cardsInSet:
-  - {fileID: 11400000, guid: 1bed52ea6fbc2a44c9334f89bd3ce16f, type: 2}
-  isAvailable: 1
+  setId: 
+  setName: 
+  cardsInSet: []
+  isAvailable: 0
