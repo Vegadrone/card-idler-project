@@ -18,6 +18,22 @@ public class SetSO : ScriptableObject
     [SerializeField] bool isAvailable;
     public bool IsAvailable => isAvailable;
 
+    private void OnValidate()
+    {
+        if (string.IsNullOrEmpty(setId))
+        {
+            Debug.LogWarning($"[SetSO] - SetId is empty or null on {name}");
+        }
+        string trimmed = setId.Trim();
+
+        if (trimmed != setId)
+        {
+            Debug.LogWarning($"[SetSO] - Trimming whitespace from CardId on {name}");
+        }
+        setId = trimmed.ToLowerInvariant();
+    }
+
+
     public SetData ToSetData()
     {
         return new SetData

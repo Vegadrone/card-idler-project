@@ -26,6 +26,22 @@ public class CardSO : ScriptableObject
     [SerializeField] private Material cardP2Mat;
     [SerializeField] private Material cardBgMat;
 
+    private void OnValidate()
+    {
+        if (string.IsNullOrEmpty(cardId))
+        {
+            Debug.LogWarning($"[CardSO] - CardId is empty or null on {name}");
+        }
+
+        string trimmed = cardId.Trim();
+
+        if (trimmed != cardId)
+        {
+            Debug.LogWarning($"[CardSO] - Trimming whitespace from CardId on {name}");
+        }
+        cardId = trimmed.ToLowerInvariant();
+    }
+
     public CardData ToCardData()
     {
         return new CardData
@@ -51,8 +67,8 @@ public class CardSO : ScriptableObject
             CardP1MatPath = cardP1Mat ? cardP1Mat.name : "",
             CardFrameMatPath = cardFrameMat ? cardFrameMat.name : "",
             CardP2MatPath = cardP2Mat ? cardP2Mat.name : "",
-            CardBgMatPath = cardBgMat ? cardBgMat.name : "", 
-        } ;
+            CardBgMatPath = cardBgMat ? cardBgMat.name : "",
+        };
     }
 
 }
