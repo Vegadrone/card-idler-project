@@ -47,7 +47,6 @@ public class CardSO : ScriptableObject
         return new CardData
         {
             //Card Charactertiscs
-            CardInstanceId = System.Guid.NewGuid().ToString(),
             CardId = this.cardId,
             SlotInBinderPos = this.slotInBinderPos,
             CardName = this.cardName,
@@ -56,8 +55,7 @@ public class CardSO : ScriptableObject
             CardPerDayIncome = this.cardPerDayIncome,
             CardSellValue = this.cardSellValue,
 
-            //Card Visuals
-            //CardP1Path = cardP1 ? $"CardImages/{cardP1.name}" : "",
+            //Card VisualsS
             CardP1Path = cardP1 ? cardP1.name : "",
             CardFramePath = cardFrame ? cardFrame.name : "",
             CardP2Path = cardP2 ? cardP2.name : "",
