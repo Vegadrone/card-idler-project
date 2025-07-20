@@ -15,7 +15,7 @@ MonoBehaviour:
   cardId: iron_card
   slotInBinderPos: 15
   cardName: Iron
-  cardRarity: common
+  cardRarity: rare
   cardFlavourText: "Pippiripipp\xEC"
   cardPerDayIncome: 10000000
   cardSellValue: 20000

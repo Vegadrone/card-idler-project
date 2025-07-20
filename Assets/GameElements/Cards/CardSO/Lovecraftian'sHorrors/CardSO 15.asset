@@ -15,7 +15,7 @@ MonoBehaviour:
   cardId: cthulu_set2_15
   slotInBinderPos: 0
   cardName: Chtulu Set2 15
-  cardRarity: ultra_rare
+  cardRarity: rare
   cardFlavourText: "Pippiripipp\xEC"
   cardPerDayIncome: 10000000
   cardSellValue: 20000

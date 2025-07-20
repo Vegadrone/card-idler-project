@@ -8,13 +8,14 @@ public class CardSO : ScriptableObject
     public string CardId => cardId;
     [SerializeField] private string slotInBinderPos;
     [SerializeField] private string cardName;
-     public string CardName => cardName;
+    public string CardName => cardName;
     [SerializeField] private string cardRarity;
+    public string CardRarity => cardRarity;
     [SerializeField] private string cardFlavourText;
     [SerializeField] private long cardPerDayIncome;
     [SerializeField] private long cardSellValue;
 
-     [Header("Card Visuals")]
+    [Header("Card Visuals")]
     [SerializeField] private Sprite cardP1;
     [SerializeField] private Sprite cardFrame;
     [SerializeField] private Sprite cardP2;

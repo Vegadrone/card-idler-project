@@ -15,7 +15,7 @@ MonoBehaviour:
   cardId: clothespin_card
   slotInBinderPos: 16
   cardName: Clothespin
-  cardRarity: common
+  cardRarity: rare
   cardFlavourText: "Pippiripipp\xEC"
   cardPerDayIncome: 10000000
   cardSellValue: 20000

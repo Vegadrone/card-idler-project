@@ -15,7 +15,7 @@ MonoBehaviour:
   cardId: sledgehammer_card
   slotInBinderPos: 13
   cardName: Sledgehammer
-  cardRarity: common
+  cardRarity: uncommon
   cardFlavourText: "Pippiripipp\xEC"
   cardPerDayIncome: 10000000
   cardSellValue: 20000

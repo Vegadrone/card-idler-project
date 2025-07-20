@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd04ee4f8e77db4888735467c46e60a, type: 3}
+  m_Name: LovecraftianHorrorsBooster
+  m_EditorClassIdentifier: 
+  boosterPackId: lovecraftians_horrors_booster
+  setId: lovecraftians_horrors_set
+  packCost: 2000
+  boosterPackImage: {fileID: 0}
