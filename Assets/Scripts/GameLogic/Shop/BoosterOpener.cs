@@ -4,14 +4,19 @@ using System.Linq;
 
 public class BoosterOpener : MonoBehaviour
 {
-    [SerializeField] private List<SetSO> allSetsFromSetDatabase;
+    private List<SetSO> allSetsFromSetDatabase;
+
+    public void Initialize(SetDatabaseSO setDatabase)
+    {
+        allSetsFromSetDatabase = setDatabase.GetAllSets();
+    }
 
     public List<CardData> RandomCardFromBooster(BoosterPackSO booster, int numberOfCardsInBooster)
     {
         List<CardData> openedCards = new List<CardData>();
 
         //Take the SetId from BoosterPackSO SetId field, to find at what set the booster belongs.
-        string setId = booster.SetId.ToLowerInvariant(); 
+        string setId = booster.SetId.ToLowerInvariant();
         SetSO targetSet = allSetsFromSetDatabase.FirstOrDefault(set => set.SetId.ToLowerInvariant() == setId);
 
         if (targetSet == null)
@@ -37,13 +42,17 @@ public class BoosterOpener : MonoBehaviour
             int index = Random.Range(0, cardsWithRarity.Count);
             CardSO selectedCardSO = cardsWithRarity[index];
 
-            //Convert the card in utilizable Card Data and clone it
+            //Convert the card in utilizable Card Data and clone i
             CardData newCard = selectedCardSO.ToCardData();
             CardData finalCard = CardData.CloneWithNewGuid(newCard);
 
             openedCards.Add(finalCard);
         }
-        
+        if (allSetsFromSetDatabase == null)
+        {
+            Debug.LogError("[BoosterOpener] - allSetsFromSetDatabase is null! Did you forget to initialize?");
+            return openedCards;
+        }
         return openedCards;
     }    
 }

@@ -25,6 +25,15 @@ public class SetDatabaseSO : ScriptableObject
         }
     }
 
+   public List<SetSO> GetAllSets()
+    {
+        if (setSearch == null)
+        {
+            SetsDictionaryInit();
+        }
+        return new List<SetSO>(setSearch.Values);
+    }
+    
     public SetSO GetSetById(string setId)
     {
         if (setSearch == null)

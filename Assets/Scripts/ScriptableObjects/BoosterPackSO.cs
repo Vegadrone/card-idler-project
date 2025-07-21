@@ -6,6 +6,7 @@ public class BoosterPackSO : ScriptableObject
 {
     [Header("BoosterPack Charateristcs")]
     [SerializeField] string boosterPackId;
+    public string BoosterPackId => boosterPackId;
     [SerializeField] string setId;
     public string SetId => setId;
    
@@ -40,7 +41,7 @@ public class BoosterPackSO : ScriptableObject
         return new BoosterPackData()
         {
             //Booster Pack Characteristcs
-            BoosterId = this.boosterPackId,
+            BoosterPackId = this.boosterPackId,
             SetId = this.setId,
             PackCost = this.packCost,
 

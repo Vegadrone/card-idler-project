@@ -15,4 +15,4 @@ MonoBehaviour:
   boosterPackId: stained_glass_object_booster
   setId: stained_glass_object_set
   packCost: 1000
-  boosterPackImage: {fileID: 0}
+  boosterPackImage: {fileID: 21300000, guid: 4072a35fc9cad184589a331449956bfe, type: 3}

@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 public class BoosterPackData
 {
     [JsonProperty("boosterPackId")]
-    public string BoosterId { get; set; }
+    public string BoosterPackId { get; set; }
 
     [JsonProperty("setId")]
     public string SetId { get; set; }

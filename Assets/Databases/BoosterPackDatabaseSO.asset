@@ -9,10 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0dd04ee4f8e77db4888735467c46e60a, type: 3}
-  m_Name: LovecraftianHorrorsBooster
+  m_Script: {fileID: 11500000, guid: e283732ed66d8e940b99e2e4030595b5, type: 3}
+  m_Name: BoosterPackDatabaseSO
   m_EditorClassIdentifier: 
-  boosterPackId: lovecraftians_horrors_booster
-  setId: lovecraftians_horrors_set
-  packCost: 2000
-  boosterPackImage: {fileID: 0}
+  boosterPackSOInDatabase:
+  - {fileID: 11400000, guid: 5ba4778336be3104b86f2299b6ae3248, type: 2}
+  - {fileID: 11400000, guid: a40eec2fbfed67f46b696a36f912e4f6, type: 2}
