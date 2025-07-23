@@ -282,6 +282,7 @@ MonoBehaviour:
   setDatabase: {fileID: 11400000, guid: efd62911d65b8f34590994bf1ae3ec66, type: 2}
   boosterOpener: {fileID: 1092286248}
   boosterCarouselUI: {fileID: 1873407900}
+  openedCardsUI: {fileID: 849642893}
 --- !u!4 &517566718
 Transform:
   m_ObjectHideFlags: 0
@@ -371,6 +372,103 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &828006761 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8774022660993472621, guid: e27856b57af7e654fa82c18d4cf8458b, type: 3}
+  m_PrefabInstance: {fileID: 1216265481113799756}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &828006763
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 828006761}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 433.7455, y: -122.190186}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1906.5996, y: 1088.0806}
+  m_EdgeRadius: 0
+--- !u!1 &849642892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 849642894}
+  - component: {fileID: 849642893}
+  m_Layer: 0
+  m_Name: OpenedCardsUI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &849642893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 849642892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb4f6cb04295b044b0f45aaebedd775, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  openedCardsContainer: {fileID: 29529070}
+  cardUIPrefab: {fileID: 8753805554376374820, guid: cd58bbfac77e3c0468bee330fad0ad41, type: 3}
+--- !u!4 &849642894
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 849642892}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.88804, y: 1.36294, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -734,7 +832,10 @@ PrefabInstance:
     - {fileID: 2491425419124827724, guid: e27856b57af7e654fa82c18d4cf8458b, type: 3}
     - {fileID: 2764874433657224817, guid: e27856b57af7e654fa82c18d4cf8458b, type: 3}
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8774022660993472621, guid: e27856b57af7e654fa82c18d4cf8458b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 828006763}
   m_SourcePrefab: {fileID: 100100000, guid: e27856b57af7e654fa82c18d4cf8458b, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -748,3 +849,4 @@ SceneRoots:
   - {fileID: 1849727517}
   - {fileID: 1092286249}
   - {fileID: 517566718}
+  - {fileID: 849642894}

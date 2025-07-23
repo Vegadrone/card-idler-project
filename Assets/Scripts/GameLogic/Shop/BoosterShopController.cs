@@ -8,6 +8,7 @@ public class BoosterShopController : MonoBehaviour
     [SerializeField] private SetDatabaseSO setDatabase;
     [SerializeField] BoosterOpener boosterOpener;
     [SerializeField] BoosterCarouselUI boosterCarouselUI;
+    [SerializeField] private OpenedCardsUI openedCardsUI;
 
     private List<BoosterPackSO> availableBoosters = new List<BoosterPackSO>();
 
@@ -27,6 +28,7 @@ public class BoosterShopController : MonoBehaviour
         }
 
         boosterOpener.Initialize(setDatabase);
+        openedCardsUI.CacheInitialize(CacheManager.instance);
 
         var allBoosters = boosterPackDatabase.GetAllBoosterPacks();
         boosterCarouselUI.Initialize(allBoosters, setDatabase, OnBoosterOpenrequested);
@@ -39,6 +41,6 @@ public class BoosterShopController : MonoBehaviour
         List<CardData> openedCards = boosterOpener.RandomCardFromBooster(selectedBooster, 5);
 
         //Tell to the UI
-        boosterCarouselUI.ShowOpenedCards(openedCards);
+        openedCardsUI.ShowOpenedCards(openedCards);
     }
 }

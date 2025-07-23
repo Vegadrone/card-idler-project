@@ -2,11 +2,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
-using UnityEngine.AddressableAssets;
-using UnityEngine.ResourceManagement.AsyncOperations;
-using Unity.VisualScripting;
+
 public class BoosterCarouselUI : MonoBehaviour
 {
     [Header("UI References")]
@@ -99,40 +96,5 @@ public class BoosterCarouselUI : MonoBehaviour
         Debug.Log("[BoosterCarouselUI] -  OpenBooster clicked!");
         BoosterPackSO selectedBooster = availableBoosters[currentIndex];
         onBoosterOpen?.Invoke(selectedBooster);
-    }
-    
-    public void ShowOpenedCards(List<CardData> cards)
-    {
-        if (openedCardsContainer == null)
-    {
-        Debug.LogError("[BoosterCarouselUI] openedCardsContainer is not assigned.");
-        return;
-    }
-        foreach (Transform child in openedCardsContainer)
-        {  
-            Destroy(child.gameObject);  
-        }
-
-        foreach (var cardData in cards)
-        {
-            GameObject cardGO = Instantiate(cardUIPrefab, openedCardsContainer);
-
-            CardDisplayer cardDisplayer = cardGO.GetComponent<CardDisplayer>();
-            if (cardDisplayer != null)
-            {
-                cardDisplayer.DisplayCard(cardData, assetsLoader);
-            }
-            else
-            {
-                Debug.LogWarning("[BoosterCarouselUI] - Instantiated card prefab is missing CardDisplayer component");
-            }
-        }
-        Debug.Log("[BoosterCarouselUI] - Showing opened cards:");
-        foreach (var card in cards)
-        {
-            Debug.Log($"Card: {card.CardName} - ({card.CardRarity}) | {card.CardInstanceId}");
-        }
-
-        // TODO: Show them in the UI (instantiate prefabs, open animation, etc.)
     }
 }
