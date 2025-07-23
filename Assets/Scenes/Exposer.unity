@@ -478,6 +478,50 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1577750096
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1577750098}
+  - component: {fileID: 1577750097}
+  m_Layer: 0
+  m_Name: GameInitializer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1577750097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1577750096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 946a129710b999a4b83f7b23dba085d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1577750098
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1577750096}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &976557726993443705
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -554,6 +598,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 57953768750361415, guid: 2c22486df8123c04a8c1b016d65e1900, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 57953768750361415, guid: 2c22486df8123c04a8c1b016d65e1900, type: 3}
       propertyPath: testRenderer
       value: 
@@ -707,6 +755,10 @@ PrefabInstance:
     - target: {fileID: 2492707421761191330, guid: 72d4f8d3e1420dc40b7c5159ff623d43, type: 3}
       propertyPath: cardId
       value: joypad_card
+      objectReference: {fileID: 0}
+    - target: {fileID: 2492707421761191330, guid: 72d4f8d3e1420dc40b7c5159ff623d43, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2492707421761191330, guid: 72d4f8d3e1420dc40b7c5159ff623d43, type: 3}
       propertyPath: cardPrefab
@@ -873,3 +925,4 @@ SceneRoots:
   - {fileID: 60318530}
   - {fileID: 5040053221737640333}
   - {fileID: 976557726993443705}
+  - {fileID: 1577750098}
