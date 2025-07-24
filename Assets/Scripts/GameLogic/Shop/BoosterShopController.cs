@@ -32,7 +32,6 @@ public class BoosterShopController : MonoBehaviour
         boosterCarouselUI.Initialize(allBoosters, setDatabase, OnBoosterOpenRequested);
     }
 
-
     private void OnBoosterOpenRequested(BoosterPackSO selectedBooster)
     {
         //Open a booster
@@ -41,9 +40,18 @@ public class BoosterShopController : MonoBehaviour
         //Add card to the collection json
         foreach (var card in openedCards)
         {
+            //Add the card
             CollectionManager.Instance.Add(card.CardId);
-        }
 
+            //Check the Set Progress
+            string setId = setDatabase.GetSetIdFromCardId(card.CardId);
+            if (!SetProgressManager.Instance.IsUncovered(setId))
+            {
+                SetProgressManager.Instance.MarkUncovered(setId);
+                SetSO set = setDatabase.GetSetById(setId);
+                BookShelfUI.Instance.AddBinderToShelf(set);
+            }
+        }
         //Tell to the UI
         openedCardsUI.ShowOpenedCards(openedCards);
     }

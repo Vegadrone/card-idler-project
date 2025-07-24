@@ -5,6 +5,7 @@ public class GameInitializer : MonoBehaviour
     private void Awake()
     {
         Debug.Log($"[GameInitializer - Awake] Bootstrapping systems...");
-        var init = CollectionManager.Instance;
+        var initCollection = CollectionManager.Instance;
+        var initSetProgress = SetProgressManager.Instance;
     }
 }

@@ -8,15 +8,14 @@ public class SetSO : ScriptableObject
     [SerializeField] private string setId;
     public string SetId => setId;
 
-    
     [SerializeField] private string setName;
     public string SetName => setName;
 
     [SerializeField] private List<CardSO> cardsInSet;
     public List<CardSO> CardsInSet => cardsInSet;
 
-    [SerializeField] bool isAvailable;
-    public bool IsAvailable => isAvailable;
+    [SerializeField] private Sprite binderSpineImage;
+
 
     private void OnValidate()
     {
@@ -41,7 +40,7 @@ public class SetSO : ScriptableObject
             SetId = this.setId,
             SetName = this.setName,
             CardsInSetIds = cardsInSet.Select(card => card.CardId).ToList(), //Prende ogni carta del set, ne prende l'id e lo mette in una lista
-            IsAvailable = this.isAvailable,
+            BinderSpineImage = binderSpineImage ? binderSpineImage.name : "",
         };
     }
 
