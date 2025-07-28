@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13a17ae75d7c75947bcedc5a42e5c588, type: 3}
   m_Name: Dinosaur_3
   m_EditorClassIdentifier: 
-  cardId: dinosaur_0
+  cardId: dinosaur_3
   slotInBinderPos: 0
   cardName: Dinosaur 0
   cardRarity: common
