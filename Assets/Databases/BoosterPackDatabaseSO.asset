@@ -15,3 +15,4 @@ MonoBehaviour:
   boosterPackSOInDatabase:
   - {fileID: 11400000, guid: 5ba4778336be3104b86f2299b6ae3248, type: 2}
   - {fileID: 11400000, guid: a40eec2fbfed67f46b696a36f912e4f6, type: 2}
+  - {fileID: 11400000, guid: 410be607c4b5a404cbcfda245f4d5292, type: 2}

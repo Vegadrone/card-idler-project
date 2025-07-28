@@ -1,7 +1,5 @@
 using UnityEngine;
 using System.Collections.Generic;
-using System.Reflection;
-using System;
 
 public class BookShelfUI : MonoBehaviour
 {
@@ -10,6 +8,7 @@ public class BookShelfUI : MonoBehaviour
     [SerializeField] private Transform shelfParent;
     [SerializeField] private GameObject BinderSpinePrefab;
     [SerializeField] private SetDatabaseSO setDatabase;
+    [SerializeField] private List<Transform> spinesSlots;
 
     private Dictionary<string, BinderSpineUI> binderSpines = new Dictionary<string, BinderSpineUI>();
 
@@ -43,7 +42,15 @@ public class BookShelfUI : MonoBehaviour
     {
         if (binderSpines.ContainsKey(set.SetId)) return;
 
-        GameObject binderObject = Instantiate(BinderSpinePrefab, shelfParent);
+        int slotIndex  = binderSpines.Count;
+        if (slotIndex >= spinesSlots.Count)
+        {
+            Debug.LogWarning("No more slots available");
+            return;
+        }
+
+        GameObject binderObject = Instantiate(BinderSpinePrefab, spinesSlots[slotIndex]);
+
         BinderSpineUI binderUI = binderObject.GetComponent<BinderSpineUI>();
         binderUI.Init(set);
 

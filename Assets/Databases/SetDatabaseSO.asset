@@ -15,3 +15,4 @@ MonoBehaviour:
   setsSOInDatabase:
   - {fileID: 11400000, guid: 6a5e59aa4c026b34d8b88478f7952e83, type: 2}
   - {fileID: 11400000, guid: d62e142a095a8b544acad7744d1e2f1b, type: 2}
+  - {fileID: 11400000, guid: e561f0149d9c4794f9012d4857410581, type: 2}
