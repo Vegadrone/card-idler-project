@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -9,6 +10,8 @@ public class BinderSpineUI : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
     [SerializeField] private float hoverOffset = 10f;
     [SerializeField] private float hoverSpeed = 5f;
 
+    public event Action<SetSO> OnClick;
+
     private Vector2 originalPosition;
     private RectTransform rectTransform;
     private bool isHovering = false;
@@ -19,11 +22,6 @@ public class BinderSpineUI : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
         currentSet = set;
         rectTransform = GetComponent<RectTransform>();
         originalPosition = rectTransform.anchoredPosition;
-
-        // if (set.BinderSpineImage != null)
-        // {
-        //     spineImage.sprite = set.BinderSpineImage;
-        // }
     }
 
     private void Update()
@@ -45,7 +43,7 @@ public class BinderSpineUI : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        Debug.Log($"[BinderSpineUI] - Clicked binder for {currentSet.name}");
+        OnClick?.Invoke(currentSet);
     }
 }
 

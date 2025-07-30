@@ -23,7 +23,7 @@ MonoBehaviour:
   cardFrame: {fileID: 21300000, guid: e0e0ec79dda4b1544a48d509bcca20e4, type: 3}
   cardP2: {fileID: 21300000, guid: 1218eecb1ad26a846b02a8cf37e9dcde, type: 3}
   cardBg: {fileID: 21300000, guid: 057226b975266994bb1067141f7e43d5, type: 3}
-  cardP1Mat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
-  cardFrameMat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
-  cardP2Mat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
-  cardBgMat: {fileID: 2100000, guid: 0edab3d8c46b48a4f9ccf10082af2df5, type: 2}
+  cardP1Mat: {fileID: 2100000, guid: 671402b86fc311143b7eea4c98ecd853, type: 2}
+  cardFrameMat: {fileID: 2100000, guid: 671402b86fc311143b7eea4c98ecd853, type: 2}
+  cardP2Mat: {fileID: 2100000, guid: 671402b86fc311143b7eea4c98ecd853, type: 2}
+  cardBgMat: {fileID: 2100000, guid: 671402b86fc311143b7eea4c98ecd853, type: 2}
