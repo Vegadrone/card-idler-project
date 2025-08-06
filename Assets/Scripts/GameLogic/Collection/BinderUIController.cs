@@ -25,10 +25,10 @@ public class BinderUIController : MonoBehaviour
         foreach (CardSO card in set.CardsInSet)
         {
 
-            if (CollectionManager.Instance.GetCount(card.CardId) > 0)
-            {
-                setOwnedCard.Add(card);
-            }
+            int count = CollectionManager.Instance.GetCount(card.CardId);
+            Debug.Log($"[BinderUIController] Card: {card.CardId}, Count: {count}");
+
+            if (count > 0) setOwnedCard.Add(card);
         }
         return setOwnedCard;
     }

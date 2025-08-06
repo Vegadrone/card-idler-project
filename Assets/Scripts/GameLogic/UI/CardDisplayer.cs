@@ -12,6 +12,43 @@ public class CardDisplayer : MonoBehaviour
 
     public async void DisplayCard(CardData data, AssetsLoader assetsLoader)
     {
+        if (data == null)
+        {
+            Debug.LogError("[CardDisplayer - DisplayCard] CardData is null!");
+            return;
+        }
+
+        if (assetsLoader == null)
+        {
+            Debug.LogError("[CardDisplayer - DisplayCard] AssetsLoader is null!");
+            return;
+        }
+
+        if (string.IsNullOrEmpty(data.CardP1Path))
+        {
+            Debug.LogError("[CardDisplayer - DisplayCard] CardP1Path is null or empty!");
+            return;
+        }
+
+        if (string.IsNullOrEmpty(data.CardFramePath))
+        {
+            Debug.LogError("[CardDisplayer - DisplayCard] CardFramePath is null or empty!");
+            return;
+        }
+    
+        if (string.IsNullOrEmpty(data.CardP2Path))
+        {
+            Debug.LogError("[CardDisplayer - DisplayCard] CardP2Path is null or empty!");
+            return;
+        }
+    
+        if (string.IsNullOrEmpty(data.CardBgPath))
+        {
+            Debug.LogError("[CardDisplayer - DisplayCard] CardBgPath is null or empty!");
+            return;
+        }
+    
+    
         Sprite loadedP1Sprite = await assetsLoader.LoadSpriteAsync(data.CardP1Path);
         Sprite loadedFrameSprite = await assetsLoader.LoadSpriteAsync(data.CardFramePath);
         Sprite loadedP2Sprite = await assetsLoader.LoadSpriteAsync(data.CardP2Path);
@@ -59,7 +96,7 @@ public class CardDisplayer : MonoBehaviour
         if (target == null)
         {
             Debug.LogError($"{name} Image component is not assigned!");
-             return;
+            return;
         }
         if (material != null)
         {

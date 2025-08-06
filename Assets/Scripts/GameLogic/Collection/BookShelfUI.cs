@@ -9,6 +9,8 @@ public class BookShelfUI : MonoBehaviour
     [SerializeField] private GameObject BinderSpinePrefab;
     [SerializeField] private SetDatabaseSO setDatabase;
     [SerializeField] private List<Transform> spinesSlots;
+    [SerializeField] private BinderUIController binderUIController;
+    [SerializeField] private BinderUI binderUI;
 
     private Dictionary<string, BinderSpineUI> binderSpines = new Dictionary<string, BinderSpineUI>();
 
@@ -45,15 +47,23 @@ public class BookShelfUI : MonoBehaviour
         int slotIndex  = binderSpines.Count;
         if (slotIndex >= spinesSlots.Count)
         {
-            Debug.LogWarning("No more slots available");
+            Debug.LogWarning("[BookShelfUI - AddBinderToShelf]No more slots available");
             return;
         }
 
         GameObject binderObject = Instantiate(BinderSpinePrefab, spinesSlots[slotIndex]);
 
-        BinderSpineUI binderUI = binderObject.GetComponent<BinderSpineUI>();
-        binderUI.Init(set);
+        BinderSpineUI binderUIComponent = binderObject.GetComponent<BinderSpineUI>();
+        binderUIComponent.Init(set);
 
-        binderSpines[set.SetId] = binderUI;
+        binderUIComponent.OnClick += (clickedSet) =>
+        {
+            binderUI.BinderSlotInit();
+            var ownedCards = binderUIController.GetOwnedCardInSet(clickedSet);
+            binderUI.DisplayCards(ownedCards);
+            binderUIController.Open();
+        };
+    
+        binderSpines[set.SetId] = binderUIComponent;
     }
 }

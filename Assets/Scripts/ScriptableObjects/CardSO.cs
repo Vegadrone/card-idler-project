@@ -7,6 +7,7 @@ public class CardSO : ScriptableObject
     [SerializeField] private string cardId;
     public string CardId => cardId;
     [SerializeField] private string slotInBinderPos;
+    public string SlotInBinderPos => slotInBinderPos;
     [SerializeField] private string cardName;
     public string CardName => cardName;
     [SerializeField] private string cardRarity;

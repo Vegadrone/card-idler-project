@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13a17ae75d7c75947bcedc5a42e5c588, type: 3}
-  m_Name: CardSO
+  m_Name: CardSO 0
   m_EditorClassIdentifier: 
   cardId: cthulu_set2_0
   slotInBinderPos: 0

@@ -43,6 +43,7 @@ public class BinderSpineUI : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
 
     public void OnPointerClick(PointerEventData eventData)
     {
+        Debug.Log($"[BinderSpineUI - OnPointerClick] Clicked spine for set: {currentSet?.SetId}");
         OnClick?.Invoke(currentSet);
     }
 }

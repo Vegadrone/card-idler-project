@@ -13,16 +13,16 @@ MonoBehaviour:
   m_Name: Dinosaur_6
   m_EditorClassIdentifier: 
   cardId: dinosaur_6
-  slotInBinderPos: 0
+  slotInBinderPos: 6
   cardName: Dinosaur 0
   cardRarity: common
   cardFlavourText: asdsdsadd
   cardPerDayIncome: 1000
   cardSellValue: 1000
-  cardP1: {fileID: 0}
-  cardFrame: {fileID: 0}
-  cardP2: {fileID: 0}
-  cardBg: {fileID: 0}
+  cardP1: {fileID: 21300000, guid: 0d3f1d08f9dfbef4590ba57bb138ed60, type: 3}
+  cardFrame: {fileID: 21300000, guid: 0d3f1d08f9dfbef4590ba57bb138ed60, type: 3}
+  cardP2: {fileID: 21300000, guid: 0d3f1d08f9dfbef4590ba57bb138ed60, type: 3}
+  cardBg: {fileID: 21300000, guid: 0d3f1d08f9dfbef4590ba57bb138ed60, type: 3}
   cardP1Mat: {fileID: 0}
   cardFrameMat: {fileID: 0}
   cardP2Mat: {fileID: 0}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: CardSO 1
   m_EditorClassIdentifier: 
   cardId: cthulu_set2_1
-  slotInBinderPos: 0
+  slotInBinderPos: 1
   cardName: Chtulu Set2 1
   cardRarity: common
   cardFlavourText: "Pippiripipp\xEC"
