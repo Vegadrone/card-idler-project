@@ -50,6 +50,11 @@ public class BinderUI : MonoBehaviour
 
     public void DisplayCards(List<CardSO> cards)
     {
+        foreach (var slot in slotMap.Values)
+        {
+            slot.ClearCardSlot();
+        }
+
         Debug.Log($"[BinderUI - Display Cards] Displaying {cards.Count} cards");
         foreach (CardSO card in cards)
         {

@@ -20,7 +20,7 @@ public class BinderSlot : MonoBehaviour
 
         currentCardInstance = Object.Instantiate(cardPrefab, cardAnchor != null ? cardAnchor : transform);
         Debug.Log($"[BinderSlot - SetCard] Instantiated card prefab for {card.CardId}");
-        
+
         var displayer = currentCardInstance.GetComponent<CardDisplayer>();
         if (displayer != null)
         {
@@ -29,6 +29,15 @@ public class BinderSlot : MonoBehaviour
         else
         {
             Debug.LogWarning($"[BinderSlot - SetCard] - No CardDisplayer on instantiated card prefab for {card.CardId}");
+        }
+    }
+    
+    public void ClearCardSlot()
+    {
+        if (currentCardInstance != null)
+        {
+            Destroy(currentCardInstance);
+            currentCardInstance = null;
         }
     }
 }
