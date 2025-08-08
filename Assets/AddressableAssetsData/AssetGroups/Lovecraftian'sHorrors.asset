@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Lovecraftian'sHorrors
+  m_EditorClassIdentifier: 
+  m_GroupName: Lovecraftian'sHorrors
+  m_GUID: bbbc6d13f7fce4e4588da9bd01edfad2
+  m_SerializeEntries:
+  - m_GUID: 062507f6d0360314daacb4912c1da8bd
+    m_Address: Shader Graphs_TCOOS_BG_Shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1103f1cc085958e49aa3c570650b23e4
+    m_Address: ColourSpace_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36782f8aabf8d7849953c82013e81bea
+    m_Address: Shader Graphs_TCOOS_Frame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cb60479998c1d14da217f2a30dc1837
+    m_Address: ColourSpace_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7febe43a7b3df4a469c948912406bc6f
+    m_Address: ColourSpace_Frame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd16c6b26c83965459dafcfebc815a0e
+    m_Address: ColourSpace_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: def534ccdc0e45840a08421474178402
+    m_Address: Shader Graphs_TCOOS_P1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5556ab6069da2649a47d716ea0085ad
+    m_Address: Shader Graphs_TCOOS_P2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 89d5390db1cc54547928797b58971c32, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c3aabeb7e0296c14ea183f445d4ad8dc, type: 2}
+    - {fileID: 11400000, guid: 51c25ff210d603a48879fec4c26b8f7e, type: 2}

@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 1218eecb1ad26a846b02a8cf37e9dcde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2284149197101722609
+    second: Chtulhu-P2_0
+  - first:
+      213: 789502898423867765
+    second: Chtulhu-P2_1
+  - first:
+      213: 2861059019865339763
+    second: Chtulhu-P2_2
+  - first:
+      213: -5143662187502386404
+    second: Chtulhu-P2_3
+  - first:
+      213: -1266424972554940435
+    second: Chtulhu-P2_4
+  - first:
+      213: -6219318515402969732
+    second: Chtulhu-P2_5
+  - first:
+      213: -5659473618139088564
+    second: Chtulhu-P2_6
+  - first:
+      213: 4389659815360924071
+    second: Chtulhu-P2_7
+  - first:
+      213: -3422997822130612268
+    second: Chtulhu-P2_8
+  - first:
+      213: -47938935890851229
+    second: Chtulhu-P2_9
+  - first:
+      213: -642015787567691740
+    second: Chtulhu-P2_10
+  - first:
+      213: -6955979339083996618
+    second: Chtulhu-P2_11
+  - first:
+      213: -1655421284724546513
+    second: Chtulhu-P2_12
+  - first:
+      213: -2932229146137627592
+    second: Chtulhu-P2_13
+  - first:
+      213: -8634539545417420484
+    second: Chtulhu-P2_14
+  - first:
+      213: -7018434695544582279
+    second: Chtulhu-P2_15
+  - first:
+      213: -396015852352468072
+    second: Chtulhu-P2_16
+  - first:
+      213: -7859392906547564518
+    second: Chtulhu-P2_17
+  - first:
+      213: -4351190498488790270
+    second: Chtulhu-P2_18
+  - first:
+      213: 5711150036639769267
+    second: Chtulhu-P2_19
+  - first:
+      213: 4962912009719692373
+    second: Chtulhu-P2_20
+  - first:
+      213: -2767673720131600031
+    second: Chtulhu-P2_21
+  - first:
+      213: 1948015832925830471
+    second: Chtulhu-P2_22
+  - first:
+      213: -7117703648847992644
+    second: Chtulhu-P2_23
+  - first:
+      213: -749444257698845247
+    second: Chtulhu-P2_24
+  - first:
+      213: -1854880521461057840
+    second: Chtulhu-P2_25
+  - first:
+      213: 2627471575667372468
+    second: Chtulhu-P2_26
+  - first:
+      213: 4100428773344047569
+    second: Chtulhu-P2_27
+  - first:
+      213: -2005925726371463211
+    second: Chtulhu-P2_28
+  - first:
+      213: 4091243498537180007
+    second: Chtulhu-P2_29
+  - first:
+      213: 7570694720645669927
+    second: Chtulhu-P2_30
+  - first:
+      213: -4859244855475243315
+    second: Chtulhu-P2_31
+  - first:
+      213: -2961939832347696653
+    second: Chtulhu-P2_32
+  - first:
+      213: 8842921033951084614
+    second: Chtulhu-P2_33
+  - first:
+      213: -6483067041025587303
+    second: Chtulhu-P2_34
+  - first:
+      213: -5450191925532839477
+    second: Chtulhu-P2_35
+  - first:
+      213: 6413478258901189411
+    second: Chtulhu-P2_36
+  - first:
+      213: 7879667888069254703
+    second: Chtulhu-P2_37
+  - first:
+      213: -2368279329581356739
+    second: Chtulhu-P2_38
+  - first:
+      213: -6714826183857084153
+    second: Chtulhu-P2_39
+  - first:
+      213: 762652344421633560
+    second: Chtulhu-P2_40
+  - first:
+      213: -1830203353006938073
+    second: Chtulhu-P2_41
+  - first:
+      213: -5454480593689654212
+    second: Chtulhu-P2_42
+  - first:
+      213: 1978760819664456891
+    second: Chtulhu-P2_43
+  - first:
+      213: -750527461611792446
+    second: Chtulhu-P2_44
+  - first:
+      213: -3701067150245615585
+    second: Chtulhu-P2_45
+  - first:
+      213: 7934857670059270768
+    second: Chtulhu-P2_46
+  - first:
+      213: -2974551124025278559
+    second: Chtulhu-P2_47
+  - first:
+      213: -6589397446198018869
+    second: Chtulhu-P2_48
+  - first:
+      213: -5758975739495871169
+    second: Chtulhu-P2_49
+  - first:
+      213: -7137641495123707236
+    second: Chtulhu-P2_50
+  - first:
+      213: 4163531308749675508
+    second: Chtulhu-P2_51
+  - first:
+      213: -3087592277595495265
+    second: Chtulhu-P2_52
+  - first:
+      213: 5535272188884277189
+    second: Chtulhu-P2_53
+  - first:
+      213: -8725601487714430600
+    second: Chtulhu-P2_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chtulhu-P2_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1451
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0412cc38621d40e0800000000000000
+      internalID: -2284149197101722609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1111
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57922b104b0e4fa00800000000000000
+      internalID: 789502898423867765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1154
+        width: 155
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3773080250684b720800000000000000
+      internalID: 2861059019865339763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1202
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13cf452e7a0e98b0800000000000000
+      internalID: -5143662187502386404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1201
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defcd208231cc6ee0800000000000000
+      internalID: -1266424972554940435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1046
+        width: 200
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d6568f2ca80b9a0800000000000000
+      internalID: -6219318515402969732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_6
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1148
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49ff1fbab28571b0800000000000000
+      internalID: -5659473618139088564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_7
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1169
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9056b38543bec30800000000000000
+      internalID: 4389659815360924071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_8
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1199
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d718f8dd911f70d0800000000000000
+      internalID: -3422997822130612268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 881
+        width: 301
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ac053bacfa55ff0800000000000000
+      internalID: -47938935890851229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1171
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428c5d1fa0a1717f0800000000000000
+      internalID: -642015787567691740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1090
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63221fc35a5677f90800000000000000
+      internalID: -6955979339083996618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_12
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 918
+        width: 288
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f246f52cc13c609e0800000000000000
+      internalID: -1655421284724546513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1058
+        width: 91
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347b609021ae47d0800000000000000
+      internalID: -2932229146137627592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1103
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31f45cf704fb2880800000000000000
+      internalID: -8634539545417420484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1057
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fc9c464d2899e90800000000000000
+      internalID: -7018434695544582279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 859
+        width: 92
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b8b133ea1118af0800000000000000
+      internalID: -396015852352468072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_17
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 977
+        width: 67
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10f107dac3dde290800000000000000
+      internalID: -7859392906547564518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1037
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20355839b477d93c0800000000000000
+      internalID: -4351190498488790270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_19
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1014
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b26fd803b4124f40800000000000000
+      internalID: 5711150036639769267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 870
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cbcde9d2ecfd440800000000000000
+      internalID: 4962912009719692373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 914
+        width: 143
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1614f515a6f3799d0800000000000000
+      internalID: -2767673720131600031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 948
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d716a341eb80b10800000000000000
+      internalID: 1948015832925830471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 932
+        width: 64
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8e9e91e36d83d90800000000000000
+      internalID: -7117703648847992644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 920
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd67e81b607995f0800000000000000
+      internalID: -749444257698845247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 951
+        width: 29
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6b5894ef32246e0800000000000000
+      internalID: -1854880521461057840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_26
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 929
+        width: 56
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1f6152a77a67420800000000000000
+      internalID: 2627471575667372468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_27
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 928
+        width: 34
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d176fd8e36a7e830800000000000000
+      internalID: 4100428773344047569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_28
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 928
+        width: 80
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfbfc10e258924e0800000000000000
+      internalID: -2005925726371463211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 921
+        width: 133
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b5feb194407c830800000000000000
+      internalID: 4091243498537180007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_30
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 872
+        width: 30
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724a207bcb2801960800000000000000
+      internalID: 7570694720645669927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_31
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 886
+        width: 82
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6f0c0ac8e709cb0800000000000000
+      internalID: -4859244855475243315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_32
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 870
+        width: 126
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1e5de5a6315e6d0800000000000000
+      internalID: -2961939832347696653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 869
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6400c7d14dd58ba70800000000000000
+      internalID: 8842921033951084614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 864
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99780acffd48706a0800000000000000
+      internalID: -6483067041025587303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 910
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1b9e0f1570d54b0800000000000000
+      internalID: -5450191925532839477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_36
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 882
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3230f741f70410950800000000000000
+      internalID: 6413478258901189411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_37
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 877
+        width: 11
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e9b6822343a5d60800000000000000
+      internalID: 7879667888069254703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_38
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 853
+        width: 104
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3927675f7e222fd0800000000000000
+      internalID: -2368279329581356739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_39
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 859
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709e4b6992520d2a0800000000000000
+      internalID: -6714826183857084153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_40
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 862
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ece5c344c759a00800000000000000
+      internalID: 762652344421633560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_41
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 877
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728ea4d4fbfc996e0800000000000000
+      internalID: -1830203353006938073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ccdd29ccacd44b0800000000000000
+      internalID: -5454480593689654212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_43
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 858
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc8f874b78f57b10800000000000000
+      internalID: 1978760819664456891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_44
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 864
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7147800479595f0800000000000000
+      internalID: -750527461611792446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_45
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 860
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f182eb3390b23acc0800000000000000
+      internalID: -3701067150245615585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_46
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 647
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072aa2f92074e1e60800000000000000
+      internalID: 7934857670059270768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_47
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 630
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1affb36338548b6d0800000000000000
+      internalID: -2974551124025278559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 99
+        width: 544
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc308f4fe1cd84a0800000000000000
+      internalID: -6589397446198018869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 511
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d8149c3120410b0800000000000000
+      internalID: -5758975739495871169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 431
+        width: 121
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a301580e002fc90800000000000000
+      internalID: -7137641495123707236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_51
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 502
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbdd3d7aa5d7c930800000000000000
+      internalID: 4163531308749675508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_52
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 485
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f946eaaae2ba625d0800000000000000
+      internalID: -3087592277595495265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_53
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 307
+        width: 126
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7db898abc31dc40800000000000000
+      internalID: 5535272188884277189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chtulhu-P2_54
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 90
+        width: 80
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87159295daf68e680800000000000000
+      internalID: -8725601487714430600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chtulhu-P2_0: -2284149197101722609
+      Chtulhu-P2_1: 789502898423867765
+      Chtulhu-P2_10: -642015787567691740
+      Chtulhu-P2_11: -6955979339083996618
+      Chtulhu-P2_12: -1655421284724546513
+      Chtulhu-P2_13: -2932229146137627592
+      Chtulhu-P2_14: -8634539545417420484
+      Chtulhu-P2_15: -7018434695544582279
+      Chtulhu-P2_16: -396015852352468072
+      Chtulhu-P2_17: -7859392906547564518
+      Chtulhu-P2_18: -4351190498488790270
+      Chtulhu-P2_19: 5711150036639769267
+      Chtulhu-P2_2: 2861059019865339763
+      Chtulhu-P2_20: 4962912009719692373
+      Chtulhu-P2_21: -2767673720131600031
+      Chtulhu-P2_22: 1948015832925830471
+      Chtulhu-P2_23: -7117703648847992644
+      Chtulhu-P2_24: -749444257698845247
+      Chtulhu-P2_25: -1854880521461057840
+      Chtulhu-P2_26: 2627471575667372468
+      Chtulhu-P2_27: 4100428773344047569
+      Chtulhu-P2_28: -2005925726371463211
+      Chtulhu-P2_29: 4091243498537180007
+      Chtulhu-P2_3: -5143662187502386404
+      Chtulhu-P2_30: 7570694720645669927
+      Chtulhu-P2_31: -4859244855475243315
+      Chtulhu-P2_32: -2961939832347696653
+      Chtulhu-P2_33: 8842921033951084614
+      Chtulhu-P2_34: -6483067041025587303
+      Chtulhu-P2_35: -5450191925532839477
+      Chtulhu-P2_36: 6413478258901189411
+      Chtulhu-P2_37: 7879667888069254703
+      Chtulhu-P2_38: -2368279329581356739
+      Chtulhu-P2_39: -6714826183857084153
+      Chtulhu-P2_4: -1266424972554940435
+      Chtulhu-P2_40: 762652344421633560
+      Chtulhu-P2_41: -1830203353006938073
+      Chtulhu-P2_42: -5454480593689654212
+      Chtulhu-P2_43: 1978760819664456891
+      Chtulhu-P2_44: -750527461611792446
+      Chtulhu-P2_45: -3701067150245615585
+      Chtulhu-P2_46: 7934857670059270768
+      Chtulhu-P2_47: -2974551124025278559
+      Chtulhu-P2_48: -6589397446198018869
+      Chtulhu-P2_49: -5758975739495871169
+      Chtulhu-P2_5: -6219318515402969732
+      Chtulhu-P2_50: -7137641495123707236
+      Chtulhu-P2_51: 4163531308749675508
+      Chtulhu-P2_52: -3087592277595495265
+      Chtulhu-P2_53: 5535272188884277189
+      Chtulhu-P2_54: -8725601487714430600
+      Chtulhu-P2_6: -5659473618139088564
+      Chtulhu-P2_7: 4389659815360924071
+      Chtulhu-P2_8: -3422997822130612268
+      Chtulhu-P2_9: -47938935890851229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,4 +8,9 @@ public class GameInitializer : MonoBehaviour
         var initCollection = CollectionManager.Instance;
         var initSetProgress = SetProgressManager.Instance;
     }
+
+    private void Start()
+    {
+        Application.runInBackground = true;
+    }
 }

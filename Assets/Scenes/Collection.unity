@@ -377,6 +377,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 10
   cardAnchor: {fileID: 124879634}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &212675475
 GameObject:
   m_ObjectHideFlags: 0
@@ -467,6 +469,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 8
   cardAnchor: {fileID: 212675476}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &332472130
 GameObject:
   m_ObjectHideFlags: 0
@@ -917,6 +921,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 7
   cardAnchor: {fileID: 660142373}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &690085192
 GameObject:
   m_ObjectHideFlags: 0
@@ -1007,6 +1013,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 0
   cardAnchor: {fileID: 690085193}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &750428117
 GameObject:
   m_ObjectHideFlags: 0
@@ -1097,6 +1105,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 6
   cardAnchor: {fileID: 750428118}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &761449242
 GameObject:
   m_ObjectHideFlags: 0
@@ -1222,6 +1232,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 11
   cardAnchor: {fileID: 812869056}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &819124080
 GameObject:
   m_ObjectHideFlags: 0
@@ -1364,6 +1376,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 3
   cardAnchor: {fileID: 849529247}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1001 &858180418
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1747,6 +1761,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 5
   cardAnchor: {fileID: 935845858}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1135113506
 GameObject:
   m_ObjectHideFlags: 0
@@ -1837,6 +1853,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 16
   cardAnchor: {fileID: 1135113507}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1135565389
 GameObject:
   m_ObjectHideFlags: 0
@@ -1927,6 +1945,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 1
   cardAnchor: {fileID: 1135565390}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1137341508
 GameObject:
   m_ObjectHideFlags: 0
@@ -2220,6 +2240,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 14
   cardAnchor: {fileID: 1155431798}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1210367509
 GameObject:
   m_ObjectHideFlags: 0
@@ -2420,6 +2442,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 2
   cardAnchor: {fileID: 1251916841}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1321932250
 GameObject:
   m_ObjectHideFlags: 0
@@ -2545,6 +2569,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 4
   cardAnchor: {fileID: 1389599546}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1404237563
 GameObject:
   m_ObjectHideFlags: 0
@@ -2635,6 +2661,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 15
   cardAnchor: {fileID: 1404237564}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1445964765
 GameObject:
   m_ObjectHideFlags: 0
@@ -2968,6 +2996,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 9
   cardAnchor: {fileID: 1786655505}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1812695761
 GameObject:
   m_ObjectHideFlags: 0
@@ -3058,6 +3088,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 17
   cardAnchor: {fileID: 1812695762}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1906119426
 GameObject:
   m_ObjectHideFlags: 0
@@ -3183,6 +3215,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 12
   cardAnchor: {fileID: 1949450477}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1957902909
 GameObject:
   m_ObjectHideFlags: 0
@@ -3273,6 +3307,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slotNumber: 13
   cardAnchor: {fileID: 1957902910}
+  quantityBadgeGO: {fileID: 0}
+  quantityText: {fileID: 0}
 --- !u!1 &1967795458
 GameObject:
   m_ObjectHideFlags: 0
@@ -3672,7 +3708,8 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -108.00599
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2761515644384484471, guid: a92c98eb48667a54fb4b26acbf87757c, type: 3}
     m_RemovedGameObjects:
     - {fileID: 7848792969518403849, guid: a92c98eb48667a54fb4b26acbf87757c, type: 3}
     m_AddedGameObjects:

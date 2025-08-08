@@ -1,9 +1,11 @@
+using TMPro;
 using UnityEngine;
 
 public class BinderSlot : MonoBehaviour
 {
     public string slotNumber;
     private GameObject currentCardInstance;
+    private GameObject quantityBadge;
 
     [SerializeField] private Transform cardAnchor;
 
@@ -30,8 +32,10 @@ public class BinderSlot : MonoBehaviour
         {
             Debug.LogWarning($"[BinderSlot - SetCard] - No CardDisplayer on instantiated card prefab for {card.CardId}");
         }
+
+        UpdateQuantityBadge(card.CardId);
     }
-    
+
     public void ClearCardSlot()
     {
         if (currentCardInstance != null)
@@ -40,4 +44,27 @@ public class BinderSlot : MonoBehaviour
             currentCardInstance = null;
         }
     }
+        
+    public void UpdateQuantityBadge(string cardId)
+    {
+        if (currentCardInstance == null) return;
+
+        var quantityText = currentCardInstance.GetComponentInChildren<TextMeshProUGUI>(true);
+        quantityBadge = quantityText.transform.parent.gameObject;
+        if (quantityText != null)
+        {
+            int cardCount = CollectionManager.Instance.GetCount(cardId);
+            Debug.Log($"[BinderSlot - UpdateQuantityBadge] cardCount for {cardId} = {cardCount}");
+
+            if (cardCount > 1)
+            {
+                quantityBadge.SetActive(true);
+                quantityText.text = $"x{cardCount}";
+            }
+            else
+            {
+                quantityBadge.SetActive(false);
+            }
+        }
+    }     
 }
